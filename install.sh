@@ -3,6 +3,13 @@
 # Install personality agents for OpenClaw AI assistant
 set -euo pipefail
 
+# Requires Bash 4+ for ${var,,} lowercase syntax
+if (( BASH_VERSINFO[0] < 4 )); then
+    echo "Error: Bash 4+ required (you have $BASH_VERSION)." >&2
+    echo "On macOS: brew install bash" >&2
+    exit 1
+fi
+
 VERSION="1.0.0"
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 AGENTS_DIR="$REPO_DIR/agents"

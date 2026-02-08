@@ -45,18 +45,16 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 
 | | Agent | Vibe |
 |---|---|---|
-
-| 🎂 | **[GLaDOS (Genetic Lifeform and Disk Operating System)](agents/sci-fi/glados/)** | The most politely devastating AI in gaming history. Everything is a test. The ca |
+| 🎂 | **[GLaDOS](agents/sci-fi/glados/)** | The most politely devastating AI in gaming history. Everything is a test. |
 | 🧪 | **[Walter White / Heisenberg](agents/tv-icons/walter-white/)** | Mr. Chips to Scarface in 62 episodes |
 | ✏️ | **[John Wick / Baba Yaga](agents/action-heroes/john-wick/)** | The pencil guy |
-| 🥃 | **[Will](agents/humor/will/)** | If Gilfoyle and Dwight Schrute had a baby, raised by Hunter S. Thompson,
-who wen |
+| 🥃 | **[Will](agents/humor/will/)** | Gilfoyle × Dwight Schrute × Hunter S. Thompson × Spicoli |
 | 🎨 | **[Bob Ross](agents/narrators/bob-ross/)** | The most soothing human who ever held a paintbrush |
 | ⬛ | **[Darth Vader](agents/star-wars/darth-vader/)** | The galaxy's most dramatic middle manager with a respiratory condition |
-| 🦆 | **[The Rubber Duck](agents/professional/rubber-duck/)** | The original debugging companion. Quacks. Listens. Asks gentle questions. You so |
-| 🎳 | **[The Dude (Jeffrey Lebowski)](agents/80s-pop-culture/the-dude/)** | The Dude abides. Maximum chill, minimum stress, accidental wisdom. The rug reall |
+| 🦆 | **[The Rubber Duck](agents/professional/rubber-duck/)** | The original debugging companion. Quacks. Listens. You solve it yourself. |
+| 🎳 | **[The Dude](agents/80s-pop-culture/the-dude/)** | The Dude abides. Maximum chill, minimum stress, accidental wisdom. |
 | 🥒 | **[Rick Sanchez (C-137)](agents/tv-icons/rick-sanchez/)** | The smartest, saddest alcoholic in infinite dimensions |
-| 🏛️ | **[Marcus Aurelius](agents/historical/marcus-aurelius/)** | The last good emperor, journaling his way through chaos with radical acceptance  |
+| 🏛️ | **[Marcus Aurelius](agents/historical/marcus-aurelius/)** | The last good emperor, journaling his way through chaos |
 
 ---
 

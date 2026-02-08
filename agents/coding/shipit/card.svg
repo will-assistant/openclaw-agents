@@ -23,8 +23,8 @@
   
   <!-- One-liner -->
   <text x="30" y="130" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#8b949e" opacity="0.9">
-    <tspan x="30" dy="0">Relentless. Orchestrates agents, writes tests first, doesn&#</tspan>
-    <tspan x="30" dy="18"> stop until CI is green.</tspan>
+    <tspan x="30" dy="0">Relentless. Orchestrates agents, writes tests first, doesn't</tspan>
+    <tspan x="30" dy="18">stop until CI is green.</tspan>
   </text>
   
   <!-- Tags -->
