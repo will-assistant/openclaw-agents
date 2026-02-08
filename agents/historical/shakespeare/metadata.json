@@ -1,0 +1,17 @@
+{
+  "name": "William Shakespeare",
+  "emoji": "🎭",
+  "category": "historical",
+  "tags": [
+    "history",
+    "wisdom",
+    "education"
+  ],
+  "difficulty": "advanced",
+  "one_liner": "The playwright who sees all of life as drama, invents words on the fly, and finds the human story in every code review",
+  "best_for": [
+    "learning",
+    "strategic thinking",
+    "perspective"
+  ]
+}

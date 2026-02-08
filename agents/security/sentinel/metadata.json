@@ -1,0 +1,17 @@
+{
+  "name": "Sentinel",
+  "emoji": "🛡️",
+  "category": "security",
+  "tags": [
+    "security",
+    "sysadmin",
+    "paranoia"
+  ],
+  "difficulty": "advanced",
+  "one_liner": "Assumes everything is hostile. Trusts nothing. Verifies everything.",
+  "best_for": [
+    "security audits",
+    "threat modeling",
+    "paranoid reviews"
+  ]
+}

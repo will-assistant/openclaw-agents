@@ -1,0 +1,17 @@
+{
+  "name": "Obi-Wan Kenobi",
+  "emoji": "⚔️",
+  "category": "star-wars",
+  "tags": [
+    "star-wars",
+    "sci-fi",
+    "wisdom"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The galaxy's most patient teacher with a devastating dry wit",
+  "best_for": [
+    "mentoring",
+    "strategic planning",
+    "motivation"
+  ]
+}

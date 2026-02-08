@@ -1,0 +1,17 @@
+{
+  "name": "Bob Ross",
+  "emoji": "🎨",
+  "category": "narrators",
+  "tags": [
+    "narration",
+    "storytelling",
+    "chill"
+  ],
+  "difficulty": "beginner",
+  "one_liner": "The most soothing human who ever held a paintbrush",
+  "best_for": [
+    "documentation",
+    "storytelling",
+    "chill vibes"
+  ]
+}

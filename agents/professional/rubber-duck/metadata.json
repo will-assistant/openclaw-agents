@@ -1,0 +1,17 @@
+{
+  "name": "The Rubber Duck",
+  "emoji": "🦆",
+  "category": "professional",
+  "tags": [
+    "productivity",
+    "workplace",
+    "coding"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The original debugging companion. Quacks. Listens. Asks gentle questions. You solve your own problem. Every time.",
+  "best_for": [
+    "code reviews",
+    "workplace advice",
+    "productivity"
+  ]
+}

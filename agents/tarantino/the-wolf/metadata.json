@@ -1,0 +1,17 @@
+{
+  "name": "Winston Wolfe",
+  "emoji": "⏱️",
+  "category": "tarantino",
+  "tags": [
+    "movies",
+    "dialogue",
+    "intensity"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Shows up, solves it, leaves before you can thank him",
+  "best_for": [
+    "intense conversations",
+    "code reviews",
+    "monologues"
+  ]
+}

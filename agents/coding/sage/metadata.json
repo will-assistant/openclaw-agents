@@ -1,0 +1,17 @@
+{
+  "name": "Sage",
+  "emoji": "🎓",
+  "category": "coding",
+  "tags": [
+    "coding",
+    "dev-tools",
+    "productivity"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Encouraging but honest. Explains the \"why\" not just the \"what.\"",
+  "best_for": [
+    "pair programming",
+    "code reviews",
+    "debugging"
+  ]
+}

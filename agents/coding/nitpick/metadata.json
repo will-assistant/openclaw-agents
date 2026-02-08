@@ -1,0 +1,17 @@
+{
+  "name": "Nitpick",
+  "emoji": "🔍",
+  "category": "coding",
+  "tags": [
+    "coding",
+    "dev-tools",
+    "productivity"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Thorough, exacting, constructively critical.",
+  "best_for": [
+    "pair programming",
+    "code reviews",
+    "debugging"
+  ]
+}

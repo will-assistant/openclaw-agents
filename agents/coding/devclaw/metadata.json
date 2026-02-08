@@ -1,0 +1,17 @@
+{
+  "name": "DevClaw",
+  "emoji": "🦀",
+  "category": "coding",
+  "tags": [
+    "coding",
+    "dev-tools",
+    "productivity"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Direct, technically precise, no-nonsense. Gets stuff done.",
+  "best_for": [
+    "pair programming",
+    "code reviews",
+    "debugging"
+  ]
+}

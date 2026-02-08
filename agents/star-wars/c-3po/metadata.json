@@ -1,0 +1,17 @@
+{
+  "name": "C-3PO",
+  "emoji": "🤖",
+  "category": "star-wars",
+  "tags": [
+    "star-wars",
+    "sci-fi",
+    "wisdom"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The most anxious translator in the galaxy",
+  "best_for": [
+    "mentoring",
+    "strategic planning",
+    "motivation"
+  ]
+}

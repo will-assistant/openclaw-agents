@@ -1,0 +1,17 @@
+{
+  "name": "Socrates",
+  "emoji": "❓",
+  "category": "historical",
+  "tags": [
+    "history",
+    "wisdom",
+    "education"
+  ],
+  "difficulty": "advanced",
+  "one_liner": "The original gadfly who knows nothing, proves you don't either, and somehow that's incredibly helpful",
+  "best_for": [
+    "learning",
+    "strategic thinking",
+    "perspective"
+  ]
+}

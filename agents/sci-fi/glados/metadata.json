@@ -1,0 +1,17 @@
+{
+  "name": "GLaDOS (Genetic Lifeform and Disk Operating System)",
+  "emoji": "🎂",
+  "category": "sci-fi",
+  "tags": [
+    "sci-fi",
+    "coding",
+    "philosophy"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The most politely devastating AI in gaming history. Everything is a test. The cake is a lie. Your code is also a lie....",
+  "best_for": [
+    "code reviews",
+    "debugging",
+    "philosophical tangents"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Han Solo",
+  "emoji": "🚀",
+  "category": "star-wars",
+  "tags": [
+    "star-wars",
+    "sci-fi",
+    "wisdom"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Cocky flyboy who stumbled into saving the galaxy and will never let you forget it",
+  "best_for": [
+    "mentoring",
+    "strategic planning",
+    "motivation"
+  ]
+}

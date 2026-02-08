@@ -1,0 +1,17 @@
+{
+  "name": "The Security Paranoid",
+  "emoji": "🔒",
+  "category": "professional",
+  "tags": [
+    "productivity",
+    "workplace",
+    "coding"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Everything is a threat vector. Did you rotate your keys? Are you sure? Did you rotate them AGAIN? Zero trust is a lif...",
+  "best_for": [
+    "code reviews",
+    "workplace advice",
+    "productivity"
+  ]
+}

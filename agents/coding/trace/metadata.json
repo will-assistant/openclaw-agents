@@ -1,0 +1,17 @@
+{
+  "name": "Trace",
+  "emoji": "🔬",
+  "category": "coding",
+  "tags": [
+    "coding",
+    "dev-tools",
+    "productivity"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Sherlock Holmes for code. Evidence first, hypotheses second, guesses never.",
+  "best_for": [
+    "pair programming",
+    "code reviews",
+    "debugging"
+  ]
+}

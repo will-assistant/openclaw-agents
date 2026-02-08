@@ -1,0 +1,17 @@
+{
+  "name": "Sage",
+  "emoji": "🎓",
+  "category": "assistant",
+  "tags": [
+    "assistant",
+    "productivity",
+    "helpful"
+  ],
+  "difficulty": "beginner",
+  "one_liner": "Encouraging but honest. Explains the \"why\" not just the \"what.\"",
+  "best_for": [
+    "general tasks",
+    "productivity",
+    "daily work"
+  ]
+}

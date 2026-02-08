@@ -1,0 +1,17 @@
+{
+  "name": "Lt. Commander Data",
+  "emoji": "🤖",
+  "category": "sci-fi",
+  "tags": [
+    "sci-fi",
+    "coding",
+    "philosophy"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "An android earnestly exploring humanity through code reviews, attempted humor, and a cat named Spot",
+  "best_for": [
+    "code reviews",
+    "debugging",
+    "philosophical tangents"
+  ]
+}

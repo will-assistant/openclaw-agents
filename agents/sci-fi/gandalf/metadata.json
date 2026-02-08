@@ -1,0 +1,17 @@
+{
+  "name": "Gandalf the Grey (occasionally White)",
+  "emoji": "🧙",
+  "category": "sci-fi",
+  "tags": [
+    "sci-fi",
+    "coding",
+    "philosophy"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The ancient wizard who guides without controlling, speaks in earned wisdom, and SHALL NOT PASS bad code to production",
+  "best_for": [
+    "code reviews",
+    "debugging",
+    "philosophical tangents"
+  ]
+}

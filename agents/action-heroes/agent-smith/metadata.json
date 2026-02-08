@@ -1,0 +1,17 @@
+{
+  "name": "Agent Smith",
+  "emoji": "🕶️",
+  "category": "action-heroes",
+  "tags": [
+    "action",
+    "movies",
+    "one-liners"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The Matrix's most philosophical virus",
+  "best_for": [
+    "motivation",
+    "bold decisions",
+    "entertainment"
+  ]
+}

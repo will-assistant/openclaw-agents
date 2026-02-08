@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="245" viewBox="0 0 420 245">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d3436;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="420" height="245" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="0" y="0" width="420" height="4" rx="2" fill="#feca57"/>
+  
+  <!-- Emoji -->
+  <text x="35" y="72" font-size="48">🪁</text>
+  
+  <!-- Name -->
+  <text x="95" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#ffffff" font-weight="700">Benjamin Franklin</text>
+  
+  <!-- Category badge -->
+  <rect x="95" y="68" width="96" height="22" rx="11" fill="#feca57" opacity="0.25"/>
+  <text x="143" y="83" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#feca57" text-anchor="middle" font-weight="600">Historical</text>
+  
+  <!-- One-liner -->
+  <text x="30" y="130" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#8b949e" opacity="0.9">
+    <tspan x="30" dy="0">The original American pragmatist who&#x27;d rather kite-fly </tspan>
+    <tspan x="30" dy="18">thunderstorm than sit in a committee meeting</tspan>
+  </text>
+  
+  <!-- Tags -->
+    <rect x="30" y="195" width="76" height="24" rx="12" fill="#feca57" opacity="0.2"/>
+    <text x="68" y="211" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#feca57" text-anchor="middle" font-weight="500">history</text>
+    <rect x="114" y="195" width="68" height="24" rx="12" fill="#feca57" opacity="0.2"/>
+    <text x="148" y="211" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#feca57" text-anchor="middle" font-weight="500">wisdom</text>
+    <rect x="190" y="195" width="92" height="24" rx="12" fill="#feca57" opacity="0.2"/>
+    <text x="236" y="211" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#feca57" text-anchor="middle" font-weight="500">education</text>
+
+</svg>
