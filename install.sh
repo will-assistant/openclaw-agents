@@ -110,32 +110,34 @@ list_agents() {
     bold "📋 Available Agents (107)"
     echo ""
     
-    local current_cat=""
-    while IFS= read -r dir; do
-        local cat="$(basename "$(dirname "$dir")")"
-        local slug="$(basename "$dir")"
-        
-        if [[ "$cat" != "$current_cat" ]]; then
-            current_cat="$cat"
-            echo ""
-            echo -e "  ${M}━━━ ${W}${cat}${M} ━━━${N}"
-        fi
-        
-        local emoji="$(get_agent_meta "$dir" emoji)"
-        local name="$(get_agent_meta "$dir" name)"
-        local liner="$(get_agent_meta "$dir" one_liner)"
-        
-        [[ -z "$emoji" ]] && emoji="🤖"
-        [[ -z "$name" ]] && name="$slug"
-        [[ -z "$liner" ]] && liner=""
-        
-        # Truncate one-liner
-        if [[ ${#liner} -gt 50 ]]; then
-            liner="${liner:0:47}..."
-        fi
-        
-        printf "  %s %-24s ${D}%s${N}\n" "$emoji" "$name" "$liner"
-    done < <(find_agents)
+    # Batch-read all metadata in one python3 call for performance
+    python3 -c "
+import json, os, sys, glob
+agents_dir = '$AGENTS_DIR'
+entries = []
+for meta_path in sorted(glob.glob(os.path.join(agents_dir, '*', '*', 'metadata.json'))):
+    d = os.path.dirname(meta_path)
+    cat = os.path.basename(os.path.dirname(d))
+    slug = os.path.basename(d)
+    try:
+        m = json.load(open(meta_path))
+    except: m = {}
+    emoji = m.get('emoji', '🤖')
+    name = m.get('name', slug)
+    liner = m.get('one_liner', '')
+    if len(liner) > 50: liner = liner[:47] + '...'
+    print(f'{cat}\t{emoji}\t{name}\t{liner}')
+" 2>/dev/null | {
+        local current_cat=""
+        while IFS=$'\t' read -r cat emoji name liner; do
+            if [[ "$cat" != "$current_cat" ]]; then
+                current_cat="$cat"
+                echo ""
+                echo -e "  ${M}━━━ ${W}${cat}${M} ━━━${N}"
+            fi
+            printf "  %s %-24s ${D}%s${N}\n" "$emoji" "$name" "$liner"
+        done
+    }
     
     echo ""
     echo -e "  ${D}Install: ${G}./install.sh <agent-name>${N}"
@@ -150,32 +152,43 @@ search_agents() {
     bold "🔍 Search: '$1'"
     echo ""
     
-    local found=0
-    while IFS= read -r dir; do
-        local slug="$(basename "$dir")"
-        local cat="$(basename "$(dirname "$dir")")"
-        local name="$(get_agent_meta "$dir" name)"
-        local liner="$(get_agent_meta "$dir" one_liner)"
-        local emoji="$(get_agent_meta "$dir" emoji)"
-        local tags="$(get_agent_meta "$dir" tags)"
-        
-        [[ -z "$name" ]] && name="$slug"
-        [[ -z "$emoji" ]] && emoji="🤖"
-        
-        local searchable="${slug,,} ${cat,,} ${name,,} ${liner,,} ${tags,,}"
-        
-        if [[ "$searchable" == *"$query"* ]]; then
+    # Batch search in one python3 call for performance
+    local results
+    results="$(python3 -c "
+import json, os, glob
+query = '''$query'''.lower()
+agents_dir = '$AGENTS_DIR'
+found = 0
+for meta_path in sorted(glob.glob(os.path.join(agents_dir, '*', '*', 'metadata.json'))):
+    d = os.path.dirname(meta_path)
+    cat = os.path.basename(os.path.dirname(d))
+    slug = os.path.basename(d)
+    try:
+        m = json.load(open(meta_path))
+    except: m = {}
+    name = m.get('name', slug)
+    emoji = m.get('emoji', '🤖')
+    liner = m.get('one_liner', '')
+    tags = ' '.join(m.get('tags', [])) if isinstance(m.get('tags'), list) else str(m.get('tags', ''))
+    searchable = f'{slug} {cat} {name} {liner} {tags}'.lower()
+    if query in searchable:
+        print(f'{emoji}\t{name}\t{cat}\t{liner}')
+        found += 1
+if found == 0:
+    print('__NONE__')
+" 2>/dev/null)"
+    
+    if [[ "$results" == "__NONE__" ]]; then
+        warn "No agents found matching '$1'"
+    else
+        local count=0
+        while IFS=$'\t' read -r emoji name cat liner; do
             printf "  %s ${W}%-24s${N} ${D}(%s)${N}\n" "$emoji" "$name" "$cat"
             [[ -n "$liner" ]] && echo -e "    ${D}$liner${N}"
             echo ""
-            found=$((found + 1))
-        fi
-    done < <(find_agents)
-    
-    if [[ $found -eq 0 ]]; then
-        warn "No agents found matching '$1'"
-    else
-        ok "Found $found agent(s)"
+            count=$((count + 1))
+        done <<< "$results"
+        ok "Found $count agent(s)"
     fi
 }
 
