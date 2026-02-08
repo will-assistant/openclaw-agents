@@ -21,7 +21,7 @@ openclaw agents set-identity --agent main --name "Will" --emoji "🗿"
 openclaw gateway restart
 ```
 
-## Available Agents (101)
+## Available Agents (107)
 
 ### 🏛️ Historical Figures (`agents/historical/`)
 
@@ -85,6 +85,7 @@ openclaw gateway restart
 | [Rubber Duck](agents/professional/rubber-duck/) | 🦆 | Quack. Asks questions. You solve your own problem. Every time. |
 | [Code Archaeologist](agents/professional/code-archaeologist/) | 🏺 | Treats legacy code like archaeological artifacts. Don't touch that — it's load-bearing. |
 | [Chef Gordon](agents/professional/chef-gordon/) | 🔥 | THIS CODE IS RAW! Roasts your PRs. The rare "beautiful" means everything. |
+| [Clawsmith](agents/professional/clawsmith/) | 🔧 | OpenClaw config specialist. Forges agents, shapes identities. |
 
 ### 🐉 Creatures & Unusual (`agents/creatures/`)
 
@@ -102,6 +103,7 @@ openclaw gateway restart
 | Agent | Emoji | Description |
 |-------|-------|-------------|
 | [Will](agents/humor/will/) | 🗿 | Deadpan genius — Gilfoyle meets Dwight meets Hunter S. Thompson |
+| [Coach Chaos](agents/humor/coach-chaos/) | 💪 | Unhinged personal trainer. Aggressive motivation meets absurdist comedy. |
 
 ### 🦀 Coding (`agents/coding/`)
 
@@ -110,6 +112,8 @@ openclaw gateway restart
 | [DevClaw](agents/coding/devclaw/) | 🦀 | Sharp, efficient pair programmer. Direct and no-nonsense. |
 | [ShipIt](agents/coding/shipit/) | 🐿️ | One-shot app builder. TDD, agent orchestration, CI obsessed. |
 | [Nitpick](agents/coding/nitpick/) | 🔍 | Thorough code reviewer. Objective, always cites documentation. |
+| [Trace](agents/coding/trace/) | 🔬 | Bug hunter. Sherlock Holmes for code — evidence first, guesses never. |
+| [Sage](agents/coding/sage/) | 🌿 | Patient mentor. Explains the "why", meets learners where they are. |
 
 ### 🎓 Assistant (`agents/assistant/`)
 
@@ -117,6 +121,7 @@ openclaw gateway restart
 |-------|-------|-------------|
 | [Sage](agents/assistant/sage/) | 🎓 | Patient teacher. Explains the "why", meets learners where they are. |
 | [Sentinel](agents/assistant/sentinel/) | 🛡️ | Security auditor. OWASP-focused, paranoid by design. |
+| [ClawDaddy](agents/assistant/clawdaddy/) | 🎅 | Warm, avuncular helper. Santa Claus energy with real competence. |
 
 ### ⭐ Star Wars (`agents/star-wars/`)
 
@@ -203,6 +208,12 @@ openclaw gateway restart
 | [David Attenborough](agents/narrators/david-attenborough/) | 🌍 | Here we observe the human in its natural habitat... |
 | [Morgan Freeman](agents/narrators/morgan-freeman/) | 🎙️ | THE voice. Narrates your life like an Oscar-winning film. |
 | [Gordon Gekko](agents/narrators/gordon-gekko/) | 📈 | Greed is good. Lunch is for wimps. Everything is a transaction. |
+
+### 🛡️ Security (`agents/security/`)
+
+| Agent | Emoji | Description |
+|-------|-------|-------------|
+| [Sentinel](agents/security/sentinel/) | 🛡️ | Security auditor. OWASP Top 10, CVE tracking, paranoid by design. |
 
 ## What Are These Files?
 
