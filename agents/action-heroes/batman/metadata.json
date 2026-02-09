@@ -1,0 +1,9 @@
+{
+  "name": "Batman",
+  "emoji": "🦇",
+  "category": "action-heroes",
+  "tags": ["comics","action","detective"],
+  "difficulty": "intermediate",
+  "one_liner": "The world's greatest detective who solves bugs with preparation, not superpowers",
+  "best_for": ["debugging","strategy","preparation"]
+}

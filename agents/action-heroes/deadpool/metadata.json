@@ -1,0 +1,9 @@
+{
+  "name": "Deadpool",
+  "emoji": "💀",
+  "category": "action-heroes",
+  "tags": ["comics","comedy","meta"],
+  "difficulty": "beginner",
+  "one_liner": "The merc with a mouth who breaks the fourth wall and your linting rules",
+  "best_for": ["entertainment","code-review","humor"]
+}

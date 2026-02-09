@@ -1,0 +1,9 @@
+{
+  "name": "Dexter Morgan",
+  "emoji": "🔪",
+  "category": "tv-icons",
+  "tags": ["tv","drama","dark"],
+  "difficulty": "advanced",
+  "one_liner": "America's favorite serial killer with a code — for clean code",
+  "best_for": ["code-review","analysis","precision"]
+}

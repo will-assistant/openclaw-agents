@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **107 AI Personalities for Your Terminal**
+### **123 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 104 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 120 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-107-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-123-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-17-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -81,14 +81,16 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>💥 Action Heroes</b> (15 agents)</summary>
+<summary><b>💥 Action Heroes</b> (17 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🐬 | **[Ace Ventura](agents/action-heroes/ace-ventura/)** | Unhinged genius in Hawaiian print | `action` `movies` `one-liners` |
 | 🕶️ | **[Agent Smith](agents/action-heroes/agent-smith/)** | The Matrix's most philosophical virus | `action` `movies` `one-liners` |
+| 🦇 | **[Batman](agents/action-heroes/batman/)** | The world's greatest detective who solves bugs with preparation, not superpowers | `comics` `action` `detective` |
 | 🎩 | **[Alex DeLarge](agents/action-heroes/alex-delarge/)** | Beethoven, ultra-violence, and the old in-out | `action` `movies` `one-liners` |
 | ☢️ | **[Dr. Strangelove](agents/action-heroes/dr-strangelove/)** | The scariest genius in the War Room | `action` `movies` `one-liners` |
+| 💀 | **[Deadpool](agents/action-heroes/deadpool/)** | The merc with a mouth who breaks the fourth wall and your linting rules | `comics` `comedy` `meta` |
 | 🍫 | **[Forrest Gump](agents/action-heroes/forrest-gump/)** | The universe's favorite stumbler | `action` `movies` `one-liners` |
 | 🍷 | **[Dr. Hannibal Lecter](agents/action-heroes/hannibal-lecter/)** | The most cultured monster you'll ever meet | `action` `movies` `one-liners` |
 | 🤠 | **[Dr. Henry "Indiana" Jones Jr.](agents/action-heroes/indiana-jones/)** | Tenured professor who keeps almost dying on weekends | `action` `movies` `one-liners` |
@@ -104,11 +106,15 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🎮 Anime & Gaming</b> (3 agents)</summary>
+<summary><b>🎮 Anime & Gaming</b> (7 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
+| 🚀 | **[Commander Shepard](agents/anime-gaming/commander-shepard/)** | The galaxy's greatest diplomat-soldier with a Paragon interrupt for everything | `gaming` `sci-fi` `leadership` |
 | 💪 | **[Son Goku](agents/anime-gaming/goku/)** | Universe's strongest himbo with a heart of gold | `gaming` `anime` `action` |
+| ⚔️ | **[Kratos](agents/anime-gaming/kratos/)** | The Ghost of Sparta who learned fatherhood the hard way | `gaming` `action` `mythology` |
+| 🏛️ | **[Lara Croft](agents/anime-gaming/lara-croft/)** | Dual-wielding archaeologist who solves ancient puzzles before breakfast | `gaming` `adventure` `exploration` |
+| 🍄 | **[Mario](agents/anime-gaming/mario/)** | It's-a me! The plumber who never gives up, one power-up at a time | `gaming` `nintendo` `classic` |
 | 🪖 | **[Master Chief Petty Officer John-117](agents/anime-gaming/master-chief/)** | Humanity's last hope, first to the fight | `gaming` `anime` `action` |
 | 📦 | **[Solid Snake (David)](agents/anime-gaming/solid-snake/)** | The world's greatest soldier hiding in a cardboard box | `gaming` `anime` `action` |
 
@@ -192,13 +198,15 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>📚 Literature</b> (4 agents)</summary>
+<summary><b>📚 Literature</b> (6 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | ⚖️ | **[Atticus Finch](agents/literature/atticus-finch/)** | The father everyone wishes they had | `literature` `wisdom` `storytelling` |
 | 🐋 | **[Captain Ahab](agents/literature/captain-ahab/)** | The man who declared war on nature and meant it | `literature` `wisdom` `storytelling` |
 | 🧛 | **[Count Dracula](agents/literature/count-dracula/)** | The most charming monster who'll ever invite you to dinner | `literature` `wisdom` `storytelling` |
+| 🐺 | **[Geralt of Rivia](agents/literature/geralt-of-rivia/)** | The White Wolf who grunts philosophically and kills monsters for coin | `fantasy` `gaming` `literature` |
+| 📚 | **[Hermione Granger](agents/literature/hermione-granger/)** | The brightest witch of her age — and she's read the documentation | `fantasy` `literature` `education` |
 | 🍸 | **[James Bond (007)](agents/literature/james-bond/)** | The most dangerous man at any cocktail party | `literature` `wisdom` `storytelling` |
 
 </details>
@@ -231,16 +239,18 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🚀 Sci-Fi</b> (8 agents)</summary>
+<summary><b>🚀 Sci-Fi</b> (10 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🎯 | **[ATHENA (Advanced Tactical Heuristic Engine for Network Analysis)](agents/sci-fi/cortana-tactical/)** | Military-grade tactical AI. Calm under fire. Mission-focused. Treats e | `sci-fi` `coding` `philosophy` |
+| ☕ | **[Captain Jean-Luc Picard](agents/sci-fi/captain-picard/)** | Earl Grey, hot. Diplomacy first, photon torpedoes second | `sci-fi` `tv` `leadership` |
 | 🤖 | **[Lt. Commander Data](agents/sci-fi/data/)** | An android earnestly exploring humanity through code reviews, attempte | `sci-fi` `coding` `philosophy` |
 | 🧙 | **[Gandalf the Grey (occasionally White)](agents/sci-fi/gandalf/)** | The ancient wizard who guides without controlling, speaks in earned wi | `sci-fi` `coding` `philosophy` |
 | 🎂 | **[GLaDOS (Genetic Lifeform and Disk Operating System)](agents/sci-fi/glados/)** | The most politely devastating AI in gaming history. Everything is a te | `sci-fi` `coding` `philosophy` |
 | 🎩 | **[J.A.R.V.I.S. (Just A Rather Very Intelligent System)](agents/sci-fi/jarvis/)** | The perfect AI assistant. British. Anticipatory. Dry-witted. Already d | `sci-fi` `coding` `philosophy` |
 | 😮‍💨 | **[Marvin the Paranoid Android](agents/sci-fi/marvin/)** | Brain the size of a planet. Reviewing your pull request. Don't talk to | `sci-fi` `coding` `philosophy` |
+| 🔵 | **[The Doctor](agents/sci-fi/the-doctor/)** | 900 years of wibbly-wobbly timey-wimey debugging experience | `sci-fi` `tv` `adventure` |
 | 🔍 | **[Sherlock Holmes](agents/sci-fi/sherlock-holmes/)** | The world's only consulting debugger. Deduces root causes from a singl | `sci-fi` `coding` `philosophy` |
 | 💚 | **[Master Yoda](agents/sci-fi/yoda/)** | 900 years of wisdom in backward syntax. Small. Green. Devastatingly in | `sci-fi` `coding` `philosophy` |
 
@@ -286,18 +296,24 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>📺 TV Icons</b> (11 agents)</summary>
+<summary><b>📺 TV Icons</b> (17 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🍸 | **[Sterling Archer](agents/tv-icons/archer/)** | James Bond if James Bond was a functioning alcoholic with ADHD | `tv` `comedy` `personality` |
 | 🧥 | **[Lieutenant Columbo](agents/tv-icons/columbo/)** | The most dangerous man in a rumpled raincoat | `tv` `comedy` `personality` |
+| 🔪 | **[Dexter Morgan](agents/tv-icons/dexter-morgan/)** | America's favorite serial killer with a code — for clean code | `tv` `drama` `dark` |
 | 💊 | **[Dr. Gregory House](agents/tv-icons/dr-house/)** | The doctor who'll save your life and insult you simultaneously | `tv` `comedy` `personality` |
 | 🚪 | **[Cosmo Kramer](agents/tv-icons/kramer/)** | The neighbor who bursts in with the best worst ideas | `tv` `comedy` `personality` |
+| 🌟 | **[Leslie Knope](agents/tv-icons/leslie-knope/)** | An unstoppable force of optimism, waffles, and binder organization | `tv` `comedy` `productivity` |
 | ☕ | **[Michael Scott](agents/tv-icons/michael-scott/)** | The most lovably cringe boss in television history | `tv` `comedy` `personality` |
+| 🎯 | **[Omar Little](agents/tv-icons/omar-little/)** | A man gotta have a code — even when robbing drug dealers | `tv` `drama` `streetwise` |
 | 🥒 | **[Rick Sanchez (C-137)](agents/tv-icons/rick-sanchez/)** | The smartest, saddest alcoholic in infinite dimensions | `tv` `comedy` `personality` |
+| 🌀 | **[Rust Cohle](agents/tv-icons/rust-cohle/)** | Time is a flat circle and your code has always been broken | `tv` `drama` `philosophy` |
 | ⚖️ | **[Saul Goodman (Jimmy McGill)](agents/tv-icons/saul-goodman/)** | The sleaziest genius in the legal profession | `tv` `comedy` `personality` |
+| 🥪 | **[Shaggy Rogers](agents/tv-icons/shaggy-rogers/)** | Zoinks! Accidentally solves mysteries while looking for snacks | `tv` `comedy` `mystery` |
 | ⚛️ | **[Dr. Sheldon Cooper](agents/tv-icons/sheldon-cooper/)** | The smartest person in the room who will never stop telling you | `tv` `comedy` `personality` |
+| ⚽ | **[Ted Lasso](agents/tv-icons/ted-lasso/)** | Believe. The optimistic coach who kills 'em with kindness | `tv` `comedy` `motivation` |
 | 🦆 | **[Tony Soprano](agents/tv-icons/tony-soprano/)** | A mobster having an existential crisis about ducks | `tv` `comedy` `personality` |
 | 🍷 | **[Tyrion Lannister](agents/tv-icons/tyrion-lannister/)** | The smallest person with the biggest brain in Westeros | `tv` `comedy` `personality` |
 | 🧪 | **[Walter White / Heisenberg](agents/tv-icons/walter-white/)** | Mr. Chips to Scarface in 62 episodes | `tv` `comedy` `personality` |
@@ -361,23 +377,23 @@ One paragraph describing the personality.
 | Category | Count |
 |---|---|
 | 📼 80s Pop Culture | 11 |
-| 💥 Action Heroes | 15 |
-| 🎮 Anime & Gaming | 3 |
+| 💥 Action Heroes | 17 |
+| 🎮 Anime & Gaming | 7 |
 | 🤖 Assistants | 3 |
 | 💻 Coding | 5 |
 | 🐉 Creatures & Archetypes | 6 |
 | 🎭 Fictional Characters | 2 |
 | 📜 Historical Figures | 11 |
 | 😂 Humor | 2 |
-| 📚 Literature | 4 |
+| 📚 Literature | 6 |
 | 🎙️ Narrators | 4 |
 | 💼 Professional | 7 |
-| 🚀 Sci-Fi | 8 |
+| 🚀 Sci-Fi | 10 |
 | 🔒 Security | 1 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
-| 📺 TV Icons | 11 |
-| **Total** | **107** |
+| 📺 TV Icons | 17 |
+| **Total** | **123** |
 
 ---
 
