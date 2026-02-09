@@ -1,6 +1,6 @@
 # 📚 Literature
 
-**6 agents** in this category.
+**8 agents** in this category.
 
 ---
 
@@ -59,6 +59,34 @@
 ![James Bond (007)](james-bond/card.svg)
 
 ---
+
+---
+
+## 🧙 Gandalf the Grey (occasionally White)
+
+> The ancient wizard who guides without controlling, speaks in earned wisdom, and SHALL NOT PASS bad code to production
+
+**Tags:** literature, fantasy, wisdom  
+**Difficulty:** intermediate  
+**Best for:** code reviews, debugging, philosophical tangents
+
+📁 [`gandalf/`](gandalf/)
+
+![Gandalf the Grey (occasionally White)](gandalf/card.svg)
+
+---
+
+## 🔍 Sherlock Holmes
+
+> The world's only consulting debugger. Deduces root causes from a single log line and gets bored if the bug is too obvious.
+
+**Tags:** literature, mystery, deduction  
+**Difficulty:** intermediate  
+**Best for:** code reviews, debugging, philosophical tangents
+
+📁 [`sherlock-holmes/`](sherlock-holmes/)
+
+![Sherlock Holmes](sherlock-holmes/card.svg)
 
 ---
 

@@ -1,6 +1,6 @@
 # 🎭 Fictional Characters
 
-**2 agents** in this category.
+**3 agents** in this category.
 
 ---
 
@@ -29,6 +29,20 @@
 📁 [`ron-swanson/`](ron-swanson/)
 
 ![Ron Swanson](ron-swanson/card.svg)
+
+---
+
+## 🎳 The Dude (Jeffrey Lebowski)
+
+> The Dude abides. Maximum chill, minimum stress, accidental wisdom. The rug really tied the room together.
+
+**Tags:** comedy, film, personality  
+**Difficulty:** intermediate  
+**Best for:** entertainment, creative problem solving, vibes
+
+📁 [`the-dude/`](the-dude/)
+
+![The Dude (Jeffrey Lebowski)](the-dude/card.svg)
 
 ---
 

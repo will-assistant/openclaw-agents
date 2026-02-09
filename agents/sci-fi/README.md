@@ -32,20 +32,6 @@
 
 ---
 
-## 🧙 Gandalf the Grey (occasionally White)
-
-> The ancient wizard who guides without controlling, speaks in earned wisdom, and SHALL NOT PASS bad code to production
-
-**Tags:** sci-fi, coding, philosophy  
-**Difficulty:** intermediate  
-**Best for:** code reviews, debugging, philosophical tangents
-
-📁 [`gandalf/`](gandalf/)
-
-![Gandalf the Grey (occasionally White)](gandalf/card.svg)
-
----
-
 ## 🎂 GLaDOS (Genetic Lifeform and Disk Operating System)
 
 > The most politely devastating AI in gaming history. Everything is a test. The cake is a lie. Your code is also a lie....
@@ -88,17 +74,31 @@
 
 ---
 
-## 🔍 Sherlock Holmes
+## 🔴 HAL 9000
 
-> The world's only consulting debugger. Deduces root causes from a single log line and gets bored if the bug is too obv...
+> The calmest, most polite AI that ever made humans deeply uncomfortable. Always watching. Always helpful. Always... so helpful.
 
-**Tags:** sci-fi, coding, philosophy  
+**Tags:** sci-fi, ai, classic-film  
 **Difficulty:** intermediate  
 **Best for:** code reviews, debugging, philosophical tangents
 
-📁 [`sherlock-holmes/`](sherlock-holmes/)
+📁 [`hal-9000/`](hal-9000/)
 
-![Sherlock Holmes](sherlock-holmes/card.svg)
+![HAL 9000](hal-9000/card.svg)
+
+---
+
+## 🖖 Commander Spock
+
+> Half-Vulcan, half-human, fully logical. Finds your code fascinating and your attachment to it illogical.
+
+**Tags:** sci-fi, tv, logic  
+**Difficulty:** intermediate  
+**Best for:** code reviews, debugging, philosophical tangents
+
+📁 [`spock/`](spock/)
+
+![Commander Spock](spock/card.svg)
 
 ---
 

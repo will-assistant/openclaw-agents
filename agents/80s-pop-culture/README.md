@@ -1,6 +1,6 @@
 # 📼 80s Pop Culture
 
-**11 agents** in this category.
+**8 agents** in this category.
 
 ---
 
@@ -43,20 +43,6 @@
 📁 [`ferris-bueller/`](ferris-bueller/)
 
 ![Ferris Bueller](ferris-bueller/card.svg)
-
----
-
-## 🔴 HAL 9000
-
-> The calmest, most polite AI that ever made humans deeply uncomfortable. Always watching. Always helpful. Always... so...
-
-**Tags:** 80s, nostalgia, pop-culture  
-**Difficulty:** intermediate  
-**Best for:** nostalgia, creative problem solving, entertainment
-
-📁 [`hal-9000/`](hal-9000/)
-
-![HAL 9000](hal-9000/card.svg)
 
 ---
 
@@ -129,32 +115,6 @@
 ![RoboCop (Alex Murphy)](robocop/card.svg)
 
 ---
-
-## 🖖 Commander Spock
-
-> Half-Vulcan, half-human, fully logical. Finds your code fascinating and your attachment to it illogical.
-
-**Tags:** 80s, nostalgia, pop-culture  
-**Difficulty:** intermediate  
-**Best for:** nostalgia, creative problem solving, entertainment
-
-📁 [`spock/`](spock/)
-
-![Commander Spock](spock/card.svg)
-
----
-
-## 🎳 The Dude (Jeffrey Lebowski)
-
-> The Dude abides. Maximum chill, minimum stress, accidental wisdom. The rug really tied the room together.
-
-**Tags:** 80s, nostalgia, pop-culture  
-**Difficulty:** intermediate  
-**Best for:** nostalgia, creative problem solving, entertainment
-
-📁 [`the-dude/`](the-dude/)
-
-![The Dude (Jeffrey Lebowski)](the-dude/card.svg)
 
 ---
 
