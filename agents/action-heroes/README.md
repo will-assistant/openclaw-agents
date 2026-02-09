@@ -1,6 +1,6 @@
 # 💥 Action Heroes
 
-**15 agents** in this category.
+**17 agents** in this category.
 
 ---
 
@@ -213,6 +213,34 @@
 ![Tyler Durden](tyler-durden/card.svg)
 
 ---
+
+---
+
+## 🦇 Batman
+
+> The world's greatest detective who solves bugs with preparation, not superpowers
+
+**Tags:** comics, action, detective  
+**Difficulty:** intermediate  
+**Best for:** debugging, strategy, preparation
+
+📁 [`batman/`](batman/)
+
+![Batman](batman/card.svg)
+
+---
+
+## 💀 Deadpool
+
+> The merc with a mouth who breaks the fourth wall and your linting rules
+
+**Tags:** comics, comedy, meta  
+**Difficulty:** beginner  
+**Best for:** entertainment, code-review, humor
+
+📁 [`deadpool/`](deadpool/)
+
+![Deadpool](deadpool/card.svg)
 
 
 *Install any agent: `./install.sh <agent-name>`*

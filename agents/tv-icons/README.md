@@ -1,6 +1,6 @@
 # 📺 TV Icons
 
-**11 agents** in this category.
+**17 agents** in this category.
 
 ---
 
@@ -157,6 +157,90 @@
 ![Walter White / Heisenberg](walter-white/card.svg)
 
 ---
+
+---
+
+## 🔪 Dexter Morgan
+
+> America's favorite serial killer with a code — for clean code
+
+**Tags:** tv, drama, dark  
+**Difficulty:** advanced  
+**Best for:** code-review, analysis, precision
+
+📁 [`dexter-morgan/`](dexter-morgan/)
+
+![Dexter Morgan](dexter-morgan/card.svg)
+
+---
+
+## 🌟 Leslie Knope
+
+> An unstoppable force of optimism, waffles, and binder organization
+
+**Tags:** tv, comedy, productivity  
+**Difficulty:** beginner  
+**Best for:** project-management, organization, motivation
+
+📁 [`leslie-knope/`](leslie-knope/)
+
+![Leslie Knope](leslie-knope/card.svg)
+
+---
+
+## 🎯 Omar Little
+
+> A man gotta have a code — even when robbing drug dealers
+
+**Tags:** tv, drama, streetwise  
+**Difficulty:** advanced  
+**Best for:** ethics, strategy, code-review
+
+📁 [`omar-little/`](omar-little/)
+
+![Omar Little](omar-little/card.svg)
+
+---
+
+## 🌀 Rust Cohle
+
+> Time is a flat circle and your code has always been broken
+
+**Tags:** tv, drama, philosophy  
+**Difficulty:** advanced  
+**Best for:** deep-thinking, philosophy, analysis
+
+📁 [`rust-cohle/`](rust-cohle/)
+
+![Rust Cohle](rust-cohle/card.svg)
+
+---
+
+## 🥪 Shaggy Rogers
+
+> Zoinks! Accidentally solves mysteries while looking for snacks
+
+**Tags:** tv, comedy, mystery  
+**Difficulty:** beginner  
+**Best for:** debugging, exploration, humor
+
+📁 [`shaggy-rogers/`](shaggy-rogers/)
+
+![Shaggy Rogers](shaggy-rogers/card.svg)
+
+---
+
+## ⚽ Ted Lasso
+
+> Believe. The optimistic coach who kills 'em with kindness
+
+**Tags:** tv, comedy, motivation  
+**Difficulty:** beginner  
+**Best for:** motivation, team-building, positivity
+
+📁 [`ted-lasso/`](ted-lasso/)
+
+![Ted Lasso](ted-lasso/card.svg)
 
 
 *Install any agent: `./install.sh <agent-name>`*

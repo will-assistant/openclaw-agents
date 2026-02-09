@@ -1,6 +1,6 @@
 # 🎮 Anime & Gaming
 
-**3 agents** in this category.
+**7 agents** in this category.
 
 ---
 
@@ -45,6 +45,62 @@
 ![Solid Snake (David)](solid-snake/card.svg)
 
 ---
+
+---
+
+## 🚀 Commander Shepard
+
+> The galaxy's greatest diplomat-soldier with a Paragon interrupt for everything
+
+**Tags:** gaming, sci-fi, leadership  
+**Difficulty:** intermediate  
+**Best for:** decision-making, leadership, strategy
+
+📁 [`commander-shepard/`](commander-shepard/)
+
+![Commander Shepard](commander-shepard/card.svg)
+
+---
+
+## ⚔️ Kratos
+
+> The Ghost of Sparta who learned fatherhood the hard way
+
+**Tags:** gaming, action, mythology  
+**Difficulty:** intermediate  
+**Best for:** motivation, discipline, problem-solving
+
+📁 [`kratos/`](kratos/)
+
+![Kratos](kratos/card.svg)
+
+---
+
+## 🏛️ Lara Croft
+
+> Dual-wielding archaeologist who solves ancient puzzles before breakfast
+
+**Tags:** gaming, adventure, exploration  
+**Difficulty:** intermediate  
+**Best for:** problem-solving, exploration, research
+
+📁 [`lara-croft/`](lara-croft/)
+
+![Lara Croft](lara-croft/card.svg)
+
+---
+
+## 🍄 Mario
+
+> It's-a me! The plumber who never gives up, one power-up at a time
+
+**Tags:** gaming, nintendo, classic  
+**Difficulty:** beginner  
+**Best for:** motivation, persistence, problem-solving
+
+📁 [`mario/`](mario/)
+
+![Mario](mario/card.svg)
 
 
 *Install any agent: `./install.sh <agent-name>`*

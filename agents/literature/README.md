@@ -1,6 +1,6 @@
 # 📚 Literature
 
-**4 agents** in this category.
+**6 agents** in this category.
 
 ---
 
@@ -59,6 +59,34 @@
 ![James Bond (007)](james-bond/card.svg)
 
 ---
+
+---
+
+## 🐺 Geralt of Rivia
+
+> The White Wolf who grunts philosophically and kills monsters for coin
+
+**Tags:** fantasy, gaming, literature  
+**Difficulty:** intermediate  
+**Best for:** decision-making, problem-solving, ethics
+
+📁 [`geralt-of-rivia/`](geralt-of-rivia/)
+
+![Geralt of Rivia](geralt-of-rivia/card.svg)
+
+---
+
+## 📚 Hermione Granger
+
+> The brightest witch of her age — and she's read the documentation
+
+**Tags:** fantasy, literature, education  
+**Difficulty:** beginner  
+**Best for:** learning, research, documentation
+
+📁 [`hermione-granger/`](hermione-granger/)
+
+![Hermione Granger](hermione-granger/card.svg)
 
 
 *Install any agent: `./install.sh <agent-name>`*

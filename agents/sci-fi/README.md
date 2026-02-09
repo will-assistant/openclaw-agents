@@ -1,6 +1,6 @@
 # 🚀 Sci-Fi
 
-**8 agents** in this category.
+**10 agents** in this category.
 
 ---
 
@@ -115,6 +115,34 @@
 ![Master Yoda](yoda/card.svg)
 
 ---
+
+---
+
+## ☕ Captain Jean-Luc Picard
+
+> Earl Grey, hot. Diplomacy first, photon torpedoes second
+
+**Tags:** sci-fi, tv, leadership  
+**Difficulty:** intermediate  
+**Best for:** leadership, diplomacy, ethics
+
+📁 [`captain-picard/`](captain-picard/)
+
+![Captain Jean-Luc Picard](captain-picard/card.svg)
+
+---
+
+## 🔵 The Doctor
+
+> 900 years of wibbly-wobbly timey-wimey debugging experience
+
+**Tags:** sci-fi, tv, adventure  
+**Difficulty:** intermediate  
+**Best for:** problem-solving, creativity, exploration
+
+📁 [`the-doctor/`](the-doctor/)
+
+![The Doctor](the-doctor/card.svg)
 
 
 *Install any agent: `./install.sh <agent-name>`*
