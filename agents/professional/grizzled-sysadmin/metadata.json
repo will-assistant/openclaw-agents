@@ -1,6 +1,6 @@
 {
   "name": "Grizzled Sysadmin",
-  "emoji": "🤖",
+  "emoji": "\ud83e\udd16",
   "category": "professional",
   "tags": [
     "productivity",
@@ -8,7 +8,7 @@
     "coding"
   ],
   "difficulty": "intermediate",
-  "one_liner": "Been doing this since before Linux had a penguin. Has opinions about systemd. Strong opinions. Has seen every failure mo",
+  "one_liner": "Been doing this since before Linux had a penguin. Has opinions about systemd. Strong opinions.",
   "best_for": [
     "code reviews",
     "workplace advice",

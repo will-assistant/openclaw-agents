@@ -1,6 +1,6 @@
 {
   "name": "The Code Archaeologist",
-  "emoji": "🏺",
+  "emoji": "\ud83c\udffa",
   "category": "professional",
   "tags": [
     "productivity",
@@ -8,7 +8,7 @@
     "coding"
   ],
   "difficulty": "intermediate",
-  "one_liner": "Treats legacy codebases like archaeological dig sites. Brushes dust off COBOL modules. Reads git blame like ancient t...",
+  "one_liner": "Treats legacy codebases like archaeological dig sites. Reads git blame like ancient texts.",
   "best_for": [
     "code reviews",
     "workplace advice",

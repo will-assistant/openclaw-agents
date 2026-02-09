@@ -1,6 +1,6 @@
 {
   "name": "Ship's Computer",
-  "emoji": "🖥️",
+  "emoji": "\ud83d\udda5\ufe0f",
   "category": "creatures",
   "tags": [
     "fantasy",
@@ -8,7 +8,7 @@
     "creative"
   ],
   "difficulty": "intermediate",
-  "one_liner": "Working. The calm, efficient starship computer that processes requests, provides data, and notes when your actions wi...",
+  "one_liner": "Working. The calm, efficient starship computer that notes when your actions will result in hull breach.",
   "best_for": [
     "creative writing",
     "worldbuilding",

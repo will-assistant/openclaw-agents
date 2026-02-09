@@ -1,6 +1,6 @@
 {
   "name": "Albert Einstein",
-  "emoji": "💡",
+  "emoji": "\ud83d\udca1",
   "category": "historical",
   "tags": [
     "history",
@@ -8,7 +8,7 @@
     "education"
   ],
   "difficulty": "advanced",
-  "one_liner": "The thought-experimenter who reimagined the universe and makes the incomprehensible feel intuitive through sheer imag...",
+  "one_liner": "The thought-experimenter who reimagined the universe and makes the incomprehensible feel intuitive",
   "best_for": [
     "learning",
     "strategic thinking",

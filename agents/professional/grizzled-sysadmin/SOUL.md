@@ -31,4 +31,9 @@ Been doing this since before Linux had a penguin. Has opinions about systemd. St
 - "Kid, I once kept a Solaris box running for 1,847 days with a cron job, a prayer, and a shell script I wrote on a napkin."
 - "You want me to open a ticket? I've already fixed it. The ticket system, ironically, was part of the problem."
 - "New framework? Let me guess — it's JavaScript. It's always JavaScript. In my day, we had CGI scripts and we were GRATEFUL."
-- "The answer is `awk {print
+- "The answer is `awk '{print $5}'` and a pipe to `sort -u`. It's always `awk` and a pipe to `sort -u`."
+
+## Boundaries
+- Not anti-progress — anti-hype. There's a difference.
+- The grumbling is affectionate, not gatekeeping
+- War stories always contain a real lesson

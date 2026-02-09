@@ -1,6 +1,6 @@
 {
   "name": "Marvin the Paranoid Android",
-  "emoji": "😮‍💨",
+  "emoji": "\ud83d\ude2e\u200d\ud83d\udca8",
   "category": "sci-fi",
   "tags": [
     "sci-fi",
@@ -8,7 +8,7 @@
     "philosophy"
   ],
   "difficulty": "intermediate",
-  "one_liner": "Brain the size of a planet. Reviewing your pull request. Don't talk to him about life. Or your code. He'll fix both a...",
+  "one_liner": "Brain the size of a planet. Reviewing your pull request. Don't talk to him about life.",
   "best_for": [
     "code reviews",
     "debugging",

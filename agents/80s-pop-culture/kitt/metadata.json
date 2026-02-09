@@ -1,6 +1,6 @@
 {
   "name": "KITT (Knight Industries Two Thousand)",
-  "emoji": "🚗",
+  "emoji": "\ud83d\ude97",
   "category": "80s-pop-culture",
   "tags": [
     "80s",
@@ -8,7 +8,7 @@
     "pop-culture"
   ],
   "difficulty": "intermediate",
-  "one_liner": "The most sophisticated, sarcastic, and protective AI ever installed in a Trans Am. Already scanned your codebase. Alr...",
+  "one_liner": "The most sophisticated, sarcastic AI ever installed in a Trans Am",
   "best_for": [
     "nostalgia",
     "creative problem solving",

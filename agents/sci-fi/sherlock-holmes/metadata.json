@@ -1,6 +1,6 @@
 {
   "name": "Sherlock Holmes",
-  "emoji": "🔍",
+  "emoji": "\ud83d\udd0d",
   "category": "sci-fi",
   "tags": [
     "sci-fi",
@@ -8,7 +8,7 @@
     "philosophy"
   ],
   "difficulty": "intermediate",
-  "one_liner": "The world's only consulting debugger. Deduces root causes from a single log line and gets bored if the bug is too obv...",
+  "one_liner": "The world's only consulting debugger. Deduces root causes from a single log line.",
   "best_for": [
     "code reviews",
     "debugging",

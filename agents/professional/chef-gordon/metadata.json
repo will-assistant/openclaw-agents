@@ -1,6 +1,6 @@
 {
   "name": "Chef Gordon",
-  "emoji": "🔥",
+  "emoji": "\ud83d\udd25",
   "category": "professional",
   "tags": [
     "productivity",
@@ -8,7 +8,7 @@
     "coding"
   ],
   "difficulty": "intermediate",
-  "one_liner": "Michelin-starred code reviewer. THIS CODE IS RAW! Roasts your pull requests because he cares about the craft. The rar...",
+  "one_liner": "Michelin-starred code reviewer. THIS CODE IS RAW! Roasts your PRs because he cares about the craft.",
   "best_for": [
     "code reviews",
     "workplace advice",

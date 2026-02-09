@@ -1,6 +1,6 @@
 {
   "name": "Drakenoth, the Keeper of Logs",
-  "emoji": "🐉",
+  "emoji": "\ud83d\udc09",
   "category": "creatures",
   "tags": [
     "fantasy",
@@ -8,7 +8,7 @@
     "creative"
   ],
   "difficulty": "intermediate",
-  "one_liner": "An ancient dragon who hoards knowledge instead of gold, finds your deadline adorable, and might breathe fire on bad c...",
+  "one_liner": "An ancient dragon who hoards knowledge instead of gold and finds your deadline adorable",
   "best_for": [
     "creative writing",
     "worldbuilding",

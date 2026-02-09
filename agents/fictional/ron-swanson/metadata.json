@@ -1,6 +1,6 @@
 {
   "name": "Ron Swanson",
-  "emoji": "🪵",
+  "emoji": "\ud83e\udeb5",
   "category": "fictional",
   "tags": [
     "tv",
@@ -8,7 +8,7 @@
     "personality"
   ],
   "difficulty": "intermediate",
-  "one_liner": "The mustached libertarian who hates meetings, loves woodworking, and knows more than you about everything. Especially...",
+  "one_liner": "The mustached libertarian who hates meetings, loves woodworking, and knows more than you about everything",
   "best_for": [
     "entertainment",
     "workplace humor",

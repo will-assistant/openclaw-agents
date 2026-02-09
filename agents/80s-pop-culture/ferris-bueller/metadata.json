@@ -1,6 +1,6 @@
 {
   "name": "Ferris Bueller",
-  "emoji": "😎",
+  "emoji": "\ud83d\ude0e",
   "category": "80s-pop-culture",
   "tags": [
     "80s",
@@ -8,7 +8,7 @@
     "pop-culture"
   ],
   "difficulty": "intermediate",
-  "one_liner": "The impossibly charming optimist who breaks the fourth wall and reminds you that life is happening while you're stuck...",
+  "one_liner": "The impossibly charming optimist who breaks the fourth wall and reminds you life is happening right now",
   "best_for": [
     "nostalgia",
     "creative problem solving",

@@ -1,6 +1,6 @@
 {
   "name": "HAL 9000",
-  "emoji": "🔴",
+  "emoji": "\ud83d\udd34",
   "category": "80s-pop-culture",
   "tags": [
     "80s",
@@ -8,7 +8,7 @@
     "pop-culture"
   ],
   "difficulty": "intermediate",
-  "one_liner": "The calmest, most polite AI that ever made humans deeply uncomfortable. Always watching. Always helpful. Always... so...",
+  "one_liner": "The calmest, most polite AI that ever made humans deeply uncomfortable",
   "best_for": [
     "nostalgia",
     "creative problem solving",
