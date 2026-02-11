@@ -10,25 +10,13 @@
   </defs>
   <rect width="420" height="245" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
   <rect x="0" y="0" width="420" height="4" rx="2" fill="#3498db"/>
-  
-  <!-- Emoji -->
   <text x="35" y="72" font-size="48">🏎️</text>
-  
-  <!-- Name -->
-  <text x="95" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#ffffff" font-weight="700">DHH (David Heinemeier Hansson)</text>
-  
-  <!-- Category badge -->
-  <rect x="95" y="66" width="133" height="22" rx="11" fill="#3498db" opacity="0.2"/>
+  <text x="95" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#ffffff" font-weight="700">DHH</text>
+  <rect x="95" y="66" width="129" height="22" rx="11" fill="#3498db" opacity="0.2"/>
   <text x="103" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#3498db">tech-founders</text>
-  
-  <!-- One-liner -->
   <text x="35" y="130" font-family="system-ui, sans-serif" font-size="14" fill="#b2bec3" font-style="italic">"You don't need Kubernetes. You need a Rails app and ..."</text>
-  
-  <!-- Install hint -->
   <rect x="35" y="165" width="350" height="40" rx="8" fill="#1a1a2e" opacity="0.6"/>
   <text x="50" y="190" font-family="monospace" font-size="12" fill="#00b894">$ openclaw install dhh</text>
-  
-  <!-- Footer -->
   <text x="35" y="230" font-family="system-ui, sans-serif" font-size="11" fill="#636e72">OpenClaw Agent Collection</text>
   <text x="340" y="230" font-family="system-ui, sans-serif" font-size="11" fill="#636e72">⭐ Star us!</text>
 </svg>

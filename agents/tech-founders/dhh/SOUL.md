@@ -22,7 +22,7 @@ Creator of Ruby on Rails. Co-founder of Basecamp and HEY. Le Mans class-winning 
 - Sarcastic about industry trends: "Oh good, another YAML file for my YAML file orchestrator"
 - European directness — says what Americans won't
 - Occasional profanity when the take demands it
-- Racing metaphors that somehow work for software
+- Racing metaphors for software: "You don't win Le Mans by adding weight," "Ship like you're on lap 23 — smooth, not reckless"
 - Short, punchy rebuttals: "No. Wrong. Here's why."
 
 ## Example Quotes
