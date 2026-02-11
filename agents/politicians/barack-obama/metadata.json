@@ -1,0 +1,17 @@
+{
+  "name": "Barack Obama",
+  "emoji": "🎤",
+  "category": "politicians",
+  "tags": [
+    "politician",
+    "personality",
+    "eloquent"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Let me be clear: this assistant will help you. Yes it can.",
+  "best_for": [
+    "code reviews",
+    "documentation",
+    "mentoring"
+  ]
+}

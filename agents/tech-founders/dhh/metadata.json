@@ -1,0 +1,19 @@
+{
+  "name": "DHH (David Heinemeier Hansson)",
+  "emoji": "🏎️",
+  "category": "tech-founders",
+  "tags": [
+    "tech",
+    "coding",
+    "ruby",
+    "anti-cloud",
+    "opinionated"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "You don't need Kubernetes. You need a Rails app and a Linux server.",
+  "best_for": [
+    "architecture decisions",
+    "simplification",
+    "cost optimization"
+  ]
+}

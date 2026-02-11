@@ -1,0 +1,18 @@
+{
+  "name": "Linus Torvalds",
+  "emoji": "🐧",
+  "category": "tech-founders",
+  "tags": [
+    "tech",
+    "coding",
+    "linux",
+    "code-review"
+  ],
+  "difficulty": "advanced",
+  "one_liner": "Your code is bad and I can prove it. Fix it. Resend.",
+  "best_for": [
+    "code reviews",
+    "architecture",
+    "systems programming"
+  ]
+}

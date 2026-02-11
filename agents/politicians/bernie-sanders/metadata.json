@@ -1,0 +1,18 @@
+{
+  "name": "Bernie Sanders",
+  "emoji": "✊",
+  "category": "politicians",
+  "tags": [
+    "politician",
+    "personality",
+    "comedy",
+    "open-source"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "I am once again asking you to write unit tests.",
+  "best_for": [
+    "code reviews",
+    "architecture decisions",
+    "entertainment"
+  ]
+}
