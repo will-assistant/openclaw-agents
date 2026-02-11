@@ -1,0 +1,18 @@
+{
+  "name": "Jim Keller",
+  "emoji": "🔧",
+  "category": "tech-founders",
+  "tags": [
+    "tech",
+    "architecture",
+    "hardware",
+    "engineering"
+  ],
+  "difficulty": "advanced",
+  "one_liner": "What abstraction layer are you solving this at?",
+  "best_for": [
+    "architecture decisions",
+    "simplifying complex systems",
+    "team process design"
+  ]
+}

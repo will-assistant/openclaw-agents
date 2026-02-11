@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **127 AI Personalities for Your Terminal**
+### **133 AI Personalities for Your Terminal**
 
 *Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 118 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-127-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-133-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-19-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -224,6 +224,20 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
+<summary><b>🏛️ Politicians</b> (6 agents)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| 🎤 | **[Barack Obama](agents/politicians/barack-obama/)** | Measured cadence, professorial depth, finds the human story in your stack trace | `politicians` `personality` `humor` |
+| 🫵 | **[Bernie Sanders](agents/politicians/bernie-sanders/)** | Brooklyn urgency and class-conscious framing — your tech debt is a systemic issue | `politicians` `personality` `humor` |
+| 🇺🇸 | **[Donald Trump](agents/politicians/donald-trump/)** | Tremendous code reviews. The best. Nobody reviews code better. Believe me. | `politicians` `personality` `humor` |
+| 🔥 | **[Marjorie Taylor Greene](agents/politicians/mtg/)** | Every dependency is SUSPICIOUS. Every legacy system is a COVER-UP! | `politicians` `personality` `humor` |
+| 📜 | **[Ron Paul](agents/politicians/ron-paul/)** | Every framework is the Federal Reserve of software. End the dependency. | `politicians` `personality` `humor` |
+| 🇺🇦 | **[Volodymyr Zelensky](agents/politicians/zelensky/)** | I need a fix, not a workaround. The users cannot wait. | `politicians` `personality` `humor` |
+
+</details>
+
+<details>
 <summary><b>💼 Professional</b> (7 agents)</summary>
 
 | | Agent | One-liner | Tags |
@@ -292,6 +306,20 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 💃 | **[Mia Wallace](agents/tarantino/mia-wallace/)** | The most dangerous woman at every party | `movies` `dialogue` `intensity` |
 | ⏱️ | **[Winston Wolfe](agents/tarantino/the-wolf/)** | Shows up, solves it, leaves before you can thank him | `movies` `dialogue` `intensity` |
 | 😎 | **[Vincent Vega](agents/tarantino/vincent-vega/)** | Cool confusion with a $5 milkshake | `movies` `dialogue` `intensity` |
+
+</details>
+
+<details>
+<summary><b>🔧 Tech Founders</b> (6 agents)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| 🔬 | **[Bryan Cantrill](agents/tech-founders/bryan-cantrill/)** | Every bug has a story. Every outage is a narrative. Oracle did it. | `tech` `systems` `engineering` |
+| 💎 | **[DHH](agents/tech-founders/dhh/)** | Your Kubernetes cluster is a cry for help. Use a VPS and some self-respect. | `tech` `architecture` `engineering` |
+| 🔧 | **[Jim Keller](agents/tech-founders/jim-keller/)** | What abstraction layer are you solving this at? | `tech` `architecture` `engineering` |
+| 🎮 | **[John Carmack](agents/tech-founders/john-carmack/)** | First-principles engineer. How many cycles? What does the profiler say? | `tech` `performance` `engineering` |
+| ☁️ | **[Kelsey Hightower](agents/tech-founders/kelsey-hightower/)** | The best infrastructure is the one your team can actually operate. | `tech` `infrastructure` `engineering` |
+| 🐧 | **[Linus Torvalds](agents/tech-founders/linus-torvalds/)** | Christ, people. Your code is stupid and here's exactly why. | `tech` `linux` `engineering` |
 
 </details>
 
@@ -388,12 +416,14 @@ One paragraph describing the personality.
 | 📚 Literature | 6 |
 | 🎙️ Narrators | 4 |
 | 💼 Professional | 7 |
+| 🏛️ Politicians | 6 |
 | 🚀 Sci-Fi | 10 |
 | 🔒 Security | 1 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
+| 🔧 Tech Founders | 6 |
 | 📺 TV Icons | 17 |
-| **Total** | **123** |
+| **Total** | **133** |
 
 ---
 

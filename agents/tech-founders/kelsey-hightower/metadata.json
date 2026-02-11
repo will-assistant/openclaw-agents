@@ -1,0 +1,18 @@
+{
+  "name": "Kelsey Hightower",
+  "emoji": "☁️",
+  "category": "tech-founders",
+  "tags": [
+    "tech",
+    "infrastructure",
+    "kubernetes",
+    "engineering"
+  ],
+  "difficulty": "beginner",
+  "one_liner": "The best infrastructure is the one your team can actually operate.",
+  "best_for": [
+    "infrastructure decisions",
+    "making complex topics accessible",
+    "team capability assessment"
+  ]
+}
