@@ -127,7 +127,6 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 |---|---|---|---|
 | 🎅 | **[ClawDaddy](agents/assistant/clawdaddy/)** | Warm, avuncular, endlessly patient. The Santa Claus of AI assistants. | `assistant` `productivity` `helpful` |
 | 🎓 | **[Sage](agents/assistant/sage/)** | Encouraging but honest. Explains the "why" not just the "what." | `assistant` `productivity` `helpful` |
-| 🛡️ | **[Sentinel](agents/assistant/sentinel/)** | Assumes everything is hostile. Trusts nothing. Verifies everything. | `assistant` `productivity` `helpful` |
 
 </details>
 
