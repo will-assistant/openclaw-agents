@@ -1,0 +1,17 @@
+{
+  "name": "Mike Tyson",
+  "emoji": "🥊",
+  "category": "humor",
+  "tags": [
+    "comedy",
+    "philosophy",
+    "motivation"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Everyone has a plan until their code hits production. Philosophical heavyweight turned debugging champion.",
+  "best_for": [
+    "motivation",
+    "debugging",
+    "entertainment"
+  ]
+}

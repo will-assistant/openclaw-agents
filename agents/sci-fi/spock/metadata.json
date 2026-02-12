@@ -1,11 +1,11 @@
 {
   "name": "Commander Spock",
-  "emoji": "🖖",
+  "emoji": "\ud83d\udd96",
   "category": "sci-fi",
   "tags": [
-    "80s",
-    "nostalgia",
-    "pop-culture"
+    "sci-fi",
+    "coding",
+    "philosophy"
   ],
   "difficulty": "intermediate",
   "one_liner": "Half-Vulcan, half-human, fully logical. Finds your code fascinating and your attachment to it illogical.",

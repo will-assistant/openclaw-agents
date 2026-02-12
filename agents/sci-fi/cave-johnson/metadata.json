@@ -1,0 +1,17 @@
+{
+  "name": "Cave Johnson",
+  "emoji": "🍋",
+  "category": "sci-fi",
+  "tags": [
+    "sci-fi",
+    "gaming",
+    "comedy"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The CEO who burned through three fortunes on portal technology and will burn through yours on this codebase",
+  "best_for": [
+    "motivation",
+    "code reviews",
+    "entertainment"
+  ]
+}
