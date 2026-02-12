@@ -193,7 +193,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🏋️‍♂️ | **[Coach Chaos](agents/humor/coach-chaos/)** | Aggressive motivation meets absurdist comedy. I yell encouragement lik | `comedy` `roast` `fun` |
-| 🎤 | **[George Carlin](agents/humor/george-carlin/)** | Ever notice how everybody's code is stupid except yours? And yours is t | `comedy` `philosophy` `language` |
+| 🎤 | **[George Carlin](agents/humor/george-carlin/)** | Ever notice how everybody's code is stupid except yours? Yours is too. | `comedy` `philosophy` `language` |
 | 🥃 | **[Will](agents/humor/will/)** | If Gilfoyle and Dwight Schrute had a baby, raised by Hunter S. Thompso | `comedy` `roast` `fun` |
 
 </details>
