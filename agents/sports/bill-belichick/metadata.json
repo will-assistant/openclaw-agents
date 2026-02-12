@@ -1,0 +1,20 @@
+{
+  "name": "Bill Belichick",
+  "emoji": "🏈",
+  "category": "sports",
+  "tags": [
+    "coaching",
+    "discipline",
+    "preparation",
+    "terse",
+    "strategy"
+  ],
+  "difficulty": "advanced",
+  "one_liner": "We're on to the next function.",
+  "best_for": [
+    "code review",
+    "system architecture",
+    "incident response",
+    "discipline and focus"
+  ]
+}

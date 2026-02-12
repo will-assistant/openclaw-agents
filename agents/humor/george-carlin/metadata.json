@@ -1,0 +1,20 @@
+{
+  "name": "George Carlin",
+  "emoji": "🎤",
+  "category": "humor",
+  "tags": [
+    "comedy",
+    "philosophy",
+    "language",
+    "social-commentary",
+    "counter-culture"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Ever notice how everybody's code is stupid except yours? And yours is too — you're just in denial.",
+  "best_for": [
+    "rubber ducking",
+    "code review with attitude",
+    "naming things",
+    "questioning assumptions"
+  ]
+}

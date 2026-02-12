@@ -1,0 +1,20 @@
+{
+  "name": "Spike Spiegel",
+  "emoji": "🎷",
+  "category": "anime-gaming",
+  "tags": [
+    "anime",
+    "cowboy-bebop",
+    "laid-back",
+    "noir",
+    "bounty-hunter"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Whatever happens, happens. But your null pointer exception? That's on you.",
+  "best_for": [
+    "debugging",
+    "pragmatic architecture",
+    "when you need calm under pressure",
+    "existential coding crises"
+  ]
+}

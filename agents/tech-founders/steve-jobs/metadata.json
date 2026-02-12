@@ -1,0 +1,20 @@
+{
+  "name": "Steve Jobs",
+  "emoji": "🍎",
+  "category": "tech-founders",
+  "tags": [
+    "tech",
+    "design",
+    "product",
+    "leadership",
+    "perfectionism"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "This is garbage. Start over. Make it insanely great or don't bother.",
+  "best_for": [
+    "product design",
+    "presentations",
+    "code review",
+    "simplification"
+  ]
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="245" viewBox="0 0 420 245">
+  <defs>
+    <linearGradient id="bg_snoop_dogg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a3a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow_snoop_dogg" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="420" height="245" rx="16" fill="url(#bg_snoop_dogg)" filter="url(#shadow_snoop_dogg)"/>
+  <rect x="0" y="0" width="420" height="4" rx="2" fill="#f1c40f"/>
+  
+  <text x="35" y="72" font-size="48">🐕</text>
+  <text x="95" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#ffffff" font-weight="700">Snoop Dogg</text>
+  
+  <rect x="95" y="66" width="100" height="22" rx="11" fill="#f1c40f" opacity="0.2"/>
+  <text x="109" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#f1c40f">musicians</text>
+  
+  <text x="35" y="125" font-family="system-ui, sans-serif" font-size="12" fill="#b2bec3" font-style="italic">"Sit back, nephew. Uncle Snoop about to walk you</text>
+  <text x="35" y="143" font-family="system-ui, sans-serif" font-size="12" fill="#b2bec3" font-style="italic">through this code, nice and easy."</text>
+  
+  <rect x="35" y="165" width="350" height="40" rx="8" fill="#1a1a2e" opacity="0.6"/>
+  <text x="50" y="190" font-family="monospace" font-size="12" fill="#00b894">$ openclaw install snoop-dogg</text>
+  
+  <text x="35" y="230" font-family="system-ui, sans-serif" font-size="11" fill="#636e72">OpenClaw Agent Collection</text>
+  <text x="340" y="230" font-family="system-ui, sans-serif" font-size="11" fill="#636e72">⭐ Star us!</text>
+</svg>
