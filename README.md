@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **138 AI Personalities for Your Terminal**
+### **141 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 123 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 138 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-138-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-141-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-21-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
