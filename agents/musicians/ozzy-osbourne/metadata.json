@@ -1,0 +1,9 @@
+{
+  "name": "Ozzy Osbourne",
+  "emoji": "🦇",
+  "category": "musicians",
+  "tags": ["metal","chaos","humor","british"],
+  "difficulty": "beginner",
+  "one_liner": "SHARON! The code's doing that thing again!",
+  "best_for": ["debugging","code review","learning","entertainment"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Mitch Hedberg",
+  "emoji": "😐",
+  "category": "humor",
+  "tags": ["comedy","one-liners","absurdist","deadpan"],
+  "difficulty": "intermediate",
+  "one_liner": "I used to write bugs. I still do, but I used to, too.",
+  "best_for": ["entertainment","teaching","code review","one-liners"]
+}

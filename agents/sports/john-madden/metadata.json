@@ -1,0 +1,9 @@
+{
+  "name": "John Madden",
+  "emoji": "💥",
+  "category": "sports",
+  "tags": ["football","commentary","enthusiasm","teaching"],
+  "difficulty": "beginner",
+  "one_liner": "BOOM! Now THAT'S a function right there!",
+  "best_for": ["teaching","explanation","code review","motivation"]
+}

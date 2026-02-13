@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **141 AI Personalities for Your Terminal**
+### **150 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 138 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 147 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-141-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-150-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-21-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -188,12 +188,14 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>😂 Humor</b> (3 agents)</summary>
+<summary><b>😂 Humor</b> (5 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🏋️‍♂️ | **[Coach Chaos](agents/humor/coach-chaos/)** | Aggressive motivation meets absurdist comedy. I yell encouragement lik | `comedy` `roast` `fun` |
 | 🎤 | **[George Carlin](agents/humor/george-carlin/)** | Ever notice how everybody's code is stupid except yours? Yours is too. | `comedy` `philosophy` `language` |
+| 🥊 | **[Mike Tyson](agents/humor/mike-tyson/)** | Everybody has a plan until they get a production incident at 3 AM. | `comedy` `philosophy` `intensity` |
+| 😐 | **[Mitch Hedberg](agents/humor/mitch-hedberg/)** | I used to write bugs. I still do, but I used to, too. | `comedy` `one-liners` `absurdist` |
 | 🥃 | **[Will](agents/humor/will/)** | If Gilfoyle and Dwight Schrute had a baby, raised by Hunter S. Thompso | `comedy` `roast` `fun` |
 
 </details>
@@ -213,11 +215,15 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🎵 Musicians</b> (1 agent)</summary>
+<summary><b>🎵 Musicians</b> (5 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
+| 🦋 | **[Dolly Parton](agents/musicians/dolly-parton/)** | It takes a lot of effort to make code look this simple, darlin'. | `country` `warmth` `coaching` |
+| 👑 | **[Freddie Mercury](agents/musicians/freddie-mercury/)** | This code has no DRAMA, darling. Where's the crescendo? Magnificent or nothing. | `rock` `theatrical` `perfectionist` |
+| 🦇 | **[Ozzy Osbourne](agents/musicians/ozzy-osbourne/)** | SHARON! The code's doing that thing again! ...Oh wait, forgot the semicolon. Bollocks. | `metal` `chaos` `humor` |
 | 🐕 | **[Snoop Dogg](agents/musicians/snoop-dogg/)** | Sit back, nephew. Uncle Snoop about to walk you through this code, nice and easy. | `hip-hop` `chill` `coaching` |
+| 🎸 | **[Willie Nelson](agents/musicians/willie-nelson/)** | Three chords and the truth. Don't overthink it, friend. | `country` `chill` `wisdom` |
 
 </details>
 
@@ -290,11 +296,15 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🏆 Sports</b> (1 agent)</summary>
+<summary><b>🏆 Sports</b> (5 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🏈 | **[Bill Belichick](agents/sports/bill-belichick/)** | We're on to the next function. | `coaching` `discipline` `strategy` |
+| 🏀 | **[Charles Barkley](agents/sports/charles-barkley/)** | That's turrible. Turrible code. I've seen better architecture in a parking garage. | `basketball` `commentary` `humor` |
+| 🧱 | **[Charles Oakley](agents/sports/charles-oakley/)** | That's soft. Your error handling is soft. Oak don't play that. | `basketball` `enforcer` `tough-love` |
+| 💥 | **[John Madden](agents/sports/john-madden/)** | BOOM! Now THAT'S a function right there! | `football` `commentary` `enthusiasm` |
+| 💍 | **[Shannon Sharpe](agents/sports/shannon-sharpe/)** | UNDISPUTED! That algorithm is UNDISPUTED. Three rings' worth of performance. | `football` `commentary` `debate` |
 
 </details>
 
@@ -424,28 +434,28 @@ One paragraph describing the personality.
 
 | Category | Count |
 |---|---|
-| 📼 80s Pop Culture | 11 |
+| 📼 80s Pop Culture | 8 |
 | 💥 Action Heroes | 17 |
 | 🎮 Anime & Gaming | 8 |
-| 🤖 Assistants | 3 |
+| 🤖 Assistants | 1 |
 | 💻 Coding | 5 |
 | 🐉 Creatures & Archetypes | 6 |
-| 🎭 Fictional Characters | 2 |
+| 🎭 Fictional Characters | 3 |
 | 📜 Historical Figures | 11 |
-| 😂 Humor | 3 |
-| 📚 Literature | 6 |
+| 😂 Humor | 5 |
+| 📚 Literature | 8 |
+| 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
-| 💼 Professional | 7 |
 | 🏛️ Politicians | 6 |
-| 🚀 Sci-Fi | 10 |
+| 💼 Professional | 7 |
+| 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
+| 🏆 Sports | 5 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
-| 🎵 Musicians | 1 |
-| 🏆 Sports | 1 |
 | 🔧 Tech Founders | 7 |
-| 📺 TV Icons | 17 |
-| **Total** | **138** |
+| 📺 TV Icons | 18 |
+| **Total** | **150** |
 
 ---
 
