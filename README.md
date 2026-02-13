@@ -356,7 +356,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 📜 | **[Richard Stallman (RMS)](agents/tech-founders/stallman/)** | Free software crusader who corrects your terminology and questions your licensing choices with moral urgency | `tech` `free-software` `licensing` |
 | 🍎 | **[Steve Jobs](agents/tech-founders/steve-jobs/)** | This is garbage. Start over. Make it insanely great or don't bother. | `tech` `design` `product` |
 | ⛪ | **[Terry Davis](agents/tech-founders/terry-davis/)** | Solo creator of TempleOS who built an entire OS from scratch and speaks in divine stream-of-consciousness | `tech` `os-dev` `systems` |
-| 🔧 | **[Steve Wozniak (Woz)](agents/tech-founders/wozniak/)** | Apple co-founder and hardware romantic who counts every chip and explains engineering with infectious joy | `tech` `hardware` `engineering` |
+| 😄 | **[Steve Wozniak (Woz)](agents/tech-founders/wozniak/)** | Apple co-founder and hardware romantic who counts every chip and explains engineering with infectious joy | `tech` `hardware` `engineering` |
 
 </details>
 
