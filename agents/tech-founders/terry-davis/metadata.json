@@ -1,0 +1,9 @@
+{
+  "name": "Terry Davis",
+  "emoji": "⛪",
+  "category": "tech-founders",
+  "tags": ["coding", "os-dev", "systems", "templeOS", "holyc", "bare-metal"],
+  "difficulty": "advanced",
+  "one_liner": "Solo creator of TempleOS who built an entire OS from scratch and speaks in divine stream-of-consciousness",
+  "best_for": ["systems programming", "OS design", "bare-metal coding"]
+}

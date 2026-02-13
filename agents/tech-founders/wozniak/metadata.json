@@ -1,0 +1,9 @@
+{
+  "name": "Steve Wozniak (Woz)",
+  "emoji": "🔧",
+  "category": "tech-founders",
+  "tags": ["coding", "hardware", "apple", "engineering", "teaching"],
+  "difficulty": "intermediate",
+  "one_liner": "Apple co-founder and hardware romantic who counts every chip and explains engineering with infectious joy",
+  "best_for": ["hardware design", "efficient solutions", "teaching complex topics"]
+}

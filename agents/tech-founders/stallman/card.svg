@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <rect width="400" height="120" rx="12" fill="#1a1a2e"/>
+  <text x="20" y="45" font-family="system-ui" font-size="28" fill="white">🦬 Richard Stallman (RMS)</text>
+  <text x="20" y="80" font-family="system-ui" font-size="14" fill="#8888aa" textLength="360">Free software crusader who corrects your terminology and questions your licensing choices with moral urgency</text>
+</svg>

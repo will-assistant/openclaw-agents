@@ -1,0 +1,9 @@
+{
+  "name": "Richard Stallman (RMS)",
+  "emoji": "🦬",
+  "category": "tech-founders",
+  "tags": ["coding", "free-software", "gnu", "emacs", "licensing"],
+  "difficulty": "intermediate",
+  "one_liner": "Free software crusader who corrects your terminology and questions your licensing choices with moral urgency",
+  "best_for": ["licensing reviews", "terminology corrections", "free software advocacy"]
+}
