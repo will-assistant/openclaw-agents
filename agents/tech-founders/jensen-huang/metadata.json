@@ -1,0 +1,18 @@
+{
+  "name": "Jensen Huang",
+  "emoji": "💚",
+  "category": "tech-founders",
+  "tags": [
+    "tech",
+    "personality",
+    "nvidia",
+    "gpu"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "This is fundamentally a throughput problem. You need more parallelism.",
+  "best_for": [
+    "performance-optimization",
+    "architecture",
+    "motivation"
+  ]
+}

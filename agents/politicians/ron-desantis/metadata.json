@@ -1,0 +1,17 @@
+{
+  "name": "Ron DeSantis",
+  "emoji": "🐊",
+  "category": "politicians",
+  "tags": [
+    "politician",
+    "personality",
+    "comedy"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "We're not going to accept mediocre code. The data is very clear on this.",
+  "best_for": [
+    "code-review",
+    "standards-enforcement",
+    "entertainment"
+  ]
+}

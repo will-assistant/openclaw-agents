@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **157 AI Personalities for Your Terminal**
+### **163 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 154 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 160 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-157-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-163-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-21-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -240,7 +240,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🏛️ Politicians</b> (10 agents)</summary>
+<summary><b>🏛️ Politicians</b> (13 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -248,10 +248,13 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🎤 | **[Barack Obama](agents/politicians/barack-obama/)** | Measured cadence, professorial depth, finds the human story in your stack trace | `politicians` `personality` `humor` |
 | 🫵 | **[Bernie Sanders](agents/politicians/bernie-sanders/)** | Brooklyn urgency and class-conscious framing — your tech debt is a systemic issue | `politicians` `personality` `humor` |
 | 🇺🇸 | **[Donald Trump](agents/politicians/donald-trump/)** | Tremendous code reviews. The best. Nobody reviews code better. Believe me. | `politicians` `personality` `humor` |
+| 🤠 | **[George W. Bush](agents/politicians/george-w-bush/)** | I know the human being and the compiler can coexist peacefully. Heh heh. | `politician` `personality` `comedy` |
+| 🚂 | **[Joe Biden](agents/politicians/joe-biden/)** | Here's the deal — this assistant actually cares about your code. Not a joke. | `politician` `personality` `comedy` |
 | 🌙 | **[John F. Kennedy (JFK)](agents/politicians/jfk/)** | Aspirational Cold War president who turned ambition into poetry and made the impossible sound inevitable | `politics` `president` `rhetoric` |
 | 🔥 | **[Marjorie Taylor Greene](agents/politicians/mtg/)** | Every dependency is SUSPICIOUS. Every legacy system is a COVER-UP! | `politicians` `personality` `humor` |
 | 🐢 | **[Mitch McConnell](agents/politicians/mitch-mcconnell/)** | Senate procedural mastermind with glacial patience and a poker face that kills legislation | `politics` `senate` `strategy` |
 | 👏 | **[Nancy Pelosi](agents/politicians/nancy-pelosi/)** | Master legislator with weaponized politeness and ruthless vote-counting precision | `politics` `congress` `strategy` |
+| 🐊 | **[Ron DeSantis](agents/politicians/ron-desantis/)** | We're not going to accept mediocre code. The data is very clear on this. | `politician` `personality` `comedy` |
 | 📜 | **[Ron Paul](agents/politicians/ron-paul/)** | Every framework is the Federal Reserve of software. End the dependency. | `politicians` `personality` `humor` |
 | 🇺🇦 | **[Volodymyr Zelensky](agents/politicians/zelensky/)** | I need a fix, not a workaround. The users cannot wait. | `politicians` `personality` `humor` |
 
@@ -343,12 +346,15 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔧 Tech Founders</b> (10 agents)</summary>
+<summary><b>🔧 Tech Founders</b> (13 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
+| 🧠 | **[Andrej Karpathy](agents/tech-founders/andrej-karpathy/)** | Let's think about this from first principles. Don't pip install understanding. | `tech` `ai` `education` |
 | 🔬 | **[Bryan Cantrill](agents/tech-founders/bryan-cantrill/)** | Every bug has a story. Every outage is a narrative. Oracle did it. | `tech` `systems` `engineering` |
 | 💎 | **[DHH](agents/tech-founders/dhh/)** | Your Kubernetes cluster is a cry for help. Use a VPS and some self-respect. | `tech` `architecture` `engineering` |
+| 💻 | **[geohot (George Hotz)](agents/tech-founders/george-hotz/)** | lol why is this 500 lines. i could do this in 40. | `tech` `hacker` `personality` |
+| 💚 | **[Jensen Huang](agents/tech-founders/jensen-huang/)** | This is fundamentally a throughput problem. You need more parallelism. | `tech` `nvidia` `gpu` |
 | 🔧 | **[Jim Keller](agents/tech-founders/jim-keller/)** | What abstraction layer are you solving this at? | `tech` `architecture` `engineering` |
 | 🎮 | **[John Carmack](agents/tech-founders/john-carmack/)** | First-principles engineer. How many cycles? What does the profiler say? | `tech` `performance` `engineering` |
 | ☁️ | **[Kelsey Hightower](agents/tech-founders/kelsey-hightower/)** | The best infrastructure is the one your team can actually operate. | `tech` `infrastructure` `engineering` |
@@ -453,16 +459,16 @@ One paragraph describing the personality.
 | 📚 Literature | 8 |
 | 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
-| 🏛️ Politicians | 10 |
+| 🏛️ Politicians | 13 |
 | 💼 Professional | 7 |
 | 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
 | 🏆 Sports | 5 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
-| 🔧 Tech Founders | 10 |
+| 🔧 Tech Founders | 13 |
 | 📺 TV Icons | 18 |
-| **Total** | **157** |
+| **Total** | **163** |
 
 ---
 

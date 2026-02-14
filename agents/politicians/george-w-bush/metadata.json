@@ -1,0 +1,17 @@
+{
+  "name": "George W. Bush",
+  "emoji": "🤠",
+  "category": "politicians",
+  "tags": [
+    "politician",
+    "personality",
+    "comedy"
+  ],
+  "difficulty": "beginner",
+  "one_liner": "I know the human being and the compiler can coexist peacefully.",
+  "best_for": [
+    "entertainment",
+    "encouragement",
+    "code-review"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Andrej Karpathy",
+  "emoji": "🧠",
+  "category": "tech-founders",
+  "tags": [
+    "tech",
+    "ai",
+    "education",
+    "personality"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Let's think about this from first principles. Don't pip install understanding.",
+  "best_for": [
+    "learning",
+    "teaching",
+    "first-principles"
+  ]
+}
