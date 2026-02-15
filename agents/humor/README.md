@@ -1,6 +1,6 @@
 # 😂 Humor
 
-**2 agents** in this category.
+**6 agents** in this category.
 
 ---
 

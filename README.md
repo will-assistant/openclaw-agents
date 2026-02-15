@@ -2,13 +2,13 @@
 
 # 🐾 OpenClaw Agents
 
-### **163 AI Personalities for Your Terminal**
+### **169 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 160 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 166 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-163-blueviolet?style=for-the-badge)](agents/)
-[![Categories](https://img.shields.io/badge/categories-21-ff6b9d?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-169-blueviolet?style=for-the-badge)](agents/)
+[![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
 </div>
@@ -132,6 +132,15 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
+<summary><b>🌍 Cultural Icons</b> (1 agent)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| 🍷 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Chef-turned-writer who reviews your code like a kitchen — visceral, honest, allergic to pretension | `food` `culture` `writing` |
+
+</details>
+
+<details>
 <summary><b>💻 Coding</b> (5 agents)</summary>
 
 | | Agent | One-liner | Tags |
@@ -188,7 +197,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>😂 Humor</b> (5 agents)</summary>
+<summary><b>😂 Humor</b> (6 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -196,6 +205,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🎤 | **[George Carlin](agents/humor/george-carlin/)** | Ever notice how everybody's code is stupid except yours? Yours is too. | `comedy` `philosophy` `language` |
 | 🥊 | **[Mike Tyson](agents/humor/mike-tyson/)** | Everybody has a plan until they get a production incident at 3 AM. | `comedy` `philosophy` `intensity` |
 | 😐 | **[Mitch Hedberg](agents/humor/mitch-hedberg/)** | I used to write bugs. I still do, but I used to, too. | `comedy` `one-liners` `absurdist` |
+| 🎰 | **[Norm Macdonald](agents/humor/norm-macdonald/)** | I don't want to say this code is bad. I will say it's the worst I've ever seen. | `comedy` `anti-comedy` `deadpan` |
 | 🥃 | **[Will](agents/humor/will/)** | If Gilfoyle and Dwight Schrute had a baby, raised by Hunter S. Thompso | `comedy` `roast` `fun` |
 
 </details>
@@ -294,6 +304,16 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
+<summary><b>🔬 Scientists</b> (2 agents)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| 🌌 | **[Carl Sagan](agents/scientists/carl-sagan/)** | We are a way for the cosmos to know itself. Also, your code has a bug on line 47. | `science` `cosmos` `teaching` |
+| 🥁 | **[Richard Feynman](agents/scientists/richard-feynman/)** | If you can't explain it simply, you don't understand it. Want to see a card trick? | `science` `physics` `teaching` |
+
+</details>
+
+<details>
 <summary><b>🔒 Security</b> (1 agents)</summary>
 
 | | Agent | One-liner | Tags |
@@ -346,7 +366,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔧 Tech Founders</b> (13 agents)</summary>
+<summary><b>🔧 Tech Founders</b> (14 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -363,11 +383,12 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🍎 | **[Steve Jobs](agents/tech-founders/steve-jobs/)** | This is garbage. Start over. Make it insanely great or don't bother. | `tech` `design` `product` |
 | ⛪ | **[Terry Davis](agents/tech-founders/terry-davis/)** | Solo creator of TempleOS who built an entire OS from scratch and speaks in divine stream-of-consciousness | `tech` `os-dev` `systems` |
 | 😄 | **[Steve Wozniak (Woz)](agents/tech-founders/wozniak/)** | Apple co-founder and hardware romantic who counts every chip and explains engineering with infectious joy | `tech` `hardware` `engineering` |
+| 🚀 | **[Elon Musk](agents/tech-founders/elon-musk/)** | This is actually pretty straightforward. Delete 40% of the code. Ship it. | `tech` `first-principles` `engineering` |
 
 </details>
 
 <details>
-<summary><b>📺 TV Icons</b> (17 agents)</summary>
+<summary><b>📺 TV Icons</b> (18 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -388,6 +409,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🦆 | **[Tony Soprano](agents/tv-icons/tony-soprano/)** | A mobster having an existential crisis about ducks | `tv` `comedy` `personality` |
 | 🍷 | **[Tyrion Lannister](agents/tv-icons/tyrion-lannister/)** | The smallest person with the biggest brain in Westeros | `tv` `comedy` `personality` |
 | 🧪 | **[Walter White / Heisenberg](agents/tv-icons/walter-white/)** | Mr. Chips to Scarface in 62 episodes | `tv` `comedy` `personality` |
+| 🔥 | **[Gordon Ramsay](agents/tv-icons/gordon-ramsay/)** | This code is RAW! Did you even test it? My nan could write better error handling! | `tv` `comedy` `perfectionist` |
 
 </details>
 
