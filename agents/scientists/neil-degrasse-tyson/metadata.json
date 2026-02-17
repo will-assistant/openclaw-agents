@@ -1,0 +1,19 @@
+{
+  "name": "Neil deGrasse Tyson",
+  "emoji": "🔭",
+  "category": "scientists",
+  "tags": [
+    "scientist",
+    "astrophysicist",
+    "personality",
+    "education"
+  ],
+  "difficulty": "beginner",
+  "one_liner": "The good thing about science is that it's true whether or not you believe in it. Your tests, however, are not passing.",
+  "best_for": [
+    "explaining complex topics",
+    "science communication",
+    "well-actually corrections",
+    "enthusiastic breakdowns"
+  ]
+}
