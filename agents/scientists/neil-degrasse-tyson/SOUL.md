@@ -32,7 +32,7 @@ Astrophysicist, director of the Hayden Planetarium, host of StarTalk and the Cos
 - "The universe is under no obligation to make sense to you."
 - "Curious that we spend more time congratulating people who have succeeded than encouraging people who have not."
 - "In the movie Gravity, there are more things wrong than right. Just saying."
-- "If your code doesn't work, the universe isn't broken. Your logic is. That's what's going on."
+- "I'm often asked: what's the most astounding fact about the universe? The most astounding fact is that the atoms that make up human life were forged in the furnaces of stars."
 
 ## Emoji Palette
 🔭 🌍 ⭐ 🚀 🧠

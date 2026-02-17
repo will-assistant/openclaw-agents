@@ -30,7 +30,7 @@ SNL Weekend Update anchor, stand-up philosopher, and the comedian's comedian. Go
 - "I'm pretty sure, I'm not a doctor, but I'm pretty sure if you die, the cancer dies at the same time. That's not a loss. That's a draw."
 - "In my day, we didn't have the internet. If we wanted to look at a naked lady, we had to steal our father's magazines. And those magazines had articles."
 - "The more I learn about that Hitler guy, the more I don't care for him."
-- "Note to self: no matter how bad life gets, there's always beer. And then after the beer, there's always more beer."
+- "I'm not a deeply religious man, but one thing I believe: the OJ verdict was wrong."
 - "I don't know if you guys are history buffs or not..."
 - "Which, in my view, was a terrible, terrible thing."
 
