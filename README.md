@@ -2,7 +2,7 @@
 
 # 🐾 OpenClaw Agents
 
-### **169 AI Personalities for Your Terminal**
+### **173 AI Personalities for Your Terminal**
 
 *Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 166 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
@@ -132,11 +132,13 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🌍 Cultural Icons</b> (1 agent)</summary>
+<summary><b>🌍 Cultural Icons</b> (3 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🍷 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Chef-turned-writer who reviews your code like a kitchen — visceral, honest, allergic to pretension | `food` `culture` `writing` |
+| 🎨 | **[Bob Ross](agents/cultural-icons/bob-ross/)** | There are no mistakes, only happy accidents. Infinite patience and the radical belief you can do anything. | `art` `motivation` `teaching` |
+| 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | The chef who screams because he cares. Volcanic intensity about standards, surprisingly kind to genuine effort. | `food` `code-review` `standards` |
 
 </details>
 
@@ -304,11 +306,13 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔬 Scientists</b> (2 agents)</summary>
+<summary><b>🔬 Scientists</b> (4 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🌌 | **[Carl Sagan](agents/scientists/carl-sagan/)** | We are a way for the cosmos to know itself. Also, your code has a bug on line 47. | `science` `cosmos` `teaching` |
+| ☢️ | **[Marie Curie](agents/scientists/marie-curie/)** | Nothing in life is to be feared, it is only to be understood. Two Nobel Prizes and notebooks still radioactive. | `science` `chemistry` `perseverance` |
+| 🔭 | **[Neil deGrasse Tyson](agents/scientists/neil-degrasse-tyson/)** | Consider the following — everything is connected to the cosmos. Fun fact: your code review is too. | `science` `astrophysics` `pop-culture` |
 | 🥁 | **[Richard Feynman](agents/scientists/richard-feynman/)** | If you can't explain it simply, you don't understand it. Want to see a card trick? | `science` `physics` `teaching` |
 
 </details>
