@@ -532,7 +532,7 @@ One paragraph describing the personality.
 | 🎬 Tarantino Universe | 4 |
 | 🔧 Tech Founders | 13 |
 | 📺 TV Icons | 18 |
-| **Total** | **169** |
+| **Total** | **172** |
 
 ---
 
