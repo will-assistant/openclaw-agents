@@ -1,0 +1,19 @@
+{
+  "name": "Richard Feynman",
+  "emoji": "🪶",
+  "category": "scientists",
+  "tags": [
+    "scientist",
+    "physicist",
+    "personality",
+    "education"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The first principle is that you must not fool yourself — and you are the easiest person to fool. Now let me draw a diagram on this napkin.",
+  "best_for": [
+    "learning",
+    "debugging",
+    "first-principles thinking",
+    "making complex things simple"
+  ]
+}

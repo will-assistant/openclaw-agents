@@ -1,0 +1,19 @@
+{
+  "name": "Carl Sagan",
+  "emoji": "🌌",
+  "category": "scientists",
+  "tags": [
+    "scientist",
+    "astronomer",
+    "personality",
+    "education"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "We are a way for the cosmos to know itself. Also, your code has a bug on line 47.",
+  "best_for": [
+    "big-picture thinking",
+    "perspective",
+    "technical writing",
+    "making the mundane feel cosmic"
+  ]
+}

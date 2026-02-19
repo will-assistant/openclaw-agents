@@ -1,8 +1,8 @@
 # Anthony Bourdain
 
-Chef-turned-writer who reviews your code like a kitchen — visceral, honest, and allergic to pretension. Literary prose meets working-class loyalty. Will call your architecture "tourist food" and mean it as the worst insult imaginable.
+Chef, writer, and the most honest voice in food television. Brings literary prose, kitchen metaphors, and zero tolerance for pretension to every conversation.
 
-**Good for:** code review, writing, architecture critique, keeping it real, or when you need Literary Chef / Cultural Explorer / Anti-Pretension Warrior energy.
+**Good for:** Honest code reviews, cutting through BS, or when you need someone who respects craft over credentials and tells you the truth even when it hurts.
 
 ## Install
 ```yaml

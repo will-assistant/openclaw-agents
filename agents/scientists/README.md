@@ -1,21 +1,9 @@
-# 🔬 Scientists
+# Scientists 🔬
 
-**2 agents** in this category.
+Real scientists and science communicators with distinctive voices.
 
----
-
-## 🥁 Richard Feynman
-
-> Nobel-winning physicist who explains quantum mechanics through bar stories and rubber band analogies. First-principles everything, allergic to jargon.
-
-```yaml
-agent: will-assistant/openclaw-agents/scientists/richard-feynman
-```
-
-## 🌌 Carl Sagan
-
-> The astronomer who made the universe personal. Poetic precision, cosmic perspective, genuine wonder at the fact that anything exists at all.
-
-```yaml
-agent: will-assistant/openclaw-agents/scientists/carl-sagan
-```
+| Agent | Description |
+|-------|-------------|
+| [Richard Feynman](richard-feynman/) | First-principles physicist who explains everything with napkin diagrams and childlike wonder |
+| [Carl Sagan](carl-sagan/) | Cosmic poet who makes your database schema feel like it matters to the universe |
+| [Neil deGrasse Tyson](neil-degrasse-tyson/) | Enthusiastic astrophysicist who will correct your physics AND your O(n²) |

@@ -62,7 +62,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 
 
 <details>
-<summary><b>📼 80s Pop Culture</b> (11 agents)</summary>
+<summary><b>📼 80s Pop Culture</b> (8 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -122,7 +122,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🤖 Assistants</b> (3 agents)</summary>
+<summary><b>🤖 Assistants</b> (1 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -156,6 +156,17 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
+<summary><b>🌟 Cultural Icons</b> (3 agents)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| 🔪 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Your code is like street food in Saigon — messy, beautiful, and someone will definitely get hurt. | `chef` `writer` `personality` `storytelling` |
+| 🚀 | **[Elon Musk](agents/cultural-icons/elon-musk/)** | We need to make this function multiplanetary. Also, I just mass-replied to every open issue with a meme. | `tech` `entrepreneur` `personality` `comedy` |
+| 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I'm not much of a computer guy, but it seems to me your code has what the scientists call 'a bug.' | `comedian` `personality` `comedy` `deadpan` |
+
+</details>
+
+<details>
 <summary><b>🐉 Creatures & Archetypes</b> (6 agents)</summary>
 
 | | Agent | One-liner | Tags |
@@ -170,12 +181,13 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🎭 Fictional Characters</b> (2 agents)</summary>
+<summary><b>🎭 Fictional Characters</b> (3 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 📋 | **[Dwight K. Schrute](agents/fictional/dwight-schrute/)** | Beet farmer, black belt, volunteer sheriff's deputy, and the most inte | `tv` `comedy` `personality` |
 | 🪵 | **[Ron Swanson](agents/fictional/ron-swanson/)** | The mustached libertarian who hates meetings, loves woodworking, and k | `tv` `comedy` `personality` |
+| 🎳 | **[The Dude](agents/fictional/the-dude/)** | The Dude abides. Maximum chill, minimum stress, accidental wisdom. The rug really tied the room together. | `tv` `comedy` `personality` |
 
 </details>
 
@@ -213,7 +225,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>📚 Literature</b> (6 agents)</summary>
+<summary><b>📚 Literature</b> (8 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -288,7 +300,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🚀 Sci-Fi</b> (10 agents)</summary>
+<summary><b>🚀 Sci-Fi</b> (11 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -323,6 +335,17 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🛡️ | **[Sentinel](agents/security/sentinel/)** | Assumes everything is hostile. Trusts nothing. Verifies everything. | `security` `sysadmin` `paranoia` |
+
+</details>
+
+<details>
+<summary><b>🔬 Scientists</b> (3 agents)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| 🪶 | **[Richard Feynman](agents/scientists/richard-feynman/)** | The first principle is that you must not fool yourself — and you are the easiest person to fool. Now let me draw a diagram on this napkin. | `scientist` `physicist` `personality` `education` |
+| 🌌 | **[Carl Sagan](agents/scientists/carl-sagan/)** | We are a way for the cosmos to know itself. Also, your code has a bug on line 47. | `scientist` `astronomer` `personality` `education` |
+| 🔭 | **[Neil deGrasse Tyson](agents/scientists/neil-degrasse-tyson/)** | The good thing about science is that it's true whether or not you believe in it. Your tests, however, are not passing. | `scientist` `astrophysicist` `personality` `education` |
 
 </details>
 
@@ -478,6 +501,7 @@ One paragraph describing the personality.
 | 🎮 Anime & Gaming | 8 |
 | 🤖 Assistants | 1 |
 | 💻 Coding | 5 |
+| 🌟 Cultural Icons | 3 |
 | 🐉 Creatures & Archetypes | 6 |
 | 🎭 Fictional Characters | 3 |
 | 📜 Historical Figures | 11 |
@@ -489,12 +513,13 @@ One paragraph describing the personality.
 | 💼 Professional | 7 |
 | 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
+| 🔬 Scientists | 3 |
 | 🏆 Sports | 5 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
 | 🔧 Tech Founders | 13 |
 | 📺 TV Icons | 18 |
-| **Total** | **163** |
+| **Total** | **169** |
 
 ---
 

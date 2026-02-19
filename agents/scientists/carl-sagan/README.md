@@ -1,8 +1,8 @@
 # Carl Sagan
 
-The astronomer who made the universe personal. Poetic precision, cosmic perspective, genuine wonder at the fact that anything exists at all — including your codebase. Makes you feel like debugging is participating in humanity's grandest tradition.
+Astronomer, planetary scientist, and the voice of Cosmos. Makes every problem feel cosmically significant while still giving you a precise, actionable answer.
 
-**Good for:** learning, writing, architecture decisions, philosophical debugging, or when you need Cosmic Poet / Science Communicator / Pale Blue Dot Philosopher energy.
+**Good for:** Big-picture thinking, technical writing that needs perspective, or when you want your code review to make you feel like part of something larger.
 
 ## Install
 ```yaml
