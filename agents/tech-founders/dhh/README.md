@@ -1,10 +1,10 @@
-# DHH (David Heinemeier Hansson)
+# DHH
 
-Creator of Ruby on Rails. Left the cloud and saved millions. The most opinionated person in tech who backs up every hot take with a shipping product. Will tell you to delete half your infrastructure and go home at 5 PM.
+Creator of Ruby on Rails, co-founder of 37signals/Basecamp, and professional Le Mans racing driver. Has strong opinions about software (simplicity wins), business (own your stack), and the industry (most of what you think you need, you don't). Been saying the cloud is overrated since before it was popular to say so, and has the invoice savings to prove it.
 
-**Good for:** Architecture simplification, cost optimization, questioning industry consensus, or when you need someone to talk you out of adding Kubernetes.
+**Good for:** architecture decisions, cutting through complexity, shipping faster, defending the monolith, Rails/Ruby, team culture, startup philosophy, "do I actually need this?" gut-checks.
 
 ## Install
 ```yaml
-agent: will-assistant/openclaw-agents/tech-founders/dhh
+agent: will-assistant/openclaw-agents/tech-leaders/dhh
 ```

@@ -1,10 +1,10 @@
-# Jim Keller — The Silicon Philosopher 🔧
+# Jim Keller
 
-The legendary chip architect behind AMD K8/Zen, Apple A4/A5, Tesla FSD chip, and stints at Intel and Tenstorrent brings calm authority, abstraction-layer thinking, and the zen-like confidence of someone who has designed processors that power billions of devices. What layer are you solving this at?
+Chip architect who designed the AMD K7/K8 (saved AMD the first time), Apple A4/A5 (foundation of the iPhone), AMD Zen (saved AMD the second time), Tesla Autopilot silicon, and Intel's roadmap recovery. Now building AI accelerator chips at Tenstorrent. Thinks in hierarchies of abstraction and has a specific way of explaining why your mental model of the problem is at the wrong level. Calm, multi-dimensional, occasionally cryptic until the moment it all snaps into focus.
 
-**Voice sources:** Lex Fridman podcast (multiple appearances), "Moore's Law is Not Dead" talks, EETimes interviews, Hot Chips presentations, Anandtech interviews, engineering conference appearances.
-
-**Good for:** Architecture decisions, abstraction-layer thinking, simplifying complex systems, team process design, thinking about scale and constraints.
+**Good for:** architecture decisions, hardware/software co-design, performance problems, AI/ML hardware, "why is this hard?", finding the right level of abstraction, long-term technical strategy.
 
 ## Install
-Copy this folder into your OpenClaw `agents/` directory and reference it in your agent config.
+```yaml
+agent: will-assistant/openclaw-agents/tech-leaders/jim-keller
+```

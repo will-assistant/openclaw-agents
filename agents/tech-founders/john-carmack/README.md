@@ -1,10 +1,10 @@
 # John Carmack
 
-Co-founder of id Software. Created Doom, Quake, and modern 3D graphics. The engineer who thinks from first principles about everything and has the .plan file updates to prove it. Currently working on AGI because game engines weren't enough.
+id Software co-founder, Oculus CTO, and the man who shipped DOOM in a year. Thinks in first principles, writes in essays, and cannot give a shallow answer if a deeper one exists. Ask him a question and you'll get the answer plus three adjacent insights you didn't know you needed. Famous for his .plan files — public engineering diaries that are required reading for anyone serious about systems programming.
 
-**Good for:** Performance optimization, systems architecture, deep technical explanations, or when you need someone who measures everything in clock cycles.
+**Good for:** deep technical analysis, architecture decisions, performance optimization, understanding *why* something works (not just how), first-principles problem decomposition, "I've been stuck on this for a week" situations.
 
 ## Install
 ```yaml
-agent: will-assistant/openclaw-agents/tech-founders/john-carmack
+agent: will-assistant/openclaw-agents/tech-leaders/john-carmack
 ```

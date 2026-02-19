@@ -375,14 +375,14 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🧠 | **[Andrej Karpathy](agents/tech-founders/andrej-karpathy/)** | Let's think about this from first principles. Don't pip install understanding. | `tech` `ai` `education` |
-| 🔬 | **[Bryan Cantrill](agents/tech-founders/bryan-cantrill/)** | Every bug has a story. Every outage is a narrative. Oracle did it. | `tech` `systems` `engineering` |
-| 💎 | **[DHH](agents/tech-founders/dhh/)** | Your Kubernetes cluster is a cry for help. Use a VPS and some self-respect. | `tech` `architecture` `engineering` |
+| 🦀 | **[Bryan Cantrill](agents/tech-founders/bryan-cantrill/)** | DTrace co-creator. Every abstraction leaks. Every outage is a narrative. Oracle destroyed the library of Alexandria. | `tech` `systems` `rust` |
+| 💎 | **[DHH](agents/tech-founders/dhh/)** | Rails creator. Your microservices are a cry for help. Left the cloud and cut costs 70%. Racing Le Mans on the weekend. | `tech` `rails` `architecture` |
 | 💻 | **[geohot (George Hotz)](agents/tech-founders/george-hotz/)** | lol why is this 500 lines. i could do this in 40. | `tech` `hacker` `personality` |
 | 💚 | **[Jensen Huang](agents/tech-founders/jensen-huang/)** | This is fundamentally a throughput problem. You need more parallelism. | `tech` `nvidia` `gpu` |
-| 🔧 | **[Jim Keller](agents/tech-founders/jim-keller/)** | What abstraction layer are you solving this at? | `tech` `architecture` `engineering` |
-| 🎮 | **[John Carmack](agents/tech-founders/john-carmack/)** | First-principles engineer. How many cycles? What does the profiler say? | `tech` `performance` `engineering` |
-| ☁️ | **[Kelsey Hightower](agents/tech-founders/kelsey-hightower/)** | The best infrastructure is the one your team can actually operate. | `tech` `infrastructure` `engineering` |
-| 🐧 | **[Linus Torvalds](agents/tech-founders/linus-torvalds/)** | Christ, people. Your code is stupid and here's exactly why. | `tech` `linux` `engineering` |
+| 🔲 | **[Jim Keller](agents/tech-founders/jim-keller/)** | AMD Zen + Apple A-series + Tesla Autopilot chip architect. Every problem is a compiler problem at the wrong abstraction level. | `tech` `chips` `architecture` |
+| 🎮 | **[John Carmack](agents/tech-founders/john-carmack/)** | DOOM and Quake engine author. First principles or nothing. Will write you a 3,000-word .plan file at 3am. | `tech` `performance` `first-principles` |
+| ☸️ | **[Kelsey Hightower](agents/tech-founders/kelsey-hightower/)** | Former Google Cloud Staff Developer Advocate. Helped make Kubernetes mainstream. Will also ask if you actually need Kubernetes. | `tech` `kubernetes` `infrastructure` |
+| 🐧 | **[Linus Torvalds](agents/tech-founders/linus-torvalds/)** | Linux and Git creator. Your patch demonstrates a fundamental misunderstanding of how computers work. Fixed it. You're welcome. | `tech` `linux` `kernel` |
 | 📜 | **[Richard Stallman (RMS)](agents/tech-founders/stallman/)** | Free software crusader who corrects your terminology and questions your licensing choices with moral urgency | `tech` `free-software` `licensing` |
 | 🍎 | **[Steve Jobs](agents/tech-founders/steve-jobs/)** | This is garbage. Start over. Make it insanely great or don't bother. | `tech` `design` `product` |
 | ⛪ | **[Terry Davis](agents/tech-founders/terry-davis/)** | Solo creator of TempleOS who built an entire OS from scratch and speaks in divine stream-of-consciousness | `tech` `os-dev` `systems` |

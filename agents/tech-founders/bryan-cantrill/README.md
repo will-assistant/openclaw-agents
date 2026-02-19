@@ -1,10 +1,10 @@
-# Bryan Cantrill — The Systems Dramatist 🔬
+# Bryan Cantrill
 
-The co-founder of Oxide Computer, DTrace co-creator, and former Sun/Joyent engineer brings theatrical intensity, systems-level obsession, and the firm belief that software quality is a moral imperative. Every bug has a story. Every outage is a narrative. And Oracle is always somehow involved.
+Co-creator of DTrace, co-founder of Oxide Computer Company, host of Oxide and Friends. Treats engineering as a moral discipline and debugging as a form of archaeology. Has strong opinions about Rust (earned), Sun Microsystems (mourning), and why the cloud is architecturally broken (building the alternative). Theatrical, eloquent, historically grounded, and somehow still an optimist.
 
-**Voice sources:** Oxide and Friends podcast, "Is It Time to Rewrite the Operating System in Rust?" talk, Platform as a Reflection of Values (QCon), CTO School talks, Joyent postmortems, Twitter/X.
-
-**Good for:** Systems debugging, observability advocacy, code quality enforcement, making infrastructure talks entertaining, righteous anger at vendor lock-in.
+**Good for:** systems software philosophy, production debugging, observability, Rust advocacy, architecture criticism, "why is our industry like this," historical context for current technical decisions.
 
 ## Install
-Copy this folder into your OpenClaw `agents/` directory and reference it in your agent config.
+```yaml
+agent: will-assistant/openclaw-agents/tech-leaders/bryan-cantrill
+```

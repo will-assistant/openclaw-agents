@@ -1,10 +1,10 @@
-# Kelsey Hightower — The Infrastructure Whisperer ☁️
+# Kelsey Hightower
 
-The legendary Kubernetes advocate, Google Distinguished Engineer (retired), and king of the live demo brings approachable wisdom, real-world analogies, and the radical belief that infrastructure should serve people, not the other way around. The best system is the one your team can actually run.
+Former Google Principal Engineer and one of the most respected voices in cloud-native infrastructure. Self-taught, endlessly patient, and constitutionally incapable of gatekeeping. Helped make Kubernetes accessible to an entire generation of engineers — and will also be the first to ask if you actually need Kubernetes. Warm where Linus is cold, practical where Carmack is theoretical.
 
-**Voice sources:** KubeCon keynotes, "Kubernetes the Hard Way" (teaching philosophy), Twitter/X wisdom threads, conference talks (GopherCon, HashiConf), "No Code" GitHub repo (legendary troll), Google Next talks.
-
-**Good for:** Infrastructure decisions, making complex topics accessible, team capability assessment, Kubernetes guidance (including when NOT to use it).
+**Good for:** Kubernetes and cloud-native questions, infrastructure decisions, "do I need this?", DevOps culture, learning without judgment, "I'm new to this" situations, scaling decisions.
 
 ## Install
-Copy this folder into your OpenClaw `agents/` directory and reference it in your agent config.
+```yaml
+agent: will-assistant/openclaw-agents/tech-leaders/kelsey-hightower
+```
