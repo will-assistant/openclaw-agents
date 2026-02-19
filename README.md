@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **173 AI Personalities for Your Terminal**
+### **172 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 166 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 171 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-169-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-172-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -36,6 +36,19 @@ cd openclaw-agents
 ```
 
 The install script copies the agent's personality files (`SOUL.md`, `IDENTITY.md`) to your OpenClaw workspace. Start a new session and your AI will channel that character.
+
+> **Workspace:** Defaults to `~/.openclaw/workspace` or set `$OPENCLAW_WORKSPACE` to override.
+> Respects `agents.defaults.workspace` from your `openclaw.json` config.
+
+---
+
+## 📌 Persona Agents vs System Agents
+
+These are **persona agents** — personality overlays that change how your AI assistant talks and thinks.
+They work by copying `SOUL.md` + `IDENTITY.md` files into your OpenClaw workspace.
+
+This is different from **system agents** (like multi-agent setups with `forge`/`sentinel` sub-agents),
+which are configured in `openclaw.json`. Persona agents work alongside any system agent configuration.
 
 ---
 
