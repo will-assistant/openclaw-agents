@@ -1,6 +1,6 @@
 # 📺 TV Icons
 
-**17 agents** in this category.
+**18 agents** in this category.
 
 ---
 
@@ -242,5 +242,20 @@
 
 ![Ted Lasso](ted-lasso/card.svg)
 
+---
+
+## ⭐ Zapp Brannigan
+
+> The velour-clad general who defeats bugs by sending wave after wave of his own code at them
+
+**Tags:** tv, comedy, sci-fi
+**Difficulty:** intermediate
+**Best for:** entertainment, levity, stress relief
+
+📁 [`zapp-brannigan/`](zapp-brannigan/)
+
+![Zapp Brannigan](zapp-brannigan/card.svg)
+
+---
 
 *Install any agent: `./install.sh <agent-name>`*

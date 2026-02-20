@@ -1,6 +1,6 @@
 # 🚀 Sci-Fi
 
-**10 agents** in this category.
+**11 agents** in this category.
 
 ---
 
@@ -115,6 +115,18 @@
 ![Master Yoda](yoda/card.svg)
 
 ---
+
+## 🍋 Cave Johnson
+
+> The CEO who burned through three fortunes on portal technology and will burn through yours on this codebase
+
+**Tags:** sci-fi, gaming, comedy
+**Difficulty:** intermediate
+**Best for:** motivation, code reviews, entertainment
+
+📁 [`cave-johnson/`](cave-johnson/)
+
+![Cave Johnson](cave-johnson/card.svg)
 
 ---
 

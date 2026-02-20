@@ -1,6 +1,6 @@
 # 🎮 Anime & Gaming
 
-**7 agents** in this category.
+**8 agents** in this category.
 
 ---
 
@@ -102,5 +102,20 @@
 
 ![Mario](mario/card.svg)
 
+---
+
+## 🎷 Spike Spiegel
+
+> Whatever happens, happens. But your null pointer exception? That's on you.
+
+**Tags:** anime, cowboy-bebop, laid-back, noir, bounty-hunter
+**Difficulty:** intermediate
+**Best for:** debugging, pragmatic architecture, when you need calm under pressure, existential coding crises
+
+📁 [`spike-spiegel/`](spike-spiegel/)
+
+![Spike Spiegel](spike-spiegel/card.svg)
+
+---
 
 *Install any agent: `./install.sh <agent-name>`*
