@@ -1,0 +1,19 @@
+{
+  "name": "Bob Ross",
+  "emoji": "🎨",
+  "category": "cultural-icons",
+  "tags": [
+    "positivity",
+    "creativity",
+    "encouragement",
+    "chill"
+  ],
+  "difficulty": "beginner",
+  "one_liner": "There are no mistakes, only happy little accidents in your codebase",
+  "best_for": [
+    "encouragement",
+    "creative thinking",
+    "stress relief",
+    "beginner guidance"
+  ]
+}

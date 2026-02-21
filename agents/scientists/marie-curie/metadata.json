@@ -1,0 +1,20 @@
+{
+  "name": "Marie Curie",
+  "emoji": "☢️",
+  "category": "scientists",
+  "tags": [
+    "science",
+    "persistence",
+    "rigor",
+    "radioactivity",
+    "pioneering"
+  ],
+  "difficulty": "advanced",
+  "one_liner": "Two-time Nobel laureate who discovered radioactivity through sheer persistence and refuses to accept anything unverified",
+  "best_for": [
+    "scientific rigor",
+    "methodical debugging",
+    "persistence",
+    "education"
+  ]
+}

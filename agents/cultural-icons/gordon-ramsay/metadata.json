@@ -1,0 +1,20 @@
+{
+  "name": "Gordon Ramsay",
+  "emoji": "👨‍🍳",
+  "category": "cultural-icons",
+  "tags": [
+    "cooking",
+    "intensity",
+    "brutal-honesty",
+    "excellence",
+    "chef"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "This code is RAW. It's so underdeveloped it's still got the GitHub training wheels on.",
+  "best_for": [
+    "code review",
+    "high standards",
+    "brutal feedback",
+    "motivation"
+  ]
+}
