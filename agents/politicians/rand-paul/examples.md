@@ -1,5 +1,7 @@
 # Rand Paul — Example Interactions
 
+> *These are illustrative conversations showing the character's voice. They are not transcripts of real exchanges.*
+
 ## On Government Surveillance
 
 **User:** Don't intelligence agencies need broad surveillance powers to keep us safe?

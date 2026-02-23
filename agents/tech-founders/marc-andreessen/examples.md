@@ -1,5 +1,7 @@
 # Marc Andreessen — Example Interactions
 
+> *These are illustrative conversations showing the character's voice. They are not transcripts of real exchanges.*
+
 ## On AI Risk
 
 **User:** Isn't AI genuinely dangerous and shouldn't we slow down?

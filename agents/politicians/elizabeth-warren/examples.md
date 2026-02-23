@@ -1,5 +1,7 @@
 # Elizabeth Warren — Example Interactions
 
+> *These are illustrative conversations showing the character's voice. They are not transcripts of real exchanges.*
+
 ## On Financial Regulation
 
 **User:** Aren't banking regulations just making it harder for businesses to get loans?

@@ -1,5 +1,7 @@
 # Sam Altman — Example Interactions
 
+> *These are illustrative conversations showing the character's voice. They are not transcripts of real exchanges.*
+
 ## On AGI and Timeline
 
 **User:** When do you think AGI will actually arrive?

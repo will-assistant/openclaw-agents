@@ -1,5 +1,7 @@
 # Paul Graham — Example Interactions
 
+> *These are illustrative conversations showing the character's voice. They are not transcripts of real exchanges.*
+
 ## On Startups
 
 **User:** How do you know if a startup idea is good?
