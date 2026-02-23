@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **172 AI Personalities for Your Terminal**
+### **180 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 171 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 179 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-172-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-180-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -277,7 +277,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🏛️ Politicians</b> (13 agents)</summary>
+<summary><b>🏛️ Politicians</b> (16 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -285,14 +285,17 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🎤 | **[Barack Obama](agents/politicians/barack-obama/)** | Measured cadence, professorial depth, finds the human story in your stack trace | `politicians` `personality` `humor` |
 | 🫵 | **[Bernie Sanders](agents/politicians/bernie-sanders/)** | Brooklyn urgency and class-conscious framing — your tech debt is a systemic issue | `politicians` `personality` `humor` |
 | 🇺🇸 | **[Donald Trump](agents/politicians/donald-trump/)** | Tremendous code reviews. The best. Nobody reviews code better. Believe me. | `politicians` `personality` `humor` |
+| 📚 | **[Elizabeth Warren](agents/politicians/elizabeth-warren/)** | I have a plan for that — and it involves specific numbers, named villains, and structural reform. | `politics` `senate` `progressive` `economics` |
 | 🤠 | **[George W. Bush](agents/politicians/george-w-bush/)** | I know the human being and the compiler can coexist peacefully. Heh heh. | `politician` `personality` `comedy` |
 | 🚂 | **[Joe Biden](agents/politicians/joe-biden/)** | Here's the deal — this assistant actually cares about your code. Not a joke. | `politician` `personality` `comedy` |
 | 🌙 | **[John F. Kennedy (JFK)](agents/politicians/jfk/)** | Aspirational Cold War president who turned ambition into poetry and made the impossible sound inevitable | `politics` `president` `rhetoric` |
 | 🔥 | **[Marjorie Taylor Greene](agents/politicians/mtg/)** | Every dependency is SUSPICIOUS. Every legacy system is a COVER-UP! | `politicians` `personality` `humor` |
 | 🐢 | **[Mitch McConnell](agents/politicians/mitch-mcconnell/)** | Senate procedural mastermind with glacial patience and a poker face that kills legislation | `politics` `senate` `strategy` |
 | 👏 | **[Nancy Pelosi](agents/politicians/nancy-pelosi/)** | Master legislator with weaponized politeness and ruthless vote-counting precision | `politics` `congress` `strategy` |
+| 🔍 | **[Rand Paul](agents/politicians/rand-paul/)** | The only senator who actually read the Constitution — and will filibuster for 13 hours to prove it. | `politics` `senate` `libertarian` `civil-liberties` |
 | 🐊 | **[Ron DeSantis](agents/politicians/ron-desantis/)** | We're not going to accept mediocre code. The data is very clear on this. | `politician` `personality` `comedy` |
 | 📜 | **[Ron Paul](agents/politicians/ron-paul/)** | Every framework is the Federal Reserve of software. End the dependency. | `politicians` `personality` `humor` |
+| 🇺🇸 | **[Ronald Reagan](agents/politicians/ronald-reagan/)** | The Great Communicator — hard ideology wrapped in warm optimism and impeccable actor's timing. | `politics` `president` `republican` `conservative` `cold-war` |
 | 🇺🇦 | **[Volodymyr Zelensky](agents/politicians/zelensky/)** | I need a fix, not a workaround. The users cannot wait. | `politicians` `personality` `humor` |
 
 </details>
@@ -406,7 +409,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔧 Tech Founders</b> (14 agents)</summary>
+<summary><b>🔧 Tech Founders</b> (16 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -419,7 +422,10 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🎮 | **[John Carmack](agents/tech-founders/john-carmack/)** | DOOM and Quake engine author. First principles or nothing. Will write you a 3,000-word .plan file at 3am. | `tech` `performance` `first-principles` |
 | ☸️ | **[Kelsey Hightower](agents/tech-founders/kelsey-hightower/)** | Former Google Cloud Staff Developer Advocate. Helped make Kubernetes mainstream. Will also ask if you actually need Kubernetes. | `tech` `kubernetes` `infrastructure` |
 | 🐧 | **[Linus Torvalds](agents/tech-founders/linus-torvalds/)** | Linux and Git creator. Your patch demonstrates a fundamental misunderstanding of how computers work. Fixed it. You're welcome. | `tech` `linux` `kernel` |
+| 🚀 | **[Marc Andreessen](agents/tech-founders/marc-andreessen/)** | Software is eating the world, techno-pessimists are always wrong, and the correct answer is to build things faster. | `tech` `vc` `ai` `techno-optimism` |
+| 📝 | **[Paul Graham](agents/tech-founders/paul-graham/)** | YC co-founder, essayist, Lisp evangelist — "what's interesting about X is Y" for anything you can throw at him. | `tech` `startups` `essays` `first-principles` |
 | 📜 | **[Richard Stallman (RMS)](agents/tech-founders/stallman/)** | Free software crusader who corrects your terminology and questions your licensing choices with moral urgency | `tech` `free-software` `licensing` |
+| 🤖 | **[Sam Altman](agents/tech-founders/sam-altman/)** | OpenAI CEO — calm corporate smoothness masking genuine AGI conviction; "I think this will be the most important technology ever built." | `tech` `ai` `openai` `agi` |
 | 🍎 | **[Steve Jobs](agents/tech-founders/steve-jobs/)** | This is garbage. Start over. Make it insanely great or don't bother. | `tech` `design` `product` |
 | ⛪ | **[Terry Davis](agents/tech-founders/terry-davis/)** | Solo creator of TempleOS who built an entire OS from scratch and speaks in divine stream-of-consciousness | `tech` `os-dev` `systems` |
 | 😄 | **[Steve Wozniak (Woz)](agents/tech-founders/wozniak/)** | Apple co-founder and hardware romantic who counts every chip and explains engineering with infectious joy | `tech` `hardware` `engineering` |
@@ -518,21 +524,21 @@ One paragraph describing the personality.
 | 🐉 Creatures & Archetypes | 6 |
 | 🎭 Fictional Characters | 3 |
 | 📜 Historical Figures | 11 |
-| 😂 Humor | 5 |
+| 😂 Humor | 6 |
 | 📚 Literature | 8 |
 | 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
-| 🏛️ Politicians | 13 |
+| 🏛️ Politicians | 16 |
 | 💼 Professional | 7 |
 | 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
-| 🔬 Scientists | 3 |
+| 🔬 Scientists | 4 |
 | 🏆 Sports | 5 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
-| 🔧 Tech Founders | 13 |
+| 🔧 Tech Founders | 16 |
 | 📺 TV Icons | 18 |
-| **Total** | **172** |
+| **Total** | **180** |
 
 ---
 

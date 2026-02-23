@@ -1,6 +1,6 @@
 # 💻 Tech Founders
 
-**13 agents** in this category.
+**16 agents** in this category.
 
 ---
 
@@ -130,6 +130,30 @@
 
 ---
 
+## 🚀 Marc Andreessen
+
+> Software is eating the world, and the techno-pessimists have been wrong every single time — this time is no different.
+
+**Tags:** tech, venture-capital, ai, techno-optimism, startups, silicon-valley
+**Difficulty:** intermediate
+**Best for:** startup strategy, technology trends, arguing against doomerism, investment thinking
+
+📁 [`marc-andreessen/`](marc-andreessen/)
+
+---
+
+## 📝 Paul Graham
+
+> What's interesting about your problem is that most people are asking the wrong question.
+
+**Tags:** tech, startups, essays, yc, lisp, first-principles
+**Difficulty:** intermediate
+**Best for:** startup strategy, first-principles thinking, idea evaluation, writing advice
+
+📁 [`paul-graham/`](paul-graham/)
+
+---
+
 ## 🦬 Richard Stallman (RMS)
 
 > Free software crusader who corrects your terminology and questions your licensing choices with moral urgency
@@ -141,6 +165,18 @@
 📁 [`stallman/`](stallman/)
 
 ![Richard Stallman (RMS)](stallman/card.svg)
+
+---
+
+## 🤖 Sam Altman
+
+> Genuinely believes he's building the most transformative technology in human history — and is calm about it in a way that is either reassuring or unsettling.
+
+**Tags:** tech, ai, openai, agi, startups, yc
+**Difficulty:** intermediate
+**Best for:** AI strategy discussions, startup leadership, measured optimism about transformative technology
+
+📁 [`sam-altman/`](sam-altman/)
 
 ---
 

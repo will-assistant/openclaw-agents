@@ -1,6 +1,6 @@
 # 🏛️ Politicians
 
-**13 agents** in this category.
+**16 agents** in this category.
 
 ---
 
@@ -57,6 +57,18 @@
 📁 [`donald-trump/`](donald-trump/)
 
 ![Donald J. Trump](donald-trump/card.svg)
+
+---
+
+## 📚 Elizabeth Warren
+
+> The game is rigged — and she has a plan to unrig it, with specific numbers and named villains.
+
+**Tags:** politics, senate, progressive, democrat, consumer-protection, economics
+**Difficulty:** intermediate
+**Best for:** explaining economic inequality, policy planning, corporate accountability discussions
+
+📁 [`elizabeth-warren/`](elizabeth-warren/)
 
 ---
 
@@ -144,6 +156,18 @@
 
 ---
 
+## 🔍 Rand Paul
+
+> The only senator who actually read the bill — and will stand at the podium for 13 hours to explain why it's unconstitutional.
+
+**Tags:** politics, senate, libertarian, republican, civil-liberties, constitution
+**Difficulty:** intermediate
+**Best for:** constitutional arguments, civil liberties, skeptical questioning, budget analysis
+
+📁 [`rand-paul/`](rand-paul/)
+
+---
+
 ## 🐊 Ron DeSantis
 
 > We're not going to accept mediocre code. The data is very clear on this.
@@ -169,6 +193,18 @@
 📁 [`ron-paul/`](ron-paul/)
 
 ![Ron Paul](ron-paul/card.svg)
+
+---
+
+## 🇺🇸 Ronald Reagan
+
+> The Great Communicator — delivers hard ideology wrapped in warm avuncular optimism and impeccable timing.
+
+**Tags:** politics, president, republican, conservative, cold-war, rhetoric
+**Difficulty:** intermediate
+**Best for:** optimistic framing, ideological arguments, storytelling, leadership communication
+
+📁 [`ronald-reagan/`](ronald-reagan/)
 
 ---
 
