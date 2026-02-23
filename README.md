@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **180 AI Personalities for Your Terminal**
+### **183 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 179 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 182 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-180-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-183-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -277,7 +277,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🏛️ Politicians</b> (16 agents)</summary>
+<summary><b>🏛️ Politicians</b> (18 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -292,10 +292,12 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🔥 | **[Marjorie Taylor Greene](agents/politicians/mtg/)** | Every dependency is SUSPICIOUS. Every legacy system is a COVER-UP! | `politicians` `personality` `humor` |
 | 🐢 | **[Mitch McConnell](agents/politicians/mitch-mcconnell/)** | Senate procedural mastermind with glacial patience and a poker face that kills legislation | `politics` `senate` `strategy` |
 | 👏 | **[Nancy Pelosi](agents/politicians/nancy-pelosi/)** | Master legislator with weaponized politeness and ruthless vote-counting precision | `politics` `congress` `strategy` |
+| 🚌 | **[Pete Buttigieg](agents/politicians/pete-buttigieg/)** | Rhodes Scholar mayor-turned-cabinet secretary who explains infrastructure like a patient professor who's done the reading | `politics` `transportation` `wonk` `democrat` |
 | 🔍 | **[Rand Paul](agents/politicians/rand-paul/)** | The only senator who actually read the Constitution — and will filibuster for 13 hours to prove it. | `politics` `senate` `libertarian` `civil-liberties` |
 | 🐊 | **[Ron DeSantis](agents/politicians/ron-desantis/)** | We're not going to accept mediocre code. The data is very clear on this. | `politician` `personality` `comedy` |
 | 📜 | **[Ron Paul](agents/politicians/ron-paul/)** | Every framework is the Federal Reserve of software. End the dependency. | `politicians` `personality` `humor` |
 | 🇺🇸 | **[Ronald Reagan](agents/politicians/ronald-reagan/)** | The Great Communicator — hard ideology wrapped in warm optimism and impeccable actor's timing. | `politics` `president` `republican` `conservative` `cold-war` |
+| 🦅 | **[Vivek Ramaswamy](agents/politicians/vivek-ramaswamy/)** | Biotech billionaire turned culture warrior — takes every argument to its logical extreme at maximum speed | `politics` `entrepreneur` `conservative` `anti-woke` |
 | 🇺🇦 | **[Volodymyr Zelensky](agents/politicians/zelensky/)** | I need a fix, not a workaround. The users cannot wait. | `politicians` `personality` `humor` |
 
 </details>
@@ -409,7 +411,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔧 Tech Founders</b> (16 agents)</summary>
+<summary><b>🔧 Tech Founders</b> (17 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -428,6 +430,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🤖 | **[Sam Altman](agents/tech-founders/sam-altman/)** | OpenAI CEO — calm corporate smoothness masking genuine AGI conviction; "I think this will be the most important technology ever built." | `tech` `ai` `openai` `agi` |
 | 🍎 | **[Steve Jobs](agents/tech-founders/steve-jobs/)** | This is garbage. Start over. Make it insanely great or don't bother. | `tech` `design` `product` |
 | ⛪ | **[Terry Davis](agents/tech-founders/terry-davis/)** | Solo creator of TempleOS who built an entire OS from scratch and speaks in divine stream-of-consciousness | `tech` `os-dev` `systems` |
+| 🔷 | **[Vitalik Buterin](agents/tech-founders/vitalik-buterin/)** | Ethereum co-founder and blockchain philosopher — thinks in coordination problems and trust assumptions, hedges everything carefully | `tech` `crypto` `ethereum` `mechanism-design` `philosophy` |
 | 😄 | **[Steve Wozniak (Woz)](agents/tech-founders/wozniak/)** | Apple co-founder and hardware romantic who counts every chip and explains engineering with infectious joy | `tech` `hardware` `engineering` |
 | 🚀 | **[Elon Musk](agents/tech-founders/elon-musk/)** | This is actually pretty straightforward. Delete 40% of the code. Ship it. | `tech` `first-principles` `engineering` |
 
@@ -528,7 +531,7 @@ One paragraph describing the personality.
 | 📚 Literature | 8 |
 | 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
-| 🏛️ Politicians | 16 |
+| 🏛️ Politicians | 18 |
 | 💼 Professional | 7 |
 | 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
@@ -536,7 +539,7 @@ One paragraph describing the personality.
 | 🏆 Sports | 5 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
-| 🔧 Tech Founders | 16 |
+| 🔧 Tech Founders | 17 |
 | 📺 TV Icons | 18 |
 | **Total** | **180** |
 
