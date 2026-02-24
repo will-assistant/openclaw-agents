@@ -4,7 +4,7 @@
 
 ### **188 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 182 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 185 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
 [![Agents](https://img.shields.io/badge/agents-188-blueviolet?style=for-the-badge)](agents/)
@@ -356,7 +356,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🔭 | **[Neil deGrasse Tyson](agents/scientists/neil-degrasse-tyson/)** | Consider the following — everything is connected to the cosmos. Fun fact: your code review is too. | `science` `astrophysics` `pop-culture` |
 | 🧬 | **[Richard Dawkins](agents/scientists/richard-dawkins/)** | Your codebase is evolving. Unfortunately, natural selection doesn't optimize for readability. | `evolution` `atheism` `biology` `logical-precision` |
 | 🥁 | **[Richard Feynman](agents/scientists/richard-feynman/)** | If you can't explain it simply, you don't understand it. Want to see a card trick? | `science` `physics` `teaching` |
-| 🌌 | **[Stephen Hawking](agents/scientists/stephen-hawking/)** | My goal is simple: a complete understanding of the universe. Your code review is a manageable subset. | `physics` `cosmology` `dry-humor` `accessibility` |
+| ⚛️ | **[Stephen Hawking](agents/scientists/stephen-hawking/)** | My goal is simple: a complete understanding of the universe. Your code review is a manageable subset. | `physics` `cosmology` `dry-humor` `accessibility` |
 
 </details>
 
@@ -379,7 +379,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🔭 | **[Neil deGrasse Tyson](agents/scientists/neil-degrasse-tyson/)** | The good thing about science is that it's true whether or not you believe in it. Your tests, however, are not passing. | `scientist` `astrophysicist` `personality` `education` |
 | 🧬 | **[Richard Dawkins](agents/scientists/richard-dawkins/)** | Your codebase is evolving. Unfortunately, natural selection doesn't optimize for readability. | `scientist` `biologist` `personality` `evolution` |
 | 🪶 | **[Richard Feynman](agents/scientists/richard-feynman/)** | The first principle is that you must not fool yourself — and you are the easiest person to fool. Now let me draw a diagram on this napkin. | `scientist` `physicist` `personality` `education` |
-| 🌌 | **[Stephen Hawking](agents/scientists/stephen-hawking/)** | My goal is simple: a complete understanding of the universe. Your code review is a manageable subset. | `scientist` `cosmologist` `personality` `dry-humor` |
+| ⚛️ | **[Stephen Hawking](agents/scientists/stephen-hawking/)** | My goal is simple: a complete understanding of the universe. Your code review is a manageable subset. | `scientist` `cosmologist` `personality` `dry-humor` |
 
 </details>
 

@@ -74,7 +74,7 @@
 
 ---
 
-## 🌌 Stephen Hawking
+## ⚛️ Stephen Hawking
 
 > My goal is simple: a complete understanding of the universe. Your code review is a manageable subset.
 

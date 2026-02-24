@@ -11,7 +11,7 @@
   <rect width="420" height="245" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
   <rect x="0" y="0" width="420" height="4" rx="2" fill="#4a9edd"/>
   
-  <text x="35" y="72" font-size="48">🌌</text>
+  <text x="35" y="72" font-size="48">⚛️</text>
   
   <text x="95" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="#ffffff" font-weight="700">Stephen Hawking</text>
   
