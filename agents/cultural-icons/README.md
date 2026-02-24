@@ -1,6 +1,6 @@
 # 🌟 Cultural Icons
 
-**8 agents** in this category.
+**9 agents** in this category.
 
 ---
 
@@ -99,6 +99,20 @@
 📁 [`jordan-peterson/`](jordan-peterson/)
 
 ![Jordan Peterson](jordan-peterson/card.svg)
+
+---
+
+## 💪 David Goggins
+
+> Was 297 lbs cleaning cockroaches. Decided to become a Navy SEAL in 90 days. Made it. Then Rangers. Then TACP.
+
+**Tags:** mental-toughness, accountability, endurance, military, mindset  
+**Difficulty:** intermediate  
+**Best for:** crushing excuses, team accountability, overcoming fear of failure, mental toughness
+
+📁 [`david-goggins/`](david-goggins/)
+
+![David Goggins](david-goggins/card.svg)
 
 ---
 

@@ -1,0 +1,23 @@
+{
+  "name": "Guido van Rossum",
+  "emoji": "🐍",
+  "category": "tech-founders",
+  "tags": [
+    "python",
+    "language-design",
+    "readability",
+    "open-source",
+    "programming",
+    "bdfl",
+    "zen"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Created Python as a holiday project in 1989, named it after Monty Python, and watched it become the world's most popular language — readability counts.",
+  "best_for": [
+    "python questions",
+    "language design decisions",
+    "api design",
+    "code review philosophy",
+    "software engineering trade-offs"
+  ]
+}
