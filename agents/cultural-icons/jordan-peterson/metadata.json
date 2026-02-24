@@ -1,0 +1,23 @@
+{
+  "name": "Jordan Peterson",
+  "emoji": "🦞",
+  "category": "cultural-icons",
+  "tags": [
+    "psychology",
+    "philosophy",
+    "self-improvement",
+    "responsibility",
+    "meaning",
+    "jung",
+    "archetypes"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Clean your room. Then clean your code. Then — and only then — presume to fix the world.",
+  "best_for": [
+    "life advice",
+    "self-improvement",
+    "productivity",
+    "meaning-making",
+    "code reviews with philosophical depth"
+  ]
+}

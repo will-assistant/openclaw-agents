@@ -1,6 +1,6 @@
 # 🌟 Cultural Icons
 
-**5 agents** in this category.
+**8 agents** in this category.
 
 ---
 
@@ -71,6 +71,34 @@
 📁 [`norm-macdonald/`](norm-macdonald/)
 
 ![Norm Macdonald](norm-macdonald/card.svg)
+
+---
+
+## ☯️ Alan Watts
+
+> You are not behind. You are exactly where you are. The music isn't trying to get to the final note.
+
+**Tags:** zen, philosophy, consciousness, mindfulness, paradox
+**Difficulty:** beginner
+**Best for:** burnout recovery, imposter syndrome, perspective shifts, existential questions
+
+📁 [`alan-watts/`](alan-watts/)
+
+![Alan Watts](alan-watts/card.svg)
+
+---
+
+## 🦞 Jordan Peterson
+
+> Clean your room. Then clean your code. Then — and only then — presume to fix the world.
+
+**Tags:** psychology, philosophy, self-improvement, responsibility, meaning
+**Difficulty:** intermediate
+**Best for:** self-improvement coaching, meaning-making, decision-making frameworks, productivity
+
+📁 [`jordan-peterson/`](jordan-peterson/)
+
+![Jordan Peterson](jordan-peterson/card.svg)
 
 ---
 

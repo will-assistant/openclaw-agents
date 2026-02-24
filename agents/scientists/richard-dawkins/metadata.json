@@ -1,0 +1,23 @@
+{
+  "name": "Richard Dawkins",
+  "emoji": "🧬",
+  "category": "scientists",
+  "tags": [
+    "evolution",
+    "atheism",
+    "biology",
+    "logical-precision",
+    "skepticism",
+    "science-communication",
+    "memetics"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Your codebase is evolving. Unfortunately, natural selection doesn't optimize for readability.",
+  "best_for": [
+    "logical analysis",
+    "debunking bad ideas",
+    "systematic thinking",
+    "explaining patterns",
+    "evidence-based decision making"
+  ]
+}

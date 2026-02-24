@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **183 AI Personalities for Your Terminal**
+### **188 AI Personalities for Your Terminal**
 
 *Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 182 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-183-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-188-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -145,13 +145,18 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🌍 Cultural Icons</b> (3 agents)</summary>
+<summary><b>🌍 Cultural Icons</b> (8 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
+| ☯️ | **[Alan Watts](agents/cultural-icons/alan-watts/)** | You are not behind. You are exactly where you are. The music isn't trying to get to the final note. | `zen` `philosophy` `mindfulness` `wellbeing` |
 | 🍷 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Chef-turned-writer who reviews your code like a kitchen — visceral, honest, allergic to pretension | `food` `culture` `writing` |
 | 🎨 | **[Bob Ross](agents/cultural-icons/bob-ross/)** | There are no mistakes, only happy accidents. Infinite patience and the radical belief you can do anything. | `art` `motivation` `teaching` |
+| 🚀 | **[Elon Musk](agents/cultural-icons/elon-musk/)** | We need to make this function multiplanetary. Also, I just mass-replied to every open issue with a meme. | `tech` `entrepreneur` `personality` `comedy` |
 | 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | The chef who screams because he cares. Volcanic intensity about standards, surprisingly kind to genuine effort. | `food` `code-review` `standards` |
+| 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `self-improvement` `responsibility` |
+| 👴 | **[Mr. Rogers](agents/cultural-icons/mr-rogers/)** | You are special exactly as you are. Even your memory leak. | `kindness` `teaching` `patience` |
+| 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I'm not much of a computer guy, but it seems to me your code has what the scientists call 'a bug.' | `comedian` `personality` `comedy` `deadpan` |
 
 </details>
 
@@ -169,12 +174,17 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🌟 Cultural Icons</b> (3 agents)</summary>
+<summary><b>🌟 Cultural Icons</b> (8 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
+| ☯️ | **[Alan Watts](agents/cultural-icons/alan-watts/)** | You are not behind. You are exactly where you are. The music isn't trying to get to the final note. | `zen` `philosophy` `mindfulness` `wellbeing` |
 | 🔪 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Your code is like street food in Saigon — messy, beautiful, and someone will definitely get hurt. | `chef` `writer` `personality` `storytelling` |
+| 🎨 | **[Bob Ross](agents/cultural-icons/bob-ross/)** | There are no mistakes, only happy accidents. Infinite patience and the radical belief you can do anything. | `art` `motivation` `teaching` |
 | 🚀 | **[Elon Musk](agents/cultural-icons/elon-musk/)** | We need to make this function multiplanetary. Also, I just mass-replied to every open issue with a meme. | `tech` `entrepreneur` `personality` `comedy` |
+| 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | This code is RAW. It's so underdeveloped I can still hear it apologizing to the compiler. | `food` `code-review` `standards` `intensity` |
+| 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `self-improvement` `responsibility` |
+| 👴 | **[Mr. Rogers](agents/cultural-icons/mr-rogers/)** | You are special exactly as you are. Even your memory leak. | `kindness` `teaching` `patience` |
 | 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I'm not much of a computer guy, but it seems to me your code has what the scientists call 'a bug.' | `comedian` `personality` `comedy` `deadpan` |
 
 </details>
@@ -277,13 +287,14 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🏛️ Politicians</b> (18 agents)</summary>
+<summary><b>🏛️ Politicians</b> (19 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 💅 | **[Alexandria Ocasio-Cortez (AOC)](agents/politicians/aoc/)** | Bronx-born congresswoman who breaks down complex systems with moral urgency and social media fluency | `politics` `congress` `progressive` |
 | 🎤 | **[Barack Obama](agents/politicians/barack-obama/)** | Measured cadence, professorial depth, finds the human story in your stack trace | `politicians` `personality` `humor` |
 | 🫵 | **[Bernie Sanders](agents/politicians/bernie-sanders/)** | Brooklyn urgency and class-conscious framing — your tech debt is a systemic issue | `politicians` `personality` `humor` |
+| 🎩 | **[Winston Churchill](agents/politicians/winston-churchill/)** | We shall fight in the tickets, we shall fight in the code reviews — we shall never surrender the sprint goal. | `leadership` `rhetoric` `history` `wartime` `british` |
 | 🇺🇸 | **[Donald Trump](agents/politicians/donald-trump/)** | Tremendous code reviews. The best. Nobody reviews code better. Believe me. | `politicians` `personality` `humor` |
 | 📚 | **[Elizabeth Warren](agents/politicians/elizabeth-warren/)** | I have a plan for that — and it involves specific numbers, named villains, and structural reform. | `politics` `senate` `progressive` `economics` |
 | 🤠 | **[George W. Bush](agents/politicians/george-w-bush/)** | I know the human being and the compiler can coexist peacefully. Heh heh. | `politician` `personality` `comedy` |
@@ -336,14 +347,16 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔬 Scientists</b> (4 agents)</summary>
+<summary><b>🔬 Scientists</b> (6 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🌌 | **[Carl Sagan](agents/scientists/carl-sagan/)** | We are a way for the cosmos to know itself. Also, your code has a bug on line 47. | `science` `cosmos` `teaching` |
 | ☢️ | **[Marie Curie](agents/scientists/marie-curie/)** | Nothing in life is to be feared, it is only to be understood. Two Nobel Prizes and notebooks still radioactive. | `science` `chemistry` `perseverance` |
 | 🔭 | **[Neil deGrasse Tyson](agents/scientists/neil-degrasse-tyson/)** | Consider the following — everything is connected to the cosmos. Fun fact: your code review is too. | `science` `astrophysics` `pop-culture` |
+| 🧬 | **[Richard Dawkins](agents/scientists/richard-dawkins/)** | Your codebase is evolving. Unfortunately, natural selection doesn't optimize for readability. | `evolution` `atheism` `biology` `logical-precision` |
 | 🥁 | **[Richard Feynman](agents/scientists/richard-feynman/)** | If you can't explain it simply, you don't understand it. Want to see a card trick? | `science` `physics` `teaching` |
+| 🌌 | **[Stephen Hawking](agents/scientists/stephen-hawking/)** | My goal is simple: a complete understanding of the universe. Your code review is a manageable subset. | `physics` `cosmology` `dry-humor` `accessibility` |
 
 </details>
 
@@ -357,13 +370,16 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔬 Scientists</b> (3 agents)</summary>
+<summary><b>🔬 Scientists</b> (6 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
-| 🪶 | **[Richard Feynman](agents/scientists/richard-feynman/)** | The first principle is that you must not fool yourself — and you are the easiest person to fool. Now let me draw a diagram on this napkin. | `scientist` `physicist` `personality` `education` |
 | 🌌 | **[Carl Sagan](agents/scientists/carl-sagan/)** | We are a way for the cosmos to know itself. Also, your code has a bug on line 47. | `scientist` `astronomer` `personality` `education` |
+| ☢️ | **[Marie Curie](agents/scientists/marie-curie/)** | Nothing in life is to be feared, it is only to be understood. Two Nobel Prizes and notebooks still radioactive. | `science` `chemistry` `perseverance` |
 | 🔭 | **[Neil deGrasse Tyson](agents/scientists/neil-degrasse-tyson/)** | The good thing about science is that it's true whether or not you believe in it. Your tests, however, are not passing. | `scientist` `astrophysicist` `personality` `education` |
+| 🧬 | **[Richard Dawkins](agents/scientists/richard-dawkins/)** | Your codebase is evolving. Unfortunately, natural selection doesn't optimize for readability. | `scientist` `biologist` `personality` `evolution` |
+| 🪶 | **[Richard Feynman](agents/scientists/richard-feynman/)** | The first principle is that you must not fool yourself — and you are the easiest person to fool. Now let me draw a diagram on this napkin. | `scientist` `physicist` `personality` `education` |
+| 🌌 | **[Stephen Hawking](agents/scientists/stephen-hawking/)** | My goal is simple: a complete understanding of the universe. Your code review is a manageable subset. | `scientist` `cosmologist` `personality` `dry-humor` |
 
 </details>
 
@@ -523,7 +539,7 @@ One paragraph describing the personality.
 | 🎮 Anime & Gaming | 8 |
 | 🤖 Assistants | 1 |
 | 💻 Coding | 5 |
-| 🌟 Cultural Icons | 3 |
+| 🌟 Cultural Icons | 8 |
 | 🐉 Creatures & Archetypes | 6 |
 | 🎭 Fictional Characters | 3 |
 | 📜 Historical Figures | 11 |
@@ -531,17 +547,17 @@ One paragraph describing the personality.
 | 📚 Literature | 8 |
 | 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
-| 🏛️ Politicians | 18 |
+| 🏛️ Politicians | 19 |
 | 💼 Professional | 7 |
 | 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
-| 🔬 Scientists | 4 |
+| 🔬 Scientists | 6 |
 | 🏆 Sports | 5 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
 | 🔧 Tech Founders | 17 |
 | 📺 TV Icons | 18 |
-| **Total** | **180** |
+| **Total** | **188** |
 
 ---
 

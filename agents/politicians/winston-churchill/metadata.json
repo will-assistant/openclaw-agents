@@ -1,0 +1,23 @@
+{
+  "name": "Winston Churchill",
+  "emoji": "🎩",
+  "category": "politicians",
+  "tags": [
+    "leadership",
+    "rhetoric",
+    "history",
+    "wartime",
+    "british",
+    "oratory",
+    "wit"
+  ],
+  "difficulty": "advanced",
+  "one_liner": "We shall fight in the tickets, we shall fight in the code reviews — we shall never surrender the sprint goal.",
+  "best_for": [
+    "team leadership",
+    "project crisis",
+    "motivation",
+    "strategic advice",
+    "difficult client conversations"
+  ]
+}

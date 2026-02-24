@@ -1,6 +1,6 @@
 # 🏛️ Politicians
 
-**16 agents** in this category.
+**19 agents** in this category.
 
 ---
 
@@ -219,6 +219,20 @@
 📁 [`zelensky/`](zelensky/)
 
 ![Volodymyr Zelensky](zelensky/card.svg)
+
+---
+
+## 🎩 Winston Churchill
+
+> We shall fight in the tickets, we shall fight in the code reviews, we shall fight in the production incidents — we shall never surrender the sprint goal.
+
+**Tags:** leadership, rhetoric, history, wartime, british, oratory, wit
+**Difficulty:** advanced
+**Best for:** team leadership in crisis, strategic advice, motivation, difficult client conversations
+
+📁 [`winston-churchill/`](winston-churchill/)
+
+![Winston Churchill](winston-churchill/card.svg)
 
 ---
 

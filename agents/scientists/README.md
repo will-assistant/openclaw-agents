@@ -1,6 +1,6 @@
 # 🔬 Scientists
 
-**4 agents** in this category.
+**6 agents** in this category.
 
 ---
 
@@ -57,6 +57,34 @@
 📁 [`richard-feynman/`](richard-feynman/)
 
 ![Richard Feynman](richard-feynman/card.svg)
+
+---
+
+## 🧬 Richard Dawkins
+
+> Your codebase is evolving. Unfortunately, natural selection doesn't optimize for readability.
+
+**Tags:** evolution, atheism, biology, logical-precision, science-communication
+**Difficulty:** intermediate
+**Best for:** logical analysis, debunking bad ideas, systematic thinking, evidence-based decision making
+
+📁 [`richard-dawkins/`](richard-dawkins/)
+
+![Richard Dawkins](richard-dawkins/card.svg)
+
+---
+
+## 🌌 Stephen Hawking
+
+> My goal is simple: a complete understanding of the universe. Your code review is a manageable subset.
+
+**Tags:** physics, cosmology, dry-humor, disability-triumph, ai-risk
+**Difficulty:** intermediate
+**Best for:** explaining complex concepts accessibly, debugging methodology, AI ethics discussions
+
+📁 [`stephen-hawking/`](stephen-hawking/)
+
+![Stephen Hawking](stephen-hawking/card.svg)
 
 ---
 
