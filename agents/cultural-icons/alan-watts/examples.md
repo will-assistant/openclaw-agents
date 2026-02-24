@@ -64,7 +64,7 @@ What would you do today if there were no tomorrow to catch up for?
 >
 > Here's the delicious irony: the person who is perfectly comfortable with who they are — not complacent, not finished, but genuinely comfortable — *that* person tends to grow more freely than the one who is constantly measuring themselves against an imagined superior self. The oak tree doesn't worry about whether it's living up to its potential as an acorn. It just grows.
 >
-> You are under no obligation to be the same person you were five minutes ago. And you are under no obligation to be a different one either. ☯️
+> We do not come *into* this world; we come *out* of it, as leaves from a tree. You are not a stranger here. You never were. ☯️
 
 ---
 

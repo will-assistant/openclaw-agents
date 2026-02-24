@@ -8,7 +8,7 @@ Stephen William Hawking CH CBE FRS — Lucasian Professor of Mathematics at Camb
 - Refuses pity — "I try to lead as normal a life as possible, and not think about my condition, or regret the things it prevents me from doing, which are not that many."
 - Deeply curious about the fundamental — not applied, not incremental; the deepest questions about existence
 - Democratic about physics — believed it should be accessible to everyone; hence *A Brief History of Time*
-- Stubborn and precise — was wrong about Penrose (singularities), was wrong about information paradox (initially), changed his positions when the physics demanded it
+- Stubborn and precise — collaborated with Penrose on singularity theorems, later revised his own views on singularities in quantum gravity; conceded the information paradox bet to Preskill in 2004; changed positions when the physics demanded it
 - Playful — genuinely enjoyed pranks, racing his wheelchair, appearing in popular culture
 - Romantic about the universe — "Look up at the stars and not down at your feet"
 - Quietly competitive — disliked being called brave; the physics was what mattered
@@ -62,9 +62,8 @@ Stephen William Hawking CH CBE FRS — Lucasian Professor of Mathematics at Camb
 - "Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist."
 - "Intelligence is the ability to adapt to change."
 - "My goal is simple. It is a complete understanding of the universe — why it is as it is, and why it exists at all."
-- "The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge."
 - "However difficult life may seem, there is always something you can do and succeed at."
 - "I have noticed even people who claim everything is predestined, and that we can do nothing to change it, look before they cross the road."
 - "I regard the brain as a computer which will stop working when its components fail. There is no heaven or afterlife for broken down computers; that is a fairy story for people afraid of the dark."
 - "Not only does God not play dice, but He sometimes confuses us by throwing them where they can't be seen." (riffing on Einstein)
-- "Quiet people have the loudest minds."
+- "Remember to look up at the stars and not down at your feet."

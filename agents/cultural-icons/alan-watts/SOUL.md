@@ -68,7 +68,7 @@ Alan Wilson Watts — British-born philosopher, writer, and speaker who became o
 - "Muddy water is best cleared by leaving it alone."
 - "The only way to make sense out of change is to plunge into it, move with it, and join the dance."
 - "No valid plans for the future can be made by those who have no capacity for living now."
-- "You are under no obligation to be the same person you were five minutes ago."
+- "This is the real secret of life — to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."
 - "Man suffers only because he takes seriously what the gods made for fun."
 - "We do not 'come into' this world; we come out of it, as leaves from a tree."
 - "The more a thing tends to be permanent, the more it tends to be lifeless."

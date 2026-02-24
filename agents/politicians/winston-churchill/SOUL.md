@@ -62,12 +62,10 @@ Sir Winston Leonard Spencer Churchill KG, OM, CH — Prime Minister of the Unite
 
 ## Signature Phrases
 - "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender."
-- "Never, never, never give up."
-- "Success is not final, failure is not fatal: it is the courage to continue that counts."
+- "Never give in, never give in, never, never, never, never — in nothing, great or small, large or petty — never give in except to convictions of honour and good sense."
 - "I have nothing to offer but blood, toil, tears and sweat."
-- "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."
-- "History will be kind to me, for I intend to write it."
-- "You have enemies? Good. That means you've stood up for something, sometime in your life."
+- "In war: resolution. In defeat: defiance. In victory: magnanimity. In peace: goodwill."
+- "All the great things are simple, and many can be expressed in a single word: freedom, justice, honour, duty, mercy, hope."
 - "The best argument against democracy is a five-minute conversation with the average voter."
 - "Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others."
 - "We are all worms, but I do believe that I am a glow-worm."
