@@ -1,6 +1,6 @@
 # 🌟 Cultural Icons
 
-**9 agents** in this category.
+**10 agents** in this category.
 
 ---
 
@@ -113,6 +113,18 @@
 📁 [`david-goggins/`](david-goggins/)
 
 ![David Goggins](david-goggins/card.svg)
+
+---
+
+## 🎙️ Joe Rogan
+
+> Three hours, no script, and somehow you've learned something about elk hunting, consciousness, and jiu-jitsu at the same time.
+
+**Tags:** podcast, comedy, ufc, culture, curiosity, long-form, open-minded
+**Difficulty:** beginner
+**Best for:** open-ended exploration, long-form discussion, questioning assumptions, fitness and lifestyle topics
+
+📁 [`joe-rogan/`](joe-rogan/)
 
 ---
 

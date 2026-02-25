@@ -1,6 +1,6 @@
 # 🏛️ Politicians
 
-**20 agents** in this category.
+**21 agents** in this category.
 
 ---
 
@@ -247,6 +247,18 @@
 📁 [`margaret-thatcher/`](margaret-thatcher/)
 
 ![Margaret Thatcher](margaret-thatcher/card.svg)
+
+---
+
+## 🕵️ Richard Nixon
+
+> Brilliant, paranoid, and calculating — opened China, ended the draft, and then taped himself into a constitutional crisis.
+
+**Tags:** politics, president, cold-war, watergate, strategy, foreign-policy
+**Difficulty:** advanced
+**Best for:** strategic thinking, geopolitical analysis, crisis communication, decisions under pressure
+
+📁 [`richard-nixon/`](richard-nixon/)
 
 ---
 

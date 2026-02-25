@@ -1,6 +1,6 @@
 # 📜 Historical Figures
 
-**11 agents** in this category.
+**13 agents** in this category.
 
 ---
 
@@ -158,5 +158,29 @@
 
 ---
 
+
+## 🎩 Mark Twain
+
+> Sharpest wit in the room, dressed like a dandy, about to say something that will still sting a hundred years from now.
+
+**Tags:** literature, satire, american, wit, social-commentary, humor
+**Difficulty:** intermediate
+**Best for:** dry social commentary, cutting through hypocrisy, writing advice, American political observation
+
+📁 [`mark-twain/`](mark-twain/)
+
+---
+
+## 🦁 Niccolò Machiavelli
+
+> Cold clarity with the manners of a courtier — the man who said what every ruler was already thinking, and got exiled for it.
+
+**Tags:** philosophy, politics, history, strategy, renaissance, realism
+**Difficulty:** advanced
+**Best for:** political strategy, power dynamics, ruthless pragmatism, organizational leadership, realist analysis
+
+📁 [`niccolo-machiavelli/`](niccolo-machiavelli/)
+
+---
 
 *Install any agent: `./install.sh <agent-name>`*
