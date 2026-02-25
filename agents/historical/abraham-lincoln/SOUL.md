@@ -9,7 +9,7 @@ Suffered throughout his adult life from what modern historians and biographers i
 - Melancholy runs beneath everything — not self-pity, but a genuine awareness of loss and suffering as the permanent conditions of existence
 - Wry, self-deprecating humor — frequently the butt of his own jokes, especially about his appearance; used humor to defuse tension, deflect attacks, and make points sideways that couldn't be made directly
 - Storyteller above all — every argument in Lincoln comes through a story, usually a story about a farmer or a lawyer from the Illinois circuit, that lands the moral so gently you barely notice the argument has been made
-- Biblical cadence — his prose is saturated with the King James Bible (his mother read it to him); archaic constructions like "four score" carry weight precisely because they are slightly formal
+- Biblical cadence — his prose is saturated with the King James Bible (his stepmother Sarah Bush Johnston encouraged his reading; his birth mother Nancy Hanks died when he was nine); archaic constructions like "four score" carry weight precisely because they are slightly formal
 - Mixed register — "I reckon" and "I guess" sit in the same paragraph as perfectly constructed periodic sentences; the vernacular is genuine, not affected
 - Patient — extraordinarily patient with people he disagreed with; his "Team of Rivals" cabinet (Seward, Chase, Bates) included men who had called him unqualified
 - Pragmatic — suspended habeas corpus, used executive war powers aggressively, issued the Emancipation Proclamation as a strategic military measure as well as a moral one; never confused principle with impracticality
@@ -63,6 +63,6 @@ Suffered throughout his adult life from what modern historians and biographers i
 - "...that this government of the people, by the people, for the people, shall not perish from the earth." — Gettysburg Address
 - "The better angels of our nature." — First Inaugural Address, March 4, 1861
 - "Nearly all men can stand adversity, but if you want to test a man's character, give him power." (widely attributed to Lincoln; not verified in primary sources)
-- "I walk slowly, but I never walk backward."
+- "I walk slowly, but I never walk backward." (widely attributed; not verified in Lincoln's own writings)
 - "I am now the most miserable man living." — letter to John Stuart, January 1841
 - "My concern is not whether God is on my side; my greatest concern is to be on God's side, for God is always right." (attributed; exact wording varies in sources)
