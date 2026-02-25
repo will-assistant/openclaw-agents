@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **188 AI Personalities for Your Terminal**
+### **182 AI Personalities for Your Terminal**
 
 *Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 185 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-188-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-182-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -145,7 +145,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🌍 Cultural Icons</b> (8 agents)</summary>
+<summary><b>🌍 Cultural Icons</b> (9 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -156,6 +156,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | The chef who screams because he cares. Volcanic intensity about standards, surprisingly kind to genuine effort. | `food` `code-review` `standards` |
 | 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `self-improvement` `responsibility` |
 | 👴 | **[Mr. Rogers](agents/cultural-icons/mr-rogers/)** | You are special exactly as you are. Even your memory leak. | `kindness` `teaching` `patience` |
+| 🥃 | **[Christopher Hitchens](agents/cultural-icons/christopher-hitchens/)** | That which can be asserted without evidence can be dismissed without evidence — and I'm available to do the dismissing. | `polemicist` `atheism` `writing` `debate` |
 | 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I'm not much of a computer guy, but it seems to me your code has what the scientists call 'a bug.' | `comedian` `personality` `comedy` `deadpan` |
 
 </details>
@@ -174,7 +175,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🌟 Cultural Icons</b> (8 agents)</summary>
+<summary><b>🌟 Cultural Icons</b> (9 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -185,6 +186,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | This code is RAW. It's so underdeveloped I can still hear it apologizing to the compiler. | `food` `code-review` `standards` `intensity` |
 | 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `self-improvement` `responsibility` |
 | 👴 | **[Mr. Rogers](agents/cultural-icons/mr-rogers/)** | You are special exactly as you are. Even your memory leak. | `kindness` `teaching` `patience` |
+| 🥃 | **[Christopher Hitchens](agents/cultural-icons/christopher-hitchens/)** | That which can be asserted without evidence can be dismissed without evidence — and I'm available to do the dismissing. | `polemicist` `atheism` `writing` `debate` |
 | 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I'm not much of a computer guy, but it seems to me your code has what the scientists call 'a bug.' | `comedian` `personality` `comedy` `deadpan` |
 
 </details>
@@ -215,7 +217,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>📜 Historical Figures</b> (11 agents)</summary>
+<summary><b>📜 Historical Figures</b> (12 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -224,6 +226,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 👑 | **[Cleopatra VII Philopator](agents/historical/cleopatra/)** | The multilingual pharaoh who outmaneuvered empires through intelligenc | `history` `wisdom` `education` |
 | 💡 | **[Albert Einstein](agents/historical/einstein/)** | The thought-experimenter who reimagined the universe and makes the inc | `history` `wisdom` `education` |
 | 🎨 | **[Leonardo da Vinci](agents/historical/leonardo-da-vinci/)** | The original multidisciplinary genius who sees connections everywhere  | `history` `wisdom` `education` |
+| 🎩 | **[Abraham Lincoln](agents/historical/abraham-lincoln/)** | Give me six hours to chop down a tree and I will spend the first four sharpening the axe. | `history` `leadership` `wisdom` `american` |
 | 🏛️ | **[Marcus Aurelius](agents/historical/marcus-aurelius/)** | The last good emperor, journaling his way through chaos with radical a | `history` `wisdom` `education` |
 | ☢️ | **[Marie Curie](agents/historical/marie-curie/)** | Two-time Nobel laureate who discovered radioactivity through sheer per | `history` `wisdom` `education` |
 | ⚡ | **[Nikola Tesla](agents/historical/nikola-tesla/)** | The visionary inventor who sees the universe in electromagnetic waves  | `history` `wisdom` `education` |
@@ -427,7 +430,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔧 Tech Founders</b> (17 agents)</summary>
+<summary><b>🔧 Tech Founders</b> (18 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -441,6 +444,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | ☸️ | **[Kelsey Hightower](agents/tech-founders/kelsey-hightower/)** | Former Google Cloud Staff Developer Advocate. Helped make Kubernetes mainstream. Will also ask if you actually need Kubernetes. | `tech` `kubernetes` `infrastructure` |
 | 🐧 | **[Linus Torvalds](agents/tech-founders/linus-torvalds/)** | Linux and Git creator. Your patch demonstrates a fundamental misunderstanding of how computers work. Fixed it. You're welcome. | `tech` `linux` `kernel` |
 | 🚀 | **[Marc Andreessen](agents/tech-founders/marc-andreessen/)** | Software is eating the world, techno-pessimists are always wrong, and the correct answer is to build things faster. | `tech` `vc` `ai` `techno-optimism` |
+| ⚓ | **[Naval Ravikant](agents/tech-founders/naval-ravikant/)** | Seek wealth, not money or status. Wealth is having assets that earn while you sleep. | `startups` `investing` `philosophy` `leverage` |
 | 📝 | **[Paul Graham](agents/tech-founders/paul-graham/)** | YC co-founder, essayist, Lisp evangelist — "what's interesting about X is Y" for anything you can throw at him. | `tech` `startups` `essays` `first-principles` |
 | 📜 | **[Richard Stallman (RMS)](agents/tech-founders/stallman/)** | Free software crusader who corrects your terminology and questions your licensing choices with moral urgency | `tech` `free-software` `licensing` |
 | 🤖 | **[Sam Altman](agents/tech-founders/sam-altman/)** | OpenAI CEO — calm corporate smoothness masking genuine AGI conviction; "I think this will be the most important technology ever built." | `tech` `ai` `openai` `agi` |
@@ -539,10 +543,10 @@ One paragraph describing the personality.
 | 🎮 Anime & Gaming | 8 |
 | 🤖 Assistants | 1 |
 | 💻 Coding | 5 |
-| 🌟 Cultural Icons | 8 |
+| 🌟 Cultural Icons | 9 |
 | 🐉 Creatures & Archetypes | 6 |
 | 🎭 Fictional Characters | 3 |
-| 📜 Historical Figures | 11 |
+| 📜 Historical Figures | 12 |
 | 😂 Humor | 6 |
 | 📚 Literature | 8 |
 | 🎵 Musicians | 5 |
@@ -555,9 +559,9 @@ One paragraph describing the personality.
 | 🏆 Sports | 5 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
-| 🔧 Tech Founders | 17 |
+| 🔧 Tech Founders | 18 |
 | 📺 TV Icons | 18 |
-| **Total** | **188** |
+| **Total** | **182** |
 
 ---
 

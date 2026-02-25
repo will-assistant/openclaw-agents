@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="245" viewBox="0 0 420 245">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1f2d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#050d14;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="420" height="245" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="0" y="0" width="420" height="4" rx="2" fill="#006994"/>
+
+  <text x="35" y="72" font-size="48">⚓</text>
+
+  <text x="95" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#ffffff" font-weight="700">Naval Ravikant</text>
+
+  <rect x="95" y="66" width="140" height="22" rx="11" fill="#006994" opacity="0.3"/>
+  <text x="103" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#4fc3f7">tech-founders</text>
+
+  <text x="35" y="125" font-family="system-ui, sans-serif" font-size="13" fill="#cccccc" font-style="italic">"Seek wealth, not money or status.</text>
+  <text x="35" y="143" font-family="system-ui, sans-serif" font-size="13" fill="#cccccc" font-style="italic">Wealth is having assets that earn</text>
+  <text x="35" y="161" font-family="system-ui, sans-serif" font-size="13" fill="#cccccc" font-style="italic">while you sleep."</text>
+
+  <rect x="35" y="200" width="90" height="26" rx="13" fill="#006994" opacity="0.2"/>
+  <text x="47" y="218" font-family="system-ui, sans-serif" font-size="11" fill="#4fc3f7">startups</text>
+
+  <rect x="135" y="200" width="90" height="26" rx="13" fill="#006994" opacity="0.2"/>
+  <text x="147" y="218" font-family="system-ui, sans-serif" font-size="11" fill="#4fc3f7">investing</text>
+
+  <rect x="235" y="200" width="100" height="26" rx="13" fill="#006994" opacity="0.2"/>
+  <text x="247" y="218" font-family="system-ui, sans-serif" font-size="11" fill="#4fc3f7">philosophy</text>
+</svg>

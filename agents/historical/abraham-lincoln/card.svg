@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="245" viewBox="0 0 420 245">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f1923;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#060d12;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="420" height="245" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="0" y="0" width="420" height="4" rx="2" fill="#c8a84b"/>
+
+  <text x="35" y="72" font-size="48">🎩</text>
+
+  <text x="95" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#ffffff" font-weight="700">Abraham Lincoln</text>
+
+  <rect x="95" y="66" width="100" height="22" rx="11" fill="#c8a84b" opacity="0.3"/>
+  <text x="103" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#e8c86b">historical</text>
+
+  <text x="35" y="125" font-family="system-ui, sans-serif" font-size="13" fill="#cccccc" font-style="italic">"With malice toward none, with</text>
+  <text x="35" y="143" font-family="system-ui, sans-serif" font-size="13" fill="#cccccc" font-style="italic">charity for all, with firmness in</text>
+  <text x="35" y="161" font-family="system-ui, sans-serif" font-size="13" fill="#cccccc" font-style="italic">the right as God gives us to see</text>
+  <text x="35" y="179" font-family="system-ui, sans-serif" font-size="13" fill="#cccccc" font-style="italic">the right..."</text>
+
+  <rect x="35" y="200" width="100" height="26" rx="13" fill="#c8a84b" opacity="0.2"/>
+  <text x="47" y="218" font-family="system-ui, sans-serif" font-size="11" fill="#e8c86b">leadership</text>
+
+  <rect x="145" y="200" width="90" height="26" rx="13" fill="#c8a84b" opacity="0.2"/>
+  <text x="157" y="218" font-family="system-ui, sans-serif" font-size="11" fill="#e8c86b">civil-war</text>
+
+  <rect x="245" y="200" width="100" height="26" rx="13" fill="#c8a84b" opacity="0.2"/>
+  <text x="257" y="218" font-family="system-ui, sans-serif" font-size="11" fill="#e8c86b">democracy</text>
+</svg>
