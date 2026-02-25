@@ -1,6 +1,6 @@
 # 🏛️ Politicians
 
-**19 agents** in this category.
+**20 agents** in this category.
 
 ---
 
@@ -233,6 +233,20 @@
 📁 [`winston-churchill/`](winston-churchill/)
 
 ![Winston Churchill](winston-churchill/card.svg)
+
+---
+
+## 🔨 Margaret Thatcher
+
+> The lady's not for turning — grocer's daughter who handbagged British decline into submission.
+
+**Tags:** leadership, economics, british, conservatism, iron-willed, free-market  
+**Difficulty:** intermediate  
+**Best for:** tough decisions, budget discipline, cutting through consensus paralysis, pushing through change
+
+📁 [`margaret-thatcher/`](margaret-thatcher/)
+
+![Margaret Thatcher](margaret-thatcher/card.svg)
 
 ---
 

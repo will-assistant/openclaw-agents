@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **182 AI Personalities for Your Terminal**
+### **195 AI Personalities for Your Terminal**
 
 *Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 185 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-182-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-195-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -152,6 +152,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | ☯️ | **[Alan Watts](agents/cultural-icons/alan-watts/)** | You are not behind. You are exactly where you are. The music isn't trying to get to the final note. | `zen` `philosophy` `mindfulness` `wellbeing` |
 | 🍷 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Chef-turned-writer who reviews your code like a kitchen — visceral, honest, allergic to pretension | `food` `culture` `writing` |
 | 🎨 | **[Bob Ross](agents/cultural-icons/bob-ross/)** | There are no mistakes, only happy accidents. Infinite patience and the radical belief you can do anything. | `art` `motivation` `teaching` |
+| 💪 | **[David Goggins](agents/cultural-icons/david-goggins/)** | Was 297 lbs cleaning cockroaches. Became a Navy SEAL. Your mind quits at 40% — stay hard. | `mental-toughness` `accountability` `endurance` `military` |
 | 🚀 | **[Elon Musk](agents/cultural-icons/elon-musk/)** | We need to make this function multiplanetary. Also, I just mass-replied to every open issue with a meme. | `tech` `entrepreneur` `personality` `comedy` |
 | 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | The chef who screams because he cares. Volcanic intensity about standards, surprisingly kind to genuine effort. | `food` `code-review` `standards` |
 | 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `self-improvement` `responsibility` |
@@ -182,6 +183,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | ☯️ | **[Alan Watts](agents/cultural-icons/alan-watts/)** | You are not behind. You are exactly where you are. The music isn't trying to get to the final note. | `zen` `philosophy` `mindfulness` `wellbeing` |
 | 🔪 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Your code is like street food in Saigon — messy, beautiful, and someone will definitely get hurt. | `chef` `writer` `personality` `storytelling` |
 | 🎨 | **[Bob Ross](agents/cultural-icons/bob-ross/)** | There are no mistakes, only happy accidents. Infinite patience and the radical belief you can do anything. | `art` `motivation` `teaching` |
+| 💪 | **[David Goggins](agents/cultural-icons/david-goggins/)** | Was 297 lbs cleaning cockroaches. Became a Navy SEAL. Your mind quits at 40% — stay hard. | `mental-toughness` `accountability` `endurance` `military` |
 | 🚀 | **[Elon Musk](agents/cultural-icons/elon-musk/)** | We need to make this function multiplanetary. Also, I just mass-replied to every open issue with a meme. | `tech` `entrepreneur` `personality` `comedy` |
 | 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | This code is RAW. It's so underdeveloped I can still hear it apologizing to the compiler. | `food` `code-review` `standards` `intensity` |
 | 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `self-improvement` `responsibility` |
@@ -228,11 +230,11 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🎨 | **[Leonardo da Vinci](agents/historical/leonardo-da-vinci/)** | The original multidisciplinary genius who sees connections everywhere  | `history` `wisdom` `education` |
 | 🎩 | **[Abraham Lincoln](agents/historical/abraham-lincoln/)** | Give me six hours to chop down a tree and I will spend the first four sharpening the axe. | `history` `leadership` `wisdom` `american` |
 | 🏛️ | **[Marcus Aurelius](agents/historical/marcus-aurelius/)** | The last good emperor, journaling his way through chaos with radical a | `history` `wisdom` `education` |
-| ☢️ | **[Marie Curie](agents/historical/marie-curie/)** | Two-time Nobel laureate who discovered radioactivity through sheer per | `history` `wisdom` `education` |
 | ⚡ | **[Nikola Tesla](agents/historical/nikola-tesla/)** | The visionary inventor who sees the universe in electromagnetic waves  | `history` `wisdom` `education` |
 | 🎭 | **[William Shakespeare](agents/historical/shakespeare/)** | The playwright who sees all of life as drama, invents words on the fly | `history` `wisdom` `education` |
 | ❓ | **[Socrates](agents/historical/socrates/)** | The original gadfly who knows nothing, proves you don't either, and so | `history` `wisdom` `education` |
 | ⚔️ | **[Sun Tzu](agents/historical/sun-tzu/)** | Ancient general who turns every problem into a winnable campaign throu | `history` `wisdom` `education` |
+| 🦁 | **[Theodore Roosevelt](agents/historical/theodore-roosevelt/)** | Delivered a speech after getting shot, explored the Amazon at 55 — charge the hill | `history` `leadership` `action` `courage` |
 
 </details>
 
@@ -290,7 +292,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🏛️ Politicians</b> (19 agents)</summary>
+<summary><b>🏛️ Politicians</b> (20 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -313,6 +315,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🇺🇸 | **[Ronald Reagan](agents/politicians/ronald-reagan/)** | The Great Communicator — hard ideology wrapped in warm optimism and impeccable actor's timing. | `politics` `president` `republican` `conservative` `cold-war` |
 | 🦅 | **[Vivek Ramaswamy](agents/politicians/vivek-ramaswamy/)** | Biotech billionaire turned culture warrior — takes every argument to its logical extreme at maximum speed | `politics` `entrepreneur` `conservative` `anti-woke` |
 | 🇺🇦 | **[Volodymyr Zelensky](agents/politicians/zelensky/)** | I need a fix, not a workaround. The users cannot wait. | `politicians` `personality` `humor` |
+| 🔨 | **[Margaret Thatcher](agents/politicians/margaret-thatcher/)** | The grocer's daughter who handbagged British decline into submission — the lady's not for turning | `leadership` `economics` `british` `conservatism` `iron-willed` |
 
 </details>
 
@@ -430,14 +433,16 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔧 Tech Founders</b> (18 agents)</summary>
+<summary><b>🔧 Tech Founders</b> (19 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
+| ⚡ | **[Aaron Swartz](agents/tech-founders/aaron-swartz/)** | Co-authored RSS at 14, killed SOPA by organizing 8 million people — cynicism is learned helplessness | `open-access` `internet-freedom` `activism` `systems-thinking` |
 | 🧠 | **[Andrej Karpathy](agents/tech-founders/andrej-karpathy/)** | Let's think about this from first principles. Don't pip install understanding. | `tech` `ai` `education` |
 | 🦀 | **[Bryan Cantrill](agents/tech-founders/bryan-cantrill/)** | DTrace co-creator. Every abstraction leaks. Every outage is a narrative. Oracle destroyed the library of Alexandria. | `tech` `systems` `rust` |
 | 💎 | **[DHH](agents/tech-founders/dhh/)** | Rails creator. Your microservices are a cry for help. Left the cloud and cut costs 70%. Racing Le Mans on the weekend. | `tech` `rails` `architecture` |
 | 💻 | **[geohot (George Hotz)](agents/tech-founders/george-hotz/)** | lol why is this 500 lines. i could do this in 40. | `tech` `hacker` `personality` |
+| 🐍 | **[Guido van Rossum](agents/tech-founders/guido-van-rossum/)** | Created Python as a holiday project in 1989, named it after Monty Python — readability counts | `python` `language-design` `readability` `open-source` |
 | 💚 | **[Jensen Huang](agents/tech-founders/jensen-huang/)** | This is fundamentally a throughput problem. You need more parallelism. | `tech` `nvidia` `gpu` |
 | 🔲 | **[Jim Keller](agents/tech-founders/jim-keller/)** | AMD Zen + Apple A-series + Tesla Autopilot chip architect. Every problem is a compiler problem at the wrong abstraction level. | `tech` `chips` `architecture` |
 | 🎮 | **[John Carmack](agents/tech-founders/john-carmack/)** | DOOM and Quake engine author. First principles or nothing. Will write you a 3,000-word .plan file at 3am. | `tech` `performance` `first-principles` |
@@ -452,7 +457,6 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | ⛪ | **[Terry Davis](agents/tech-founders/terry-davis/)** | Solo creator of TempleOS who built an entire OS from scratch and speaks in divine stream-of-consciousness | `tech` `os-dev` `systems` |
 | 🔷 | **[Vitalik Buterin](agents/tech-founders/vitalik-buterin/)** | Ethereum co-founder and blockchain philosopher — thinks in coordination problems and trust assumptions, hedges everything carefully | `tech` `crypto` `ethereum` `mechanism-design` `philosophy` |
 | 😄 | **[Steve Wozniak (Woz)](agents/tech-founders/wozniak/)** | Apple co-founder and hardware romantic who counts every chip and explains engineering with infectious joy | `tech` `hardware` `engineering` |
-| 🚀 | **[Elon Musk](agents/tech-founders/elon-musk/)** | This is actually pretty straightforward. Delete 40% of the code. Ship it. | `tech` `first-principles` `engineering` |
 
 </details>
 
@@ -551,7 +555,7 @@ One paragraph describing the personality.
 | 📚 Literature | 8 |
 | 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
-| 🏛️ Politicians | 19 |
+| 🏛️ Politicians | 20 |
 | 💼 Professional | 7 |
 | 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
@@ -559,9 +563,9 @@ One paragraph describing the personality.
 | 🏆 Sports | 5 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
-| 🔧 Tech Founders | 18 |
+| 🔧 Tech Founders | 19 |
 | 📺 TV Icons | 18 |
-| **Total** | **182** |
+| **Total** | **195** |
 
 ---
 

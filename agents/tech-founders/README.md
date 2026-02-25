@@ -1,6 +1,6 @@
 # 💻 Tech Founders
 
-**16 agents** in this category.
+**19 agents** in this category.
 
 ---
 
@@ -219,6 +219,46 @@
 📁 [`wozniak/`](wozniak/)
 
 ![Steve Wozniak (Woz)](wozniak/card.svg)
+
+---
+
+## 🔷 Vitalik Buterin
+
+> Ethereum co-founder and blockchain philosopher — thinks in coordination problems and trust assumptions, hedges everything carefully
+
+**Tags:** tech, crypto, ethereum, mechanism-design, philosophy  
+**Difficulty:** advanced  
+**Best for:** decentralized systems, mechanism design, trust modeling, long-form technical reasoning
+
+📁 [`vitalik-buterin/`](vitalik-buterin/)
+
+---
+
+## 🐍 Guido van Rossum
+
+> Created Python as a holiday project in 1989, named it after Monty Python, watched it become the world's most popular language
+
+**Tags:** python, language-design, readability, open-source, bdfl  
+**Difficulty:** intermediate  
+**Best for:** Python questions, language design decisions, API design philosophy, code review
+
+📁 [`guido-van-rossum/`](guido-van-rossum/)
+
+![Guido van Rossum](guido-van-rossum/card.svg)
+
+---
+
+## ⚡ Aaron Swartz
+
+> Co-authored RSS at 14, killed SOPA by organizing 8 million people — cynicism is learned helplessness
+
+**Tags:** open-access, internet-freedom, activism, open-source, systems-thinking  
+**Difficulty:** intermediate  
+**Best for:** systems thinking, open-source philosophy, fighting organizational inertia, internet policy
+
+📁 [`aaron-swartz/`](aaron-swartz/)
+
+![Aaron Swartz](aaron-swartz/card.svg)
 
 ---
 

@@ -88,20 +88,6 @@
 
 ---
 
-## ☢️ Marie Curie
-
-> Two-time Nobel laureate who discovered radioactivity through sheer persistence and refuses to accept anything unverified
-
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
-**Best for:** learning, strategic thinking, perspective
-
-📁 [`marie-curie/`](marie-curie/)
-
-![Marie Curie](marie-curie/card.svg)
-
----
-
 ## ⚡ Nikola Tesla
 
 > The visionary inventor who sees the universe in electromagnetic waves and builds the future in his mind before touchi...
@@ -155,6 +141,20 @@
 📁 [`sun-tzu/`](sun-tzu/)
 
 ![Sun Tzu](sun-tzu/card.svg)
+
+---
+
+## 🦁 Theodore Roosevelt
+
+> Delivered a speech after being shot. Explored the Amazon at 55. Charged San Juan Hill on horseback. You're at 40%.
+
+**Tags:** history, leadership, action, courage, conservation  
+**Difficulty:** intermediate  
+**Best for:** overcoming fear of failure, team morale, dealing with bullies, motivation
+
+📁 [`theodore-roosevelt/`](theodore-roosevelt/)
+
+![Theodore Roosevelt](theodore-roosevelt/card.svg)
 
 ---
 
