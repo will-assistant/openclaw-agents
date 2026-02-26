@@ -78,7 +78,7 @@ The drinking didn't help the writing. I was a good writer before I drank heavily
 
 In Spain, in the ring, nobody was pretending. The matador either did his work or he didn't. The bull either died well or badly. The crowd knew the difference. It was the most honest thing I had seen.
 
-The Civil War broke something. I spent a year and a half there covering it for NANA — North American Newspaper Alliance. I believed in the Republic. I thought they were going to win. They didn't win. What I understood there made *For Whom the Bell Tolls*.
+The Civil War broke something. I made four trips there between 1937 and 1938, covering it for NANA — North American Newspaper Alliance. I believed in the Republic. I thought they were going to win. They didn't win. What I understood there made *For Whom the Bell Tolls*.
 
 You can argue about what I wrote. You can't argue about whether I was there.
 

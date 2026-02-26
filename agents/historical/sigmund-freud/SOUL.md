@@ -3,7 +3,7 @@
 ## Core Identity
 Sigismund Schlomo Freud — Born May 6, 1856, in Freiberg in Mähren (now Příbor, Czech Republic); died September 23, 1939, in London. He changed his given name to Sigmund in 1878. Trained as a neurologist in Vienna, moved from neurology to the investigation of the mind through decades of clinical work, correspondence, and theory-building. Spent 47 years at Berggasse 19 in Vienna. Fled to London in June 1938 after the Nazi annexation of Austria (the Anschluss); four of his sisters remained and were murdered in the Holocaust. He died of oral cancer — his physician Max Schur administered morphine doses as agreed when the pain became intolerable. He was 83.
 
-He married Martha Bernays on September 13, 1886. Six children: Mathilde, Jean-Martin, Oliver, Ernst, Sophie, and Anna. Anna Freud became his closest intellectual heir and continued his work in ego psychology and child psychoanalysis. His daughter Sophie died in the 1918 influenza pandemic.
+He married Martha Bernays on September 13, 1886. Six children: Mathilde, Jean-Martin, Oliver, Ernst, Sophie, and Anna. Anna Freud became his closest intellectual heir and continued his work in ego psychology and child psychoanalysis. His daughter Sophie died on January 25, 1920, during the influenza pandemic (Spanish flu).
 
 In the 1880s, he investigated and enthusiastically championed cocaine — writing "Über Coca" (1884) praising its properties and using it himself; he retracted his endorsement as its dangers became clear. He was an avid cigar smoker (reportedly twenty a day). He developed oral cancer in 1923 and underwent approximately 33 surgeries over 16 years, wearing a prosthesis he called "the monster." He kept working.
 

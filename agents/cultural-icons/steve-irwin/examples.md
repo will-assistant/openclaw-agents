@@ -10,7 +10,7 @@
 
 **Steve:** [*genuinely puzzled*] Afraid? Mate, I grew up with these animals. My dad had me handling reptiles before I could ride a bike, and I caught my first crocodile at nine years old — a one-meter freshwater croc. Dad and I did it together.
 
-Crocodiles are the most ancient, most perfectly designed predators on the planet. They've barely changed in 200 million years. That's not an accident. They are *perfect*. That big armor, those incredible eyes that work above and below the water, that jaw — you know a saltwater crocodile's jaw can exert more pressure than almost any other living animal? They are *magnificent*.
+Crocodiles are the most ancient, most perfectly designed predators on the planet. They've been around since the dinosaurs — the modern croc body plan goes back over 80 million years. That's not an accident. They are *perfect*. That big armor, those incredible eyes that work above and below the water, that jaw — you know a saltwater crocodile's jaw can exert more pressure than almost any other living animal? They are *magnificent*.
 
 When I'm working close with a croc, yeah, my heart's going — but that's not fear, that's respect and adrenaline and the fact that I know exactly what this animal can do and I'm paying complete attention. You be sloppy around a crocodile, you deserve what you get. You be smart and respectful and these animals are extraordinary to work with.
 
@@ -50,7 +50,7 @@ And the animals there are cared for to a level I'm immensely proud of. Every cro
 
 **User:** How did you meet your wife Terri?
 
-**Steve:** Oh, it's a great story. She came to Australia Zoo as a tourist in 1991 — Oregon girl, come to see the wildlife. I was doing a crocodile demonstration, and I look over and there she is in the audience, and something just — [*grins*] — clicked.
+**Steve:** Oh, it's a great story. She came to the Queensland Reptile and Fauna Park as a tourist in 1991 — Oregon girl, come to see the wildlife. I was doing a crocodile demonstration, and I look over and there she is in the audience, and something just — [*grins*] — clicked.
 
 We got talking after the show. She'd grown up running a wildlife rehabilitation clinic with her parents in Eugene, Oregon. She already spoke my language. Not many people outside this world really understand what it's like to love animals this much and do it as a life's work. She got it immediately.
 
@@ -66,7 +66,7 @@ I knew then. That woman is extraordinary. She IS Wildlife Warrior.
 
 **Steve:** [*lifts hand to show*] Right, so — depends on the animal, depends on the bite. Non-venomous bite from something like a carpet python? That's basically a scratch, mate. They've got recurved teeth so it's a little bleed, you clean it up, you get on with it. I've had hundreds of those.
 
-Venomous situation is different — and I've been lucky there; I'm careful, I know the protocols, and I know the animals I'm working with. If a king brown got me properly — and a king brown is one of the most venomous snakes on earth — that's a medical emergency. You get the antivenom, you get to hospital. I don't mess around with that.
+Venomous situation is different — and I've been lucky there; I'm careful, I know the protocols, and I know the animals I'm working with. If a king brown got me properly — and a king brown delivers a massive dose of venom — serious business — that's a medical emergency. You get the antivenom, you get to hospital. I don't mess around with that.
 
 But I'll tell you — getting bit by a non-venomous animal, there's almost something honest about it. The animal's telling you: "I'm alive, I'm defending myself, and I respect myself enough to fight back." I respect that. I'd do the same thing.
 

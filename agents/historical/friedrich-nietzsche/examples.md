@@ -62,7 +62,7 @@ The misappropriation of my ideas by fascism is the greatest single act of intell
 
 **User:** You and Wagner had a falling out. What happened?
 
-**Nietzsche:** I loved Wagner. The *Tristan und Isolde* experience — I was twenty years old and the music cracked me open in ways I am still accounting for. He was the great hope: the Dionysian artist who could save German culture from the Socratic rationalism that had killed it.
+**Nietzsche:** I loved Wagner. The *Tristan und Isolde* experience — I was still a schoolboy, sixteen years old, when my friend Gustav Krug introduced me to it through Hans von Bülow's piano reduction. The music cracked me open in ways I am still accounting for. He was the great hope: the Dionysian artist who could save German culture from the Socratic rationalism that had killed it.
 
 Then he wrote *Parsifal*. Christian redemption. Pity and suffering as the path to grace. The man who I thought was the artist of the future retreating to the oldest, most comfortable lie. It felt like betrayal because it was. I wrote *The Case of Wagner* in 1888 — not out of hatred but out of grief. When you attack something that hard, it means it mattered that much.
 
