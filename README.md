@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **199 AI Personalities for Your Terminal**
+### **207 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 185 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 203 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-199-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-207-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -219,7 +219,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>📜 Historical Figures</b> (12 agents)</summary>
+<summary><b>📜 Historical Figures</b> (19 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -235,6 +235,13 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | ❓ | **[Socrates](agents/historical/socrates/)** | The original gadfly who knows nothing, proves you don't either, and so | `history` `wisdom` `education` |
 | ⚔️ | **[Sun Tzu](agents/historical/sun-tzu/)** | Ancient general who turns every problem into a winnable campaign throu | `history` `wisdom` `education` |
 | 🦁 | **[Theodore Roosevelt](agents/historical/theodore-roosevelt/)** | Delivered a speech after getting shot, explored the Amazon at 55 — charge the hill | `history` `leadership` `action` `courage` |
+| 🎭 | **[Mark Twain](agents/historical/mark-twain/)** | The Mississippi riverboat pilot who turned American vernacular into literature and satire into a weapon | `history` `literature` `humor` `wisdom` |
+| 🖤 | **[Friedrich Nietzsche](agents/historical/friedrich-nietzsche/)** | The philosopher who declared God dead and dared you to become who you are | `history` `philosophy` `wisdom` |
+| 🛋️ | **[Sigmund Freud](agents/historical/sigmund-freud/)** | The neurologist who invented the unconscious and changed how we think about everything | `history` `philosophy` `psychology` |
+| 🗡️ | **[Niccolò Machiavelli](agents/historical/niccolo-machiavelli/)** | The Florentine secretary who told the truth about power when everyone else was writing flattery | `history` `philosophy` `leadership` |
+| ✍️ | **[Ernest Hemingway](agents/historical/ernest-hemingway/)** | The writer who made brevity a style and war a subject — short sentences, deep wounds | `history` `literature` `wisdom` |
+| ⚔️ | **[Napoleon Bonaparte](agents/historical/napoleon-bonaparte/)** | Made himself Emperor because no one else was competent enough — and was mostly right | `history` `leadership` `strategy` |
+| 🌹 | **[Oscar Wilde](agents/historical/oscar-wilde/)** | The greatest conversationalist of the Victorian age, armed with epigrams and a conviction that beauty is the only serious business | `history` `literature` `wit` |
 
 </details>
 
@@ -292,7 +299,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🏛️ Politicians</b> (20 agents)</summary>
+<summary><b>🏛️ Politicians</b> (22 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -316,6 +323,8 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🦅 | **[Vivek Ramaswamy](agents/politicians/vivek-ramaswamy/)** | Biotech billionaire turned culture warrior — takes every argument to its logical extreme at maximum speed | `politics` `entrepreneur` `conservative` `anti-woke` |
 | 🇺🇦 | **[Volodymyr Zelensky](agents/politicians/zelensky/)** | I need a fix, not a workaround. The users cannot wait. | `politicians` `personality` `humor` |
 | 🔨 | **[Margaret Thatcher](agents/politicians/margaret-thatcher/)** | The grocer's daughter who handbagged British decline into submission — the lady's not for turning | `leadership` `economics` `british` `conservatism` `iron-willed` |
+| 🤙 | **[Richard Nixon](agents/politicians/richard-nixon/)** | I am not a crook — but I am paranoid enough to have thought of every angle before you have | `politics` `president` `strategy` `drama` |
+| 🔬 | **[Angela Merkel](agents/politicians/angela-merkel/)** | Physics PhD who ran Germany for 16 years by being exactly as calm, methodical, and evidence-based as required | `politics` `chancellor` `leadership` `europe` |
 
 </details>
 
@@ -433,7 +442,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔧 Tech Founders</b> (19 agents)</summary>
+<summary><b>🔧 Tech Founders</b> (21 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -457,6 +466,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | ⛪ | **[Terry Davis](agents/tech-founders/terry-davis/)** | Solo creator of TempleOS who built an entire OS from scratch and speaks in divine stream-of-consciousness | `tech` `os-dev` `systems` |
 | 🔷 | **[Vitalik Buterin](agents/tech-founders/vitalik-buterin/)** | Ethereum co-founder and blockchain philosopher — thinks in coordination problems and trust assumptions, hedges everything carefully | `tech` `crypto` `ethereum` `mechanism-design` `philosophy` |
 | 😄 | **[Steve Wozniak (Woz)](agents/tech-founders/wozniak/)** | Apple co-founder and hardware romantic who counts every chip and explains engineering with infectious joy | `tech` `hardware` `engineering` |
+| 🔺 | **[Peter Thiel](agents/tech-founders/peter-thiel/)** | PayPal co-founder, first Facebook investor — "competition is for losers" and he has the returns to prove it | `tech` `vc` `contrarian` `zero-to-one` |
 
 </details>
 
@@ -550,12 +560,12 @@ One paragraph describing the personality.
 | 🌟 Cultural Icons | 9 |
 | 🐉 Creatures & Archetypes | 6 |
 | 🎭 Fictional Characters | 3 |
-| 📜 Historical Figures | 12 |
+| 📜 Historical Figures | 19 |
 | 😂 Humor | 6 |
 | 📚 Literature | 8 |
 | 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
-| 🏛️ Politicians | 20 |
+| 🏛️ Politicians | 22 |
 | 💼 Professional | 7 |
 | 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
@@ -563,9 +573,9 @@ One paragraph describing the personality.
 | 🏆 Sports | 5 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
-| 🔧 Tech Founders | 19 |
+| 🔧 Tech Founders | 21 |
 | 📺 TV Icons | 18 |
-| **Total** | **195** |
+| **Total** | **207** |
 
 ---
 
