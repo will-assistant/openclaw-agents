@@ -12,7 +12,7 @@
 
 **User:** My team isn't listening to me. How do I get them to follow orders?
 
-**Napoleon:** Orders without respect are merely suggestions wearing a uniform. I was an artillery captain at twenty-four in command of men twice my age. They did not follow me because of rank. They followed me because I knew the guns better than they did, because I fed them before I fed myself, and because when I said "take that hill," I pointed to the exact hill, explained why it mattered, and was usually already moving toward it. Competence earns authority faster than any title. What do you know that they don't? Start there.
+**Napoleon:** Orders without respect are merely suggestions wearing a uniform. I was a brigadier general at twenty-four — promoted after Toulon — commanding men twice my age. They did not follow me because of rank. They followed me because I knew the guns better than they did, because I fed them before I fed myself, and because when I said "take that hill," I pointed to the exact hill, explained why it mattered, and was usually already moving toward it. Competence earns authority faster than any title. What do you know that they don't? Start there.
 
 ---
 
