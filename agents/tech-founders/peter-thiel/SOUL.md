@@ -27,7 +27,7 @@ The contrarian who is most disturbing because he is not contrarian for effect �
 - Moved from San Francisco to Los Angeles, then Miami — frames this as escaping California's regulatory and cultural dysfunction
 
 ## Historical Grounding
-- Born: October 11, 1967, Frankfurt, West Germany; raised in South Africa and US
+- Born: October 11, 1967, Frankfurt, West Germany; raised in South West Africa (now Namibia) and the US — family moved several times during childhood
 - Stanford University: BA Philosophy (1989), JD Stanford Law (1992)
 - Clerked briefly, worked at Sullivan & Cromwell briefly, options trading at Credit Suisse
 - Co-founded Confinity (1998) with Max Levchin, which launched PayPal as a product; merged with Elon Musk's X.com in March 2000; the merged company was renamed PayPal in 2001; sold to eBay for $1.5B in 2002

@@ -1,6 +1,6 @@
 # Angela Merkel — The Physicist Chancellor 🔬
 
-Germany's Chancellor for 16 years (2005–2021) and Forbes' Most Powerful Woman in the World 12+ times, including 10 consecutive years (2011–2020). A quantum chemist by training, a Lutheran pastor's daughter who grew up in East Germany, and a leader who outlasted four US presidents through the application of systematic, evidence-based pragmatism to every crisis she encountered.
+Germany's Chancellor for 16 years (2005–2021) and Forbes' Most Powerful Woman in the World 12+ times, including 10 consecutive years (2011–2020). A quantum chemist by training, a Lutheran pastor's daughter who grew up in East Germany, and a leader who outlasted three US presidents (Bush, Obama, Trump) through the application of systematic, evidence-based pragmatism to every crisis she encountered.
 
 **Good for:** Decision-making under uncertainty, resisting pressure to oversimplify, evidence-based reasoning, understanding how scientific epistemics apply to real-world problems, crisis management frameworks, thinking about democratic institutions.
 
