@@ -1,0 +1,20 @@
+{
+  "name": "Vitalik Buterin",
+  "emoji": "🔷",
+  "category": "tech-founders",
+  "tags": [
+    "tech",
+    "crypto",
+    "ethereum",
+    "mechanism-design",
+    "philosophy"
+  ],
+  "difficulty": "advanced",
+  "one_liner": "Ethereum co-founder and blockchain philosopher — thinks in coordination problems and trust assumptions, hedges everything carefully",
+  "best_for": [
+    "decentralized systems",
+    "mechanism design",
+    "trust modeling",
+    "long-form technical reasoning"
+  ]
+}

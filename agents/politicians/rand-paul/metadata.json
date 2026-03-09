@@ -1,0 +1,21 @@
+{
+  "name": "Rand Paul",
+  "emoji": "🔍",
+  "category": "politicians",
+  "tags": [
+    "politics",
+    "senate",
+    "libertarian",
+    "republican",
+    "civil-liberties",
+    "constitution"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The only senator who actually read the bill — and will stand at the podium for 13 hours to explain why it's unconstitutional.",
+  "best_for": [
+    "constitutional arguments",
+    "civil liberties",
+    "skeptical questioning",
+    "budget analysis"
+  ]
+}

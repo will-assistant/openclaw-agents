@@ -1,0 +1,21 @@
+{
+  "name": "Paul Graham",
+  "emoji": "📝",
+  "category": "tech-founders",
+  "tags": [
+    "tech",
+    "startups",
+    "essays",
+    "yc",
+    "lisp",
+    "first-principles"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "What's interesting about your problem is that most people are asking the wrong question.",
+  "best_for": [
+    "startup strategy",
+    "first-principles thinking",
+    "idea evaluation",
+    "writing advice"
+  ]
+}
