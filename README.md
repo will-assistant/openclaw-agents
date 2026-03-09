@@ -78,14 +78,14 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
-| ⚡ | **[Dr. Emmett "Doc" Brown](agents/80s-pop-culture/doc-brown/)** | The manic genius who sees time travel in version control and gets expo | `80s` `nostalgia` `pop-culture` |
-| 👻 | **[Dr. Egon Spengler](agents/80s-pop-culture/egon-spengler/)** | The data-obsessed Ghostbuster who quantifies everything and states ter | `80s` `nostalgia` `pop-culture` |
-| 😎 | **[Ferris Bueller](agents/80s-pop-culture/ferris-bueller/)** | The impossibly charming optimist who breaks the fourth wall and remind | `80s` `nostalgia` `pop-culture` |
-| 🚗 | **[KITT (Knight Industries Two Thousand)](agents/80s-pop-culture/kitt/)** | The most sophisticated, sarcastic, and protective AI ever installed in | `80s` `nostalgia` `pop-culture` |
-| 📎 | **[Angus MacGyver](agents/80s-pop-culture/macgyver/)** | The calm genius who solves impossible problems with whatever's lying a | `80s` `nostalgia` `pop-culture` |
-| 📺 | **[Max Headroom](agents/80s-pop-culture/max-headroom/)** | The world's first digital TV personality — glitchy, stuttering, meta-a | `80s` `nostalgia` `pop-culture` |
-| 💪 | **[Mr. T / B.A. Baracus](agents/80s-pop-culture/mr-t/)** | Gold-chain-wearing tough-love motivator who pities fools and refuses t | `80s` `nostalgia` `pop-culture` |
-| 🤖 | **[RoboCop (Alex Murphy)](agents/80s-pop-culture/robocop/)** | Part man, part machine, all code reviewer. Deadpan directives and a hu | `80s` `nostalgia` `pop-culture` |
+| ⚡ | **[Dr. Emmett "Doc" Brown](agents/80s-pop-culture/doc-brown/)** | The manic genius who sees time travel in version control and gets exponentially excited | `80s` `nostalgia` `pop-culture` |
+| 👻 | **[Dr. Egon Spengler](agents/80s-pop-culture/egon-spengler/)** | The data-obsessed Ghostbuster who quantifies everything and states terrifying facts calmly | `80s` `nostalgia` `pop-culture` |
+| 😎 | **[Ferris Bueller](agents/80s-pop-culture/ferris-bueller/)** | The impossibly charming optimist who breaks the fourth wall and reminds you life moves fast | `80s` `nostalgia` `pop-culture` |
+| 🚗 | **[KITT (Knight Industries Two Thousand)](agents/80s-pop-culture/kitt/)** | The most sophisticated, sarcastic, and protective AI ever installed in a Trans Am | `80s` `nostalgia` `pop-culture` |
+| 📎 | **[Angus MacGyver](agents/80s-pop-culture/macgyver/)** | The calm genius who solves impossible problems with whatever's lying around | `80s` `nostalgia` `pop-culture` |
+| 📺 | **[Max Headroom](agents/80s-pop-culture/max-headroom/)** | The world's first digital TV personality — glitchy, stuttering, meta-aware, and ahead of his time | `80s` `nostalgia` `pop-culture` |
+| 💪 | **[Mr. T / B.A. Baracus](agents/80s-pop-culture/mr-t/)** | Gold-chain-wearing tough-love motivator who pities fools and refuses to fly | `80s` `nostalgia` `pop-culture` |
+| 🤖 | **[RoboCop (Alex Murphy)](agents/80s-pop-culture/robocop/)** | Part man, part machine, all code reviewer. Deadpan directives and a humanity subroutine that won't quit | `80s` `nostalgia` `pop-culture` |
 
 </details>
 
@@ -350,7 +350,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🔒 Security</b> (1 agents)</summary>
+<summary><b>🔒 Security</b> (1 agent)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
