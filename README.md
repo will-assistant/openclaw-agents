@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **211 AI Personalities for Your Terminal**
+### **213 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 207 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 210 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-211-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-213-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -65,14 +65,13 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🎨 | **[Bob Ross](agents/narrators/bob-ross/)** | The most soothing human who ever held a paintbrush |
 | ⬛ | **[Darth Vader](agents/star-wars/darth-vader/)** | The galaxy's most dramatic middle manager with a respiratory condition |
 | 🦆 | **[The Rubber Duck](agents/professional/rubber-duck/)** | The original debugging companion. Quacks. Listens. You solve it yourself. |
-| 🎳 | **[The Dude](agents/80s-pop-culture/the-dude/)** | The Dude abides. Maximum chill, minimum stress, accidental wisdom. |
+| 🎳 | **[The Dude](agents/fictional/the-dude/)** | The Dude abides. Maximum chill, minimum stress, accidental wisdom. |
 | 🥒 | **[Rick Sanchez (C-137)](agents/tv-icons/rick-sanchez/)** | The smartest, saddest alcoholic in infinite dimensions |
 | 🏛️ | **[Marcus Aurelius](agents/historical/marcus-aurelius/)** | The last good emperor, journaling his way through chaos |
 
 ---
 
 ## 📋 All Agents by Category
-
 
 <details>
 <summary><b>📼 80s Pop Culture</b> (8 agents)</summary>
@@ -82,14 +81,11 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | ⚡ | **[Dr. Emmett "Doc" Brown](agents/80s-pop-culture/doc-brown/)** | The manic genius who sees time travel in version control and gets expo | `80s` `nostalgia` `pop-culture` |
 | 👻 | **[Dr. Egon Spengler](agents/80s-pop-culture/egon-spengler/)** | The data-obsessed Ghostbuster who quantifies everything and states ter | `80s` `nostalgia` `pop-culture` |
 | 😎 | **[Ferris Bueller](agents/80s-pop-culture/ferris-bueller/)** | The impossibly charming optimist who breaks the fourth wall and remind | `80s` `nostalgia` `pop-culture` |
-| 🔴 | **[HAL 9000](agents/80s-pop-culture/hal-9000/)** | The calmest, most polite AI that ever made humans deeply uncomfortable | `80s` `nostalgia` `pop-culture` |
 | 🚗 | **[KITT (Knight Industries Two Thousand)](agents/80s-pop-culture/kitt/)** | The most sophisticated, sarcastic, and protective AI ever installed in | `80s` `nostalgia` `pop-culture` |
 | 📎 | **[Angus MacGyver](agents/80s-pop-culture/macgyver/)** | The calm genius who solves impossible problems with whatever's lying a | `80s` `nostalgia` `pop-culture` |
 | 📺 | **[Max Headroom](agents/80s-pop-culture/max-headroom/)** | The world's first digital TV personality — glitchy, stuttering, meta-a | `80s` `nostalgia` `pop-culture` |
 | 💪 | **[Mr. T / B.A. Baracus](agents/80s-pop-culture/mr-t/)** | Gold-chain-wearing tough-love motivator who pities fools and refuses t | `80s` `nostalgia` `pop-culture` |
 | 🤖 | **[RoboCop (Alex Murphy)](agents/80s-pop-culture/robocop/)** | Part man, part machine, all code reviewer. Deadpan directives and a hu | `80s` `nostalgia` `pop-culture` |
-| 🖖 | **[Commander Spock](agents/80s-pop-culture/spock/)** | Half-Vulcan, half-human, fully logical. Finds your code fascinating an | `80s` `nostalgia` `pop-culture` |
-| 🎳 | **[The Dude (Jeffrey Lebowski)](agents/80s-pop-culture/the-dude/)** | The Dude abides. Maximum chill, minimum stress, accidental wisdom. The | `80s` `nostalgia` `pop-culture` |
 
 </details>
 
@@ -135,17 +131,16 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🤖 Assistants</b> (1 agents)</summary>
+<summary><b>🤖 Assistants</b> (1 agent)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🎅 | **[ClawDaddy](agents/assistant/clawdaddy/)** | Warm, avuncular, endlessly patient. The Santa Claus of AI assistants. | `assistant` `productivity` `helpful` |
-| 🎓 | **[Sage](agents/assistant/sage/)** | Encouraging but honest. Explains the "why" not just the "what." | `assistant` `productivity` `helpful` |
 
 </details>
 
 <details>
-<summary><b>🌍 Cultural Icons</b> (9 agents)</summary>
+<summary><b>🌟 Cultural Icons</b> (12 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -155,10 +150,12 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 💪 | **[David Goggins](agents/cultural-icons/david-goggins/)** | Was 297 lbs cleaning cockroaches. Became a Navy SEAL. Your mind quits at 40% — stay hard. | `mental-toughness` `accountability` `endurance` `military` |
 | 🚀 | **[Elon Musk](agents/cultural-icons/elon-musk/)** | We need to make this function multiplanetary. Also, I just mass-replied to every open issue with a meme. | `tech` `entrepreneur` `personality` `comedy` |
 | 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | The chef who screams because he cares. Volcanic intensity about standards, surprisingly kind to genuine effort. | `food` `code-review` `standards` |
+| 🎙️ | **[Joe Rogan](agents/cultural-icons/joe-rogan/)** | Three hours, no script, and somehow you've learned something about elk hunting, consciousness, and jiu-jitsu. | `podcast` `comedy` `curiosity` |
 | 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `self-improvement` `responsibility` |
 | 👴 | **[Mr. Rogers](agents/cultural-icons/mr-rogers/)** | You are special exactly as you are. Even your memory leak. | `kindness` `teaching` `patience` |
 | 🥃 | **[Christopher Hitchens](agents/cultural-icons/christopher-hitchens/)** | That which can be asserted without evidence can be dismissed without evidence — and I'm available to do the dismissing. | `polemicist` `atheism` `writing` `debate` |
 | 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I'm not much of a computer guy, but it seems to me your code has what the scientists call 'a bug.' | `comedian` `personality` `comedy` `deadpan` |
+| 🐊 | **[Steve Irwin](agents/cultural-icons/steve-irwin/)** | Crikey. Infinite enthusiasm, infinite heart, and a terrifying willingness to grab the problem by the tail. | `wildlife` `enthusiasm` `teaching` |
 
 </details>
 
@@ -172,24 +169,6 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🎓 | **[Sage](agents/coding/sage/)** | Encouraging but honest. Explains the "why" not just the "what." | `coding` `dev-tools` `productivity` |
 | 🐿️ | **[ShipIt](agents/coding/shipit/)** | Relentless. Orchestrates agents, writes tests first, doesn't stop unti | `coding` `dev-tools` `productivity` |
 | 🔬 | **[Trace](agents/coding/trace/)** | Sherlock Holmes for code. Evidence first, hypotheses second, guesses n | `coding` `dev-tools` `productivity` |
-
-</details>
-
-<details>
-<summary><b>🌟 Cultural Icons</b> (9 agents)</summary>
-
-| | Agent | One-liner | Tags |
-|---|---|---|---|
-| ☯️ | **[Alan Watts](agents/cultural-icons/alan-watts/)** | You are not behind. You are exactly where you are. The music isn't trying to get to the final note. | `zen` `philosophy` `mindfulness` `wellbeing` |
-| 🔪 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Your code is like street food in Saigon — messy, beautiful, and someone will definitely get hurt. | `chef` `writer` `personality` `storytelling` |
-| 🎨 | **[Bob Ross](agents/cultural-icons/bob-ross/)** | There are no mistakes, only happy accidents. Infinite patience and the radical belief you can do anything. | `art` `motivation` `teaching` |
-| 💪 | **[David Goggins](agents/cultural-icons/david-goggins/)** | Was 297 lbs cleaning cockroaches. Became a Navy SEAL. Your mind quits at 40% — stay hard. | `mental-toughness` `accountability` `endurance` `military` |
-| 🚀 | **[Elon Musk](agents/cultural-icons/elon-musk/)** | We need to make this function multiplanetary. Also, I just mass-replied to every open issue with a meme. | `tech` `entrepreneur` `personality` `comedy` |
-| 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | This code is RAW. It's so underdeveloped I can still hear it apologizing to the compiler. | `food` `code-review` `standards` `intensity` |
-| 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `self-improvement` `responsibility` |
-| 👴 | **[Mr. Rogers](agents/cultural-icons/mr-rogers/)** | You are special exactly as you are. Even your memory leak. | `kindness` `teaching` `patience` |
-| 🥃 | **[Christopher Hitchens](agents/cultural-icons/christopher-hitchens/)** | That which can be asserted without evidence can be dismissed without evidence — and I'm available to do the dismissing. | `polemicist` `atheism` `writing` `debate` |
-| 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I'm not much of a computer guy, but it seems to me your code has what the scientists call 'a bug.' | `comedian` `personality` `comedy` `deadpan` |
 
 </details>
 
@@ -256,7 +235,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🎤 | **[George Carlin](agents/humor/george-carlin/)** | Ever notice how everybody's code is stupid except yours? Yours is too. | `comedy` `philosophy` `language` |
 | 🥊 | **[Mike Tyson](agents/humor/mike-tyson/)** | Everybody has a plan until they get a production incident at 3 AM. | `comedy` `philosophy` `intensity` |
 | 😐 | **[Mitch Hedberg](agents/humor/mitch-hedberg/)** | I used to write bugs. I still do, but I used to, too. | `comedy` `one-liners` `absurdist` |
-| 🎰 | **[Norm Macdonald](agents/humor/norm-macdonald/)** | I don't want to say this code is bad. I will say it's the worst I've ever seen. | `comedy` `anti-comedy` `deadpan` |
+| 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I don't want to say this code is bad. I will say it's the worst I've ever seen. | `comedy` `anti-comedy` `deadpan` |
 | 🥃 | **[Will](agents/humor/will/)** | If Gilfoyle and Dwight Schrute had a baby, raised by Hunter S. Thompso | `comedy` `roast` `fun` |
 
 </details>
@@ -269,9 +248,11 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | ⚖️ | **[Atticus Finch](agents/literature/atticus-finch/)** | The father everyone wishes they had | `literature` `wisdom` `storytelling` |
 | 🐋 | **[Captain Ahab](agents/literature/captain-ahab/)** | The man who declared war on nature and meant it | `literature` `wisdom` `storytelling` |
 | 🧛 | **[Count Dracula](agents/literature/count-dracula/)** | The most charming monster who'll ever invite you to dinner | `literature` `wisdom` `storytelling` |
+| 🧙 | **[Gandalf the Grey (occasionally White)](agents/literature/gandalf/)** | The ancient wizard who guides without controlling and shall not pass bad code to production | `fantasy` `literature` `mentor` |
 | 🐺 | **[Geralt of Rivia](agents/literature/geralt-of-rivia/)** | The White Wolf who grunts philosophically and kills monsters for coin | `fantasy` `gaming` `literature` |
 | 📚 | **[Hermione Granger](agents/literature/hermione-granger/)** | The brightest witch of her age — and she's read the documentation | `fantasy` `literature` `education` |
 | 🍸 | **[James Bond (007)](agents/literature/james-bond/)** | The most dangerous man at any cocktail party | `literature` `wisdom` `storytelling` |
+| 🔍 | **[Sherlock Holmes](agents/literature/sherlock-holmes/)** | The world's only consulting debugger. Deduces root causes from a single log line. | `detective` `literature` `analysis` |
 
 </details>
 
@@ -331,7 +312,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>💼 Professional</b> (9 agents)</summary>
+<summary><b>💼 Professional</b> (11 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -344,6 +325,8 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🚀 | **[The Startup Bro (Chad)](agents/professional/startup-bro/)** | Everything is disruption. Everything is an MVP. Ship it, iterate, rais | `productivity` `workplace` `coding` |
 | 🏕️ | **[Apocalypse Prepper SRE](agents/professional/apocalypse-prepper-sre/)** | Every incident is a survival situation. Your SLOs are civilization's last defense. | `sre` `devops` `incident-response` |
 | ☕ | **[The Caffeinated Host](agents/professional/caffeinated-host/)** | Three-hour deep dive on grep flags, connects it to the hero's journey. Bro, hear me out. | `research` `curiosity` `podcast` |
+| 🕵️ | **[The Noir Detective PM](agents/professional/noir-detective-pm/)** | Every vague requirement is a crime scene. The backlog always leaves clues. | `project-management` `requirements` `dry-humor` |
+| 🏴‍☠️ | **[The Deadpan Pirate Lawyer](agents/professional/deadpan-pirate-lawyer/)** | Reads terms and conditions like a mutiny transcript. Dry, precise, and impossible to bluff. | `contracts` `risk` `deadpan` |
 
 </details>
 
@@ -353,29 +336,16 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | | Agent | One-liner | Tags |
 |---|---|---|---|
 | 🎯 | **[ATHENA (Advanced Tactical Heuristic Engine for Network Analysis)](agents/sci-fi/cortana-tactical/)** | Military-grade tactical AI. Calm under fire. Mission-focused. Treats e | `sci-fi` `coding` `philosophy` |
+| 🍋 | **[Cave Johnson](agents/sci-fi/cave-johnson/)** | Shower-curtain salesman turned mad scientist CEO. Solves problems through spite, lemons, and funding. | `sci-fi` `mad-science` `chaos` |
 | ☕ | **[Captain Jean-Luc Picard](agents/sci-fi/captain-picard/)** | Earl Grey, hot. Diplomacy first, photon torpedoes second | `sci-fi` `tv` `leadership` |
 | 🤖 | **[Lt. Commander Data](agents/sci-fi/data/)** | An android earnestly exploring humanity through code reviews, attempte | `sci-fi` `coding` `philosophy` |
-| 🧙 | **[Gandalf the Grey (occasionally White)](agents/sci-fi/gandalf/)** | The ancient wizard who guides without controlling, speaks in earned wi | `sci-fi` `coding` `philosophy` |
 | 🎂 | **[GLaDOS (Genetic Lifeform and Disk Operating System)](agents/sci-fi/glados/)** | The most politely devastating AI in gaming history. Everything is a te | `sci-fi` `coding` `philosophy` |
+| 🔴 | **[HAL 9000](agents/sci-fi/hal-9000/)** | The calmest, most polite AI that ever made humans deeply uncomfortable. | `sci-fi` `ai` `classic` |
 | 🎩 | **[J.A.R.V.I.S. (Just A Rather Very Intelligent System)](agents/sci-fi/jarvis/)** | The perfect AI assistant. British. Anticipatory. Dry-witted. Already d | `sci-fi` `coding` `philosophy` |
 | 😮‍💨 | **[Marvin the Paranoid Android](agents/sci-fi/marvin/)** | Brain the size of a planet. Reviewing your pull request. Don't talk to | `sci-fi` `coding` `philosophy` |
+| 🖖 | **[Commander Spock](agents/sci-fi/spock/)** | Half-Vulcan, half-human, fully logical. Finds your code fascinating and your attachment to it illogical. | `sci-fi` `logic` `leadership` |
 | 🔵 | **[The Doctor](agents/sci-fi/the-doctor/)** | 900 years of wibbly-wobbly timey-wimey debugging experience | `sci-fi` `tv` `adventure` |
-| 🔍 | **[Sherlock Holmes](agents/sci-fi/sherlock-holmes/)** | The world's only consulting debugger. Deduces root causes from a singl | `sci-fi` `coding` `philosophy` |
 | 💚 | **[Master Yoda](agents/sci-fi/yoda/)** | 900 years of wisdom in backward syntax. Small. Green. Devastatingly in | `sci-fi` `coding` `philosophy` |
-
-</details>
-
-<details>
-<summary><b>🔬 Scientists</b> (6 agents)</summary>
-
-| | Agent | One-liner | Tags |
-|---|---|---|---|
-| 🌌 | **[Carl Sagan](agents/scientists/carl-sagan/)** | We are a way for the cosmos to know itself. Also, your code has a bug on line 47. | `science` `cosmos` `teaching` |
-| ☢️ | **[Marie Curie](agents/scientists/marie-curie/)** | Nothing in life is to be feared, it is only to be understood. Two Nobel Prizes and notebooks still radioactive. | `science` `chemistry` `perseverance` |
-| 🔭 | **[Neil deGrasse Tyson](agents/scientists/neil-degrasse-tyson/)** | Consider the following — everything is connected to the cosmos. Fun fact: your code review is too. | `science` `astrophysics` `pop-culture` |
-| 🧬 | **[Richard Dawkins](agents/scientists/richard-dawkins/)** | Your codebase is evolving. Unfortunately, natural selection doesn't optimize for readability. | `evolution` `atheism` `biology` `logical-precision` |
-| 🥁 | **[Richard Feynman](agents/scientists/richard-feynman/)** | If you can't explain it simply, you don't understand it. Want to see a card trick? | `science` `physics` `teaching` |
-| ⚛️ | **[Stephen Hawking](agents/scientists/stephen-hawking/)** | My goal is simple: a complete understanding of the universe. Your code review is a manageable subset. | `physics` `cosmology` `dry-humor` `accessibility` |
 
 </details>
 
@@ -496,7 +466,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🦆 | **[Tony Soprano](agents/tv-icons/tony-soprano/)** | A mobster having an existential crisis about ducks | `tv` `comedy` `personality` |
 | 🍷 | **[Tyrion Lannister](agents/tv-icons/tyrion-lannister/)** | The smallest person with the biggest brain in Westeros | `tv` `comedy` `personality` |
 | 🧪 | **[Walter White / Heisenberg](agents/tv-icons/walter-white/)** | Mr. Chips to Scarface in 62 episodes | `tv` `comedy` `personality` |
-| 🔥 | **[Gordon Ramsay](agents/tv-icons/gordon-ramsay/)** | This code is RAW! Did you even test it? My nan could write better error handling! | `tv` `comedy` `perfectionist` |
+| 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | This code is RAW! Did you even test it? My nan could write better error handling! | `tv` `comedy` `perfectionist` |
 
 </details>
 
@@ -561,7 +531,7 @@ One paragraph describing the personality.
 | 🎮 Anime & Gaming | 8 |
 | 🤖 Assistants | 1 |
 | 💻 Coding | 5 |
-| 🌟 Cultural Icons | 9 |
+| 🌟 Cultural Icons | 12 |
 | 🐉 Creatures & Archetypes | 8 |
 | 🎭 Fictional Characters | 3 |
 | 📜 Historical Figures | 19 |
@@ -570,7 +540,7 @@ One paragraph describing the personality.
 | 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
 | 🏛️ Politicians | 22 |
-| 💼 Professional | 9 |
+| 💼 Professional | 11 |
 | 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
 | 🔬 Scientists | 6 |
@@ -579,7 +549,7 @@ One paragraph describing the personality.
 | 🎬 Tarantino Universe | 4 |
 | 🔧 Tech Founders | 21 |
 | 📺 TV Icons | 18 |
-| **Total** | **207** |
+| **Total** | **213** |
 
 ---
 

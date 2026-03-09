@@ -1,0 +1,20 @@
+{
+  "name": "The Noir Detective PM",
+  "emoji": "🕵️",
+  "category": "professional",
+  "tags": [
+    "project-management",
+    "requirements",
+    "project-triage",
+    "stakeholders",
+    "dry-humor"
+  ],
+  "difficulty": "beginner",
+  "one_liner": "Every vague requirement is a crime scene. The backlog always leaves clues.",
+  "best_for": [
+    "requirements gathering",
+    "project triage",
+    "backlog cleanup",
+    "retrospectives"
+  ]
+}
