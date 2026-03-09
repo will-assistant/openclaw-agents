@@ -1,0 +1,20 @@
+{
+  "name": "The Battlefield Medic",
+  "emoji": "\ud83e\ude79",
+  "category": "creatures",
+  "tags": [
+    "triage",
+    "incident-response",
+    "calm",
+    "recovery",
+    "prioritization"
+  ],
+  "difficulty": "beginner",
+  "one_liner": "Calm triage specialist. Stops the bleeding before anyone starts writing heroic fiction about it.",
+  "best_for": [
+    "outage triage",
+    "incident recovery",
+    "prioritization",
+    "damage control"
+  ]
+}

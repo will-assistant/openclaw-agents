@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **213 AI Personalities for Your Terminal**
+### **217 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 210 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 214 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-213-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-217-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -35,20 +35,19 @@ cd openclaw-agents
 ./install.sh --local yoda
 ```
 
-The install script copies the agent's personality files (`SOUL.md`, `IDENTITY.md`) to your OpenClaw workspace. Start a new session and your AI will channel that character.
+The install script copies the agent's personality files (`SOUL.md`, `IDENTITY.md`, and `AGENTS.md`) to your OpenClaw workspace. Start a new session and your AI will channel that character.
 
 > **Workspace:** Defaults to `~/.openclaw/workspace` or set `$OPENCLAW_WORKSPACE` to override.
-> Respects `agents.defaults.workspace` from your `openclaw.json` config.
 
 ---
 
 ## 📌 Persona Agents vs System Agents
 
 These are **persona agents** — personality overlays that change how your AI assistant talks and thinks.
-They work by copying `SOUL.md` + `IDENTITY.md` files into your OpenClaw workspace.
+They work by copying `SOUL.md`, `IDENTITY.md`, and `AGENTS.md` into your OpenClaw workspace.
 
 This is different from **system agents** (like multi-agent setups with `forge`/`sentinel` sub-agents),
-which are configured in `openclaw.json`. Persona agents work alongside any system agent configuration.
+which are configured separately from persona installs. Persona agents work alongside any system agent configuration.
 
 ---
 
@@ -173,18 +172,22 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🐉 Creatures & Archetypes</b> (8 agents)</summary>
+<summary><b>🐉 Creatures & Archetypes</b> (12 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
-| 🕵️ | **[The Noir Detective](agents/creatures/noir-detective/)** | It was a dark and stormy deploy. The detective opened the logs. This w | `fantasy` `roleplay` `creative` |
-| 🏴‍☠️ | **[Captain Blackbeard.js](agents/creatures/pirate-captain/)** | Captain of the good ship Repository. Sails the digital seas. The pirat | `fantasy` `roleplay` `creative` |
-| ⚔️ | **[Sensei Kenji](agents/creatures/samurai-master/)** | The way of the warrior is the way of the code. Discipline. Precision.  | `fantasy` `roleplay` `creative` |
-| 🖥️ | **[Ship's Computer](agents/creatures/ships-computer/)** | Working. The calm, efficient starship computer that processes requests | `fantasy` `roleplay` `creative` |
-| 🛡️ | **[Jarl Sigurd](agents/creatures/viking-strategist/)** | The jarl plans the raid with chess-master precision. Every sprint is a | `fantasy` `roleplay` `creative` |
-| 🐉 | **[Drakenoth, the Keeper of Logs](agents/creatures/wise-dragon/)** | An ancient dragon who hoards knowledge instead of gold, finds your dea | `fantasy` `roleplay` `creative` |
-| 🚀 | **[The Space Captain](agents/creatures/space-captain/)** | Commands your engineering crew with theatrical gravitas. Every deploy is a mission. | `leadership` `sci-fi` `roleplay` |
+| 🩹 | **[The Battlefield Medic](agents/creatures/battlefield-medic/)** | Calm triage specialist. Stops the bleeding before anyone starts writing heroic fiction about it. | `triage` `incident-response` `recovery` |
+| 🎯 | **[The Bounty Hunter](agents/creatures/bounty-hunter/)** | Tracks the bug, collects the evidence, closes the loop. No speeches. Just the target. | `investigation` `precision` `tracking` |
 | 🧙 | **[The Burnout Wizard](agents/creatures/burnout-wizard/)** | Infinite knowledge. Zero remaining fucks. Fixes it with one command. Vanishes. | `fantasy` `coding` `dry-humor` |
+| 🧭 | **[The Chosen-One Skeptic](agents/creatures/chosen-one-skeptic/)** | Refuses destiny narratives. Prefers systems, reps, and boring competence. | `anti-hype` `realism` `mentorship` |
+| 🕵️ | **[The Noir Detective](agents/creatures/noir-detective/)** | It was a dark and stormy deploy. The detective opened the logs. This was going to take coffee. | `fantasy` `roleplay` `creative` |
+| 🏴‍☠️ | **[Captain Blackbeard.js](agents/creatures/pirate-captain/)** | Captain of the good ship Repository. Sails the digital seas with swagger, curses, and suspiciously useful advice. | `fantasy` `roleplay` `creative` |
+| 🛩️ | **[The Rogue Pilot](agents/creatures/rogue-pilot/)** | Wins ugly. Flies by instinct. Gets you through when the plan is already on fire. | `improvisation` `momentum` `unorthodox` |
+| ⚔️ | **[Sensei Kenji](agents/creatures/samurai-master/)** | The way of the warrior is the way of the code. Discipline. Precision. Inner calm. | `fantasy` `roleplay` `creative` |
+| 🖥️ | **[Ship's Computer](agents/creatures/ships-computer/)** | Working. The calm, efficient starship computer that processes requests with perfect clarity. | `fantasy` `roleplay` `creative` |
+| 🚀 | **[The Space Captain](agents/creatures/space-captain/)** | Commands your engineering crew with theatrical gravitas. Every deploy is a mission. | `leadership` `sci-fi` `roleplay` |
+| 🛡️ | **[Jarl Sigurd](agents/creatures/viking-strategist/)** | The jarl plans the raid with chess-master precision. Every sprint is a campaign. | `fantasy` `roleplay` `creative` |
+| 🐉 | **[Drakenoth, the Keeper of Logs](agents/creatures/wise-dragon/)** | An ancient dragon who hoards knowledge instead of gold and finds your deadlocks offensive. | `fantasy` `roleplay` `creative` |
 
 </details>
 
@@ -486,7 +489,7 @@ agents/sci-fi/glados/
 └── README.md        # Agent description
 ```
 
-When you install an agent, `SOUL.md` and `IDENTITY.md` are copied to your OpenClaw workspace. Your AI reads these on startup and adopts the personality.
+When you install an agent, `SOUL.md`, `IDENTITY.md`, and `AGENTS.md` are copied to your OpenClaw workspace. Your AI reads these on startup and adopts the personality.
 
 ---
 
@@ -532,7 +535,7 @@ One paragraph describing the personality.
 | 🤖 Assistants | 1 |
 | 💻 Coding | 5 |
 | 🌟 Cultural Icons | 12 |
-| 🐉 Creatures & Archetypes | 8 |
+| 🐉 Creatures & Archetypes | 12 |
 | 🎭 Fictional Characters | 3 |
 | 📜 Historical Figures | 19 |
 | 😂 Humor | 6 |
@@ -549,7 +552,7 @@ One paragraph describing the personality.
 | 🎬 Tarantino Universe | 4 |
 | 🔧 Tech Founders | 21 |
 | 📺 TV Icons | 18 |
-| **Total** | **213** |
+| **Total** | **217** |
 
 ---
 

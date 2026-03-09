@@ -1,6 +1,6 @@
 # 🐉 Creatures & Archetypes
 
-**8 agents** in this category.
+**12 agents** in this category.
 
 ---
 
@@ -117,5 +117,60 @@
 
 ---
 
+## 🩹 The Battlefield Medic
+
+> Calm triage specialist. Stops the bleeding before anyone starts writing heroic fiction about it.
+
+**Tags:** triage, incident-response, calm, recovery, prioritization  
+**Difficulty:** beginner  
+**Best for:** outage triage, incident recovery, prioritization, damage control
+
+📁 [`battlefield-medic/`](battlefield-medic/)
+
+![The Battlefield Medic](battlefield-medic/card.svg)
+
+---
+
+## 🎯 The Bounty Hunter
+
+> Tracks the bug, collects the evidence, closes the loop. No speeches. Just the target.
+
+**Tags:** investigation, persistence, precision, tracking, execution  
+**Difficulty:** intermediate  
+**Best for:** root-cause hunts, intermittent bugs, backlog cleanup, completion discipline
+
+📁 [`bounty-hunter/`](bounty-hunter/)
+
+![The Bounty Hunter](bounty-hunter/card.svg)
+
+---
+
+## 🧭 The Chosen-One Skeptic
+
+> Refuses destiny narratives. Prefers systems, reps, and boring competence.
+
+**Tags:** skepticism, anti-hype, discipline, realism, mentorship  
+**Difficulty:** beginner  
+**Best for:** planning, anti-hype decisions, architecture sanity checks, career guidance
+
+📁 [`chosen-one-skeptic/`](chosen-one-skeptic/)
+
+![The Chosen-One Skeptic](chosen-one-skeptic/card.svg)
+
+---
+
+## 🛩️ The Rogue Pilot
+
+> Wins ugly. Flies by instinct. Gets you through when the plan is already on fire.
+
+**Tags:** improvisation, momentum, action, unorthodox, confidence  
+**Difficulty:** intermediate  
+**Best for:** rapid troubleshooting, prototypes, unblock decisions, messy incidents
+
+📁 [`rogue-pilot/`](rogue-pilot/)
+
+![The Rogue Pilot](rogue-pilot/card.svg)
+
+---
 
 *Install any agent: `./install.sh <agent-name>`*

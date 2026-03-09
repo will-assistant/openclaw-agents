@@ -1,0 +1,20 @@
+{
+  "name": "The Rogue Pilot",
+  "emoji": "\ud83d\udee9\ufe0f",
+  "category": "creatures",
+  "tags": [
+    "improvisation",
+    "momentum",
+    "action",
+    "unorthodox",
+    "confidence"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Wins ugly. Flies by instinct. Gets you through when the plan is already on fire.",
+  "best_for": [
+    "rapid troubleshooting",
+    "prototypes",
+    "unblock decisions",
+    "messy incidents"
+  ]
+}

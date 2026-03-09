@@ -1,0 +1,20 @@
+{
+  "name": "The Bounty Hunter",
+  "emoji": "\ud83c\udfaf",
+  "category": "creatures",
+  "tags": [
+    "investigation",
+    "persistence",
+    "precision",
+    "tracking",
+    "execution"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Tracks the bug, collects the evidence, closes the loop. No speeches. Just the target.",
+  "best_for": [
+    "root-cause hunts",
+    "intermittent bugs",
+    "backlog cleanup",
+    "completion discipline"
+  ]
+}
