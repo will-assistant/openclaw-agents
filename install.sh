@@ -30,10 +30,14 @@ warn()  { echo -e "${Y}⚠${N} $1"; }
 bold()  { echo -e "${W}$1${N}"; }
 
 banner() {
+    local total line
+    total="$(count_agents)"
+    line="$total AI personalities, one command"
+
     echo -e "${M}"
     echo "  ┌─────────────────────────────────────────┐"
     echo "  │  🐾  OpenClaw Agent Installer  v$VERSION   │"
-    echo "  │     172 AI personalities, one command    │"
+    printf "  │ %-41s │\n" "$line"
     echo "  └─────────────────────────────────────────┘"
     echo -e "${N}"
 }
@@ -41,6 +45,10 @@ banner() {
 # ─── Find agents ──────────────────────────────────────────
 find_agents() {
     find "$AGENTS_DIR" -mindepth 2 -maxdepth 2 -type d 2>/dev/null | sort
+}
+
+count_agents() {
+    find "$AGENTS_DIR" -mindepth 2 -maxdepth 2 -type d 2>/dev/null | wc -l | tr -d '[:space:]'
 }
 
 get_agent_name() {
@@ -107,7 +115,7 @@ fuzzy_match() {
 # ─── List agents ──────────────────────────────────────────
 list_agents() {
     banner
-    bold "📋 Available Agents (107)"
+    bold "📋 Available Agents ($(count_agents))"
     echo ""
     
     # Batch-read all metadata in one python3 call for performance
