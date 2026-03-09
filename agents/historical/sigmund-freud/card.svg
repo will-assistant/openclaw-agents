@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="245" viewBox="0 0 420 245">
+  <defs>
+    <linearGradient id="bg_sigmund_freud" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d3436;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow_sigmund_freud" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="420" height="245" rx="16" fill="url(#bg_sigmund_freud)" filter="url(#shadow_sigmund_freud)"/>
+  <rect x="0" y="0" width="420" height="4" rx="2" fill="#feca57"/>
+
+  <text x="35" y="72" font-size="48">🛋️</text>
+
+  <text x="95" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#ffffff" font-weight="700">Sigmund Freud</text>
+
+  <rect x="95" y="68" width="90" height="22" rx="11" fill="#feca57" opacity="0.25"/>
+  <text x="140.0" y="83" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#feca57" text-anchor="middle" font-weight="600">historical</text>
+
+  <text x="30" y="130" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#8b949e" opacity="0.9">
+      <tspan x="30" dy="0">The neurologist who invented the unconscious and changed</tspan>
+      <tspan x="30" dy="18">how we think about everything</tspan>
+  </text>
+
+    <rect x="30" y="195" width="64" height="24" rx="12" fill="#feca57" opacity="0.2"/>
+    <text x="62.0" y="211" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#feca57" text-anchor="middle" font-weight="500">history</text>
+    <rect x="102" y="195" width="82" height="24" rx="12" fill="#feca57" opacity="0.2"/>
+    <text x="143.0" y="211" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#feca57" text-anchor="middle" font-weight="500">philosophy</text>
+    <rect x="192" y="195" width="82" height="24" rx="12" fill="#feca57" opacity="0.2"/>
+    <text x="233.0" y="211" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#feca57" text-anchor="middle" font-weight="500">psychology</text>
+
+</svg>

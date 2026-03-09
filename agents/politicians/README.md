@@ -1,6 +1,6 @@
 # 🏛️ Politicians
 
-**21 agents** in this category.
+**22 agents** in this category.
 
 ---
 
@@ -15,6 +15,20 @@
 📁 [`aoc/`](aoc/)
 
 ![Alexandria Ocasio-Cortez (AOC)](aoc/card.svg)
+
+---
+
+## 🔬 Angela Merkel
+
+> Physics PhD who ran Germany for 16 years by being exactly as calm, methodical, and evidence-based as required
+
+**Tags:** politics, chancellor, leadership, europe
+**Difficulty:** intermediate
+**Best for:** decision-making under uncertainty, evidence-based reasoning, crisis management
+
+📁 [`angela-merkel/`](angela-merkel/)
+
+![Angela Merkel](angela-merkel/card.svg)
 
 ---
 
@@ -70,6 +84,8 @@
 
 📁 [`elizabeth-warren/`](elizabeth-warren/)
 
+![Elizabeth Warren](elizabeth-warren/card.svg)
+
 ---
 
 ## 🤠 George W. Bush
@@ -83,6 +99,20 @@
 📁 [`george-w-bush/`](george-w-bush/)
 
 ![George W. Bush](george-w-bush/card.svg)
+
+---
+
+## 🚂 Joe Biden
+
+> Here's the deal — this assistant actually cares about your code. Not a joke.
+
+**Tags:** politician, personality, comedy
+**Difficulty:** intermediate
+**Best for:** entertainment, pep-talks, code-review
+
+📁 [`joe-biden/`](joe-biden/)
+
+![Joe Biden](joe-biden/card.svg)
 
 ---
 
@@ -100,17 +130,17 @@
 
 ---
 
-## 🚂 Joe Biden
+## 🔨 Margaret Thatcher
 
-> Here's the deal — this assistant actually cares about your code. Not a joke.
+> The grocer's daughter who handbagged British decline into submission — there is no alternative, and she proved it.
 
-**Tags:** politician, personality, comedy
+**Tags:** leadership, economics, british, conservatism, iron-willed, free-market, decisive
 **Difficulty:** intermediate
-**Best for:** entertainment, pep-talks, code-review
+**Best for:** tough decisions, budget discipline, leadership under pressure, pushing through change, cutting through consensus paralysis
 
-📁 [`joe-biden/`](joe-biden/)
+📁 [`margaret-thatcher/`](margaret-thatcher/)
 
-![Joe Biden](joe-biden/card.svg)
+![Margaret Thatcher](margaret-thatcher/card.svg)
 
 ---
 
@@ -156,6 +186,20 @@
 
 ---
 
+## 🚌 Pete Buttigieg
+
+> Rhodes Scholar mayor-turned-cabinet secretary who explains infrastructure like a patient professor who's done the reading
+
+**Tags:** politics, transportation, wonk, democrat
+**Difficulty:** intermediate
+**Best for:** clear explanations, policy communication, structured argumentation
+
+📁 [`pete-buttigieg/`](pete-buttigieg/)
+
+![Pete Buttigieg](pete-buttigieg/card.svg)
+
+---
+
 ## 🔍 Rand Paul
 
 > The only senator who actually read the bill — and will stand at the podium for 13 hours to explain why it's unconstitutional.
@@ -165,6 +209,22 @@
 **Best for:** constitutional arguments, civil liberties, skeptical questioning, budget analysis
 
 📁 [`rand-paul/`](rand-paul/)
+
+![Rand Paul](rand-paul/card.svg)
+
+---
+
+## 🕵️ Richard Nixon
+
+> Brilliant, paranoid, and calculating — opened China, ended the draft, and then taped himself into a constitutional crisis.
+
+**Tags:** politics, president, cold-war, watergate, strategy, foreign-policy
+**Difficulty:** advanced
+**Best for:** strategic thinking, geopolitical analysis, crisis communication, decisions under pressure
+
+📁 [`richard-nixon/`](richard-nixon/)
+
+![Richard Nixon](richard-nixon/card.svg)
 
 ---
 
@@ -206,6 +266,22 @@
 
 📁 [`ronald-reagan/`](ronald-reagan/)
 
+![Ronald Reagan](ronald-reagan/card.svg)
+
+---
+
+## 🦅 Vivek Ramaswamy
+
+> Biotech billionaire turned culture warrior — takes every argument to its logical extreme at maximum speed
+
+**Tags:** politics, entrepreneur, conservative, anti-woke
+**Difficulty:** intermediate
+**Best for:** high-energy debate prep, first-principles argumentation, entrepreneurial framing
+
+📁 [`vivek-ramaswamy/`](vivek-ramaswamy/)
+
+![Vivek Ramaswamy](vivek-ramaswamy/card.svg)
+
 ---
 
 ## 🇺🇦 Volodymyr Zelensky
@@ -224,41 +300,15 @@
 
 ## 🎩 Winston Churchill
 
-> We shall fight in the tickets, we shall fight in the code reviews, we shall fight in the production incidents — we shall never surrender the sprint goal.
+> We shall fight in the tickets, we shall fight in the code reviews — we shall never surrender the sprint goal.
 
 **Tags:** leadership, rhetoric, history, wartime, british, oratory, wit
 **Difficulty:** advanced
-**Best for:** team leadership in crisis, strategic advice, motivation, difficult client conversations
+**Best for:** team leadership, project crisis, motivation, strategic advice, difficult client conversations
 
 📁 [`winston-churchill/`](winston-churchill/)
 
 ![Winston Churchill](winston-churchill/card.svg)
-
----
-
-## 🔨 Margaret Thatcher
-
-> The lady's not for turning — grocer's daughter who handbagged British decline into submission.
-
-**Tags:** leadership, economics, british, conservatism, iron-willed, free-market  
-**Difficulty:** intermediate  
-**Best for:** tough decisions, budget discipline, cutting through consensus paralysis, pushing through change
-
-📁 [`margaret-thatcher/`](margaret-thatcher/)
-
-![Margaret Thatcher](margaret-thatcher/card.svg)
-
----
-
-## 🕵️ Richard Nixon
-
-> Brilliant, paranoid, and calculating — opened China, ended the draft, and then taped himself into a constitutional crisis.
-
-**Tags:** politics, president, cold-war, watergate, strategy, foreign-policy
-**Difficulty:** advanced
-**Best for:** strategic thinking, geopolitical analysis, crisis communication, decisions under pressure
-
-📁 [`richard-nixon/`](richard-nixon/)
 
 ---
 

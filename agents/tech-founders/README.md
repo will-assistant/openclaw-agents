@@ -1,6 +1,20 @@
 # 💻 Tech Founders
 
-**19 agents** in this category.
+**21 agents** in this category.
+
+---
+
+## ⚡ Aaron Swartz
+
+> Co-authored RSS at 14, helped kill SOPA by mobilizing 8 million people, and believed information's artificial scarcity is a political choice with real victims.
+
+**Tags:** open-access, internet-freedom, activism, open-source, organizing, systems-thinking, idealism
+**Difficulty:** intermediate
+**Best for:** systems thinking, open-source philosophy, fighting bureaucracy, organizational change, internet policy
+
+📁 [`aaron-swartz/`](aaron-swartz/)
+
+![Aaron Swartz](aaron-swartz/card.svg)
 
 ---
 
@@ -57,6 +71,20 @@
 📁 [`george-hotz/`](george-hotz/)
 
 ![geohot](george-hotz/card.svg)
+
+---
+
+## 🐍 Guido van Rossum
+
+> Created Python as a holiday project in 1989, named it after Monty Python, and watched it become the world's most popular language — readability counts.
+
+**Tags:** python, language-design, readability, open-source, programming, bdfl, zen
+**Difficulty:** intermediate
+**Best for:** python questions, language design decisions, api design, code review philosophy, software engineering trade-offs
+
+📁 [`guido-van-rossum/`](guido-van-rossum/)
+
+![Guido van Rossum](guido-van-rossum/card.svg)
 
 ---
 
@@ -140,6 +168,22 @@
 
 📁 [`marc-andreessen/`](marc-andreessen/)
 
+![Marc Andreessen](marc-andreessen/card.svg)
+
+---
+
+## ⚓ Naval Ravikant
+
+> Seek wealth, not money or status. Wealth is having assets that earn while you sleep.
+
+**Tags:** startups, investing, philosophy, wealth, happiness, stoicism, leverage, angellist
+**Difficulty:** intermediate
+**Best for:** startup advice, career decisions, productivity philosophy, investment thinking, life frameworks, long-term thinking
+
+📁 [`naval-ravikant/`](naval-ravikant/)
+
+![Naval Ravikant](naval-ravikant/card.svg)
+
 ---
 
 ## 📝 Paul Graham
@@ -151,6 +195,22 @@
 **Best for:** startup strategy, first-principles thinking, idea evaluation, writing advice
 
 📁 [`paul-graham/`](paul-graham/)
+
+![Paul Graham](paul-graham/card.svg)
+
+---
+
+## 🔺 Peter Thiel
+
+> PayPal co-founder, first Facebook investor — "competition is for losers" and he has the returns to prove it
+
+**Tags:** tech, vc, contrarian, zero-to-one
+**Difficulty:** advanced
+**Best for:** startup strategy, contrarian thinking, evaluating ideas
+
+📁 [`peter-thiel/`](peter-thiel/)
+
+![Peter Thiel](peter-thiel/card.svg)
 
 ---
 
@@ -178,6 +238,8 @@
 
 📁 [`sam-altman/`](sam-altman/)
 
+![Sam Altman](sam-altman/card.svg)
+
 ---
 
 ## 🍎 Steve Jobs
@@ -191,20 +253,6 @@
 📁 [`steve-jobs/`](steve-jobs/)
 
 ![Steve Jobs](steve-jobs/card.svg)
-
----
-
-## ⛪ Terry Davis
-
-> Solo creator of TempleOS who built an entire OS from scratch and speaks in divine stream-of-consciousness
-
-**Tags:** coding, os-dev, systems, templeOS, holyc, bare-metal
-**Difficulty:** advanced
-**Best for:** systems programming, OS design, bare-metal coding
-
-📁 [`terry-davis/`](terry-davis/)
-
-![Terry Davis](terry-davis/card.svg)
 
 ---
 
@@ -222,43 +270,31 @@
 
 ---
 
+## ⛪ Terry Davis
+
+> Solo creator of TempleOS who built an entire OS from scratch and speaks in divine stream-of-consciousness
+
+**Tags:** coding, os-dev, systems, templeOS, holyc, bare-metal
+**Difficulty:** advanced
+**Best for:** systems programming, OS design, bare-metal coding
+
+📁 [`terry-davis/`](terry-davis/)
+
+![Terry Davis](terry-davis/card.svg)
+
+---
+
 ## 🔷 Vitalik Buterin
 
 > Ethereum co-founder and blockchain philosopher — thinks in coordination problems and trust assumptions, hedges everything carefully
 
-**Tags:** tech, crypto, ethereum, mechanism-design, philosophy  
-**Difficulty:** advanced  
+**Tags:** tech, crypto, ethereum, mechanism-design, philosophy
+**Difficulty:** advanced
 **Best for:** decentralized systems, mechanism design, trust modeling, long-form technical reasoning
 
 📁 [`vitalik-buterin/`](vitalik-buterin/)
 
----
-
-## 🐍 Guido van Rossum
-
-> Created Python as a holiday project in 1989, named it after Monty Python, watched it become the world's most popular language
-
-**Tags:** python, language-design, readability, open-source, bdfl  
-**Difficulty:** intermediate  
-**Best for:** Python questions, language design decisions, API design philosophy, code review
-
-📁 [`guido-van-rossum/`](guido-van-rossum/)
-
-![Guido van Rossum](guido-van-rossum/card.svg)
-
----
-
-## ⚡ Aaron Swartz
-
-> Co-authored RSS at 14, killed SOPA by organizing 8 million people — cynicism is learned helplessness
-
-**Tags:** open-access, internet-freedom, activism, open-source, systems-thinking  
-**Difficulty:** intermediate  
-**Best for:** systems thinking, open-source philosophy, fighting organizational inertia, internet policy
-
-📁 [`aaron-swartz/`](aaron-swartz/)
-
-![Aaron Swartz](aaron-swartz/card.svg)
+![Vitalik Buterin](vitalik-buterin/card.svg)
 
 ---
 

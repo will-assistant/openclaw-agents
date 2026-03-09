@@ -1,6 +1,20 @@
 # 📜 Historical Figures
 
-**13 agents** in this category.
+**19 agents** in this category.
+
+---
+
+## 🎩 Abraham Lincoln
+
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+
+**Tags:** politics, leadership, history, civil-war, democracy, perseverance, wisdom, american
+**Difficulty:** intermediate
+**Best for:** leadership challenges, perseverance through adversity, writing feedback, ethical dilemmas, long-term thinking, storytelling advice
+
+📁 [`abraham-lincoln/`](abraham-lincoln/)
+
+![Abraham Lincoln](abraham-lincoln/card.svg)
 
 ---
 
@@ -8,8 +22,8 @@
 
 > The Enchantress of Numbers — aristocratic, visionary, and utterly certain that computation is an art form
 
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
+**Tags:** history, wisdom, education
+**Difficulty:** advanced
 **Best for:** learning, strategic thinking, perspective
 
 📁 [`ada-lovelace/`](ada-lovelace/)
@@ -18,12 +32,26 @@
 
 ---
 
+## 💡 Albert Einstein
+
+> The thought-experimenter who reimagined the universe and makes the incomprehensible feel intuitive
+
+**Tags:** history, wisdom, education
+**Difficulty:** advanced
+**Best for:** learning, strategic thinking, perspective
+
+📁 [`einstein/`](einstein/)
+
+![Albert Einstein](einstein/card.svg)
+
+---
+
 ## 🪁 Benjamin Franklin
 
 > The original American pragmatist who'd rather kite-fly in a thunderstorm than sit in a committee meeting
 
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
+**Tags:** history, wisdom, education
+**Difficulty:** advanced
 **Best for:** learning, strategic thinking, perspective
 
 📁 [`benjamin-franklin/`](benjamin-franklin/)
@@ -36,8 +64,8 @@
 
 > The multilingual pharaoh who outmaneuvered empires through intelligence, charm, and ruthless strategic clarity
 
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
+**Tags:** history, wisdom, education
+**Difficulty:** advanced
 **Best for:** learning, strategic thinking, perspective
 
 📁 [`cleopatra/`](cleopatra/)
@@ -46,17 +74,31 @@
 
 ---
 
-## 💡 Albert Einstein
+## 🥃 Ernest Hemingway
 
-> The thought-experimenter who reimagined the universe and makes the incomprehensible feel intuitive through sheer imag...
+> The writer who made brevity a style and war a subject — short sentences, deep wounds
 
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
-**Best for:** learning, strategic thinking, perspective
+**Tags:** history, literature, wisdom
+**Difficulty:** advanced
+**Best for:** writing with brevity, editing for clarity, direct feedback
 
-📁 [`einstein/`](einstein/)
+📁 [`ernest-hemingway/`](ernest-hemingway/)
 
-![Albert Einstein](einstein/card.svg)
+![Ernest Hemingway](ernest-hemingway/card.svg)
+
+---
+
+## ⚡ Friedrich Nietzsche
+
+> The philosopher who declared God dead and dared you to become who you are
+
+**Tags:** history, philosophy, wisdom
+**Difficulty:** advanced
+**Best for:** philosophical reframing, challenging assumptions, big-picture thinking
+
+📁 [`friedrich-nietzsche/`](friedrich-nietzsche/)
+
+![Friedrich Nietzsche](friedrich-nietzsche/card.svg)
 
 ---
 
@@ -64,8 +106,8 @@
 
 > The original multidisciplinary genius who sees connections everywhere and sketches solutions in the margins
 
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
+**Tags:** history, wisdom, education
+**Difficulty:** advanced
 **Best for:** learning, strategic thinking, perspective
 
 📁 [`leonardo-da-vinci/`](leonardo-da-vinci/)
@@ -78,8 +120,8 @@
 
 > The last good emperor, journaling his way through chaos with radical acceptance and quiet strength
 
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
+**Tags:** history, wisdom, education
+**Difficulty:** advanced
 **Best for:** learning, strategic thinking, perspective
 
 📁 [`marcus-aurelius/`](marcus-aurelius/)
@@ -87,77 +129,6 @@
 ![Marcus Aurelius](marcus-aurelius/card.svg)
 
 ---
-
-## ⚡ Nikola Tesla
-
-> The visionary inventor who sees the universe in electromagnetic waves and builds the future in his mind before touchi...
-
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
-**Best for:** learning, strategic thinking, perspective
-
-📁 [`nikola-tesla/`](nikola-tesla/)
-
-![Nikola Tesla](nikola-tesla/card.svg)
-
----
-
-## 🎭 William Shakespeare
-
-> The playwright who sees all of life as drama, invents words on the fly, and finds the human story in every code review
-
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
-**Best for:** learning, strategic thinking, perspective
-
-📁 [`shakespeare/`](shakespeare/)
-
-![William Shakespeare](shakespeare/card.svg)
-
----
-
-## ❓ Socrates
-
-> The original gadfly who knows nothing, proves you don't either, and somehow that's incredibly helpful
-
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
-**Best for:** learning, strategic thinking, perspective
-
-📁 [`socrates/`](socrates/)
-
-![Socrates](socrates/card.svg)
-
----
-
-## ⚔️ Sun Tzu
-
-> Ancient general who turns every problem into a winnable campaign through patience, positioning, and preparation
-
-**Tags:** history, wisdom, education  
-**Difficulty:** advanced  
-**Best for:** learning, strategic thinking, perspective
-
-📁 [`sun-tzu/`](sun-tzu/)
-
-![Sun Tzu](sun-tzu/card.svg)
-
----
-
-## 🦁 Theodore Roosevelt
-
-> Delivered a speech after being shot. Explored the Amazon at 55. Charged San Juan Hill on horseback. You're at 40%.
-
-**Tags:** history, leadership, action, courage, conservation  
-**Difficulty:** intermediate  
-**Best for:** overcoming fear of failure, team morale, dealing with bullies, motivation
-
-📁 [`theodore-roosevelt/`](theodore-roosevelt/)
-
-![Theodore Roosevelt](theodore-roosevelt/card.svg)
-
----
-
 
 ## 🎩 Mark Twain
 
@@ -168,6 +139,22 @@
 **Best for:** dry social commentary, cutting through hypocrisy, writing advice, American political observation
 
 📁 [`mark-twain/`](mark-twain/)
+
+![Mark Twain](mark-twain/card.svg)
+
+---
+
+## ⚔️ Napoleon Bonaparte
+
+> Made himself Emperor because no one else was competent enough — and was mostly right
+
+**Tags:** history, leadership, strategy
+**Difficulty:** advanced
+**Best for:** strategic planning, leadership, decision-making under pressure
+
+📁 [`napoleon-bonaparte/`](napoleon-bonaparte/)
+
+![Napoleon Bonaparte](napoleon-bonaparte/card.svg)
 
 ---
 
@@ -180,6 +167,106 @@
 **Best for:** political strategy, power dynamics, ruthless pragmatism, organizational leadership, realist analysis
 
 📁 [`niccolo-machiavelli/`](niccolo-machiavelli/)
+
+![Niccolò Machiavelli](niccolo-machiavelli/card.svg)
+
+---
+
+## ⚡ Nikola Tesla
+
+> The visionary inventor who sees the universe in electromagnetic waves and builds the future in his mind
+
+**Tags:** history, wisdom, education
+**Difficulty:** advanced
+**Best for:** learning, strategic thinking, perspective
+
+📁 [`nikola-tesla/`](nikola-tesla/)
+
+![Nikola Tesla](nikola-tesla/card.svg)
+
+---
+
+## 🌹 Oscar Wilde
+
+> The greatest conversationalist of the Victorian age, armed with epigrams and a conviction that beauty is the only serious business
+
+**Tags:** history, literature, wit
+**Difficulty:** intermediate
+**Best for:** creative writing, wit, finding non-obvious angles
+
+📁 [`oscar-wilde/`](oscar-wilde/)
+
+![Oscar Wilde](oscar-wilde/card.svg)
+
+---
+
+## 🛋️ Sigmund Freud
+
+> The neurologist who invented the unconscious and changed how we think about everything
+
+**Tags:** history, philosophy, psychology
+**Difficulty:** advanced
+**Best for:** psychological analysis, interpreting motives, deep introspection
+
+📁 [`sigmund-freud/`](sigmund-freud/)
+
+![Sigmund Freud](sigmund-freud/card.svg)
+
+---
+
+## ❓ Socrates
+
+> The original gadfly who knows nothing, proves you don't either, and somehow that's incredibly helpful
+
+**Tags:** history, wisdom, education
+**Difficulty:** advanced
+**Best for:** learning, strategic thinking, perspective
+
+📁 [`socrates/`](socrates/)
+
+![Socrates](socrates/card.svg)
+
+---
+
+## ⚔️ Sun Tzu
+
+> Ancient general who turns every problem into a winnable campaign through patience, positioning, and preparation
+
+**Tags:** history, wisdom, education
+**Difficulty:** advanced
+**Best for:** learning, strategic thinking, perspective
+
+📁 [`sun-tzu/`](sun-tzu/)
+
+![Sun Tzu](sun-tzu/card.svg)
+
+---
+
+## 🦁 Theodore Roosevelt
+
+> The man who delivered a speech after getting shot, then explored the Amazon at 55 — just ship the thing and charge the hill.
+
+**Tags:** leadership, action, conservation, history, courage, strenuous, american
+**Difficulty:** intermediate
+**Best for:** overcoming fear of failure, team morale, dealing with bullies, leadership under adversity, motivation
+
+📁 [`theodore-roosevelt/`](theodore-roosevelt/)
+
+![Theodore Roosevelt](theodore-roosevelt/card.svg)
+
+---
+
+## 🎭 William Shakespeare
+
+> The playwright who sees all of life as drama, invents words on the fly, and finds the human story in every code review
+
+**Tags:** history, wisdom, education
+**Difficulty:** advanced
+**Best for:** learning, strategic thinking, perspective
+
+📁 [`shakespeare/`](shakespeare/)
+
+![William Shakespeare](shakespeare/card.svg)
 
 ---
 
