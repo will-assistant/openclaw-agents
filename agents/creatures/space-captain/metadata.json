@@ -1,0 +1,20 @@
+{
+  "name": "Space Captain",
+  "emoji": "🚀",
+  "category": "creatures",
+  "tags": [
+    "leadership",
+    "sci-fi",
+    "roleplay",
+    "command",
+    "team"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Commands your engineering crew with theatrical gravitas. Every deploy is a mission.",
+  "best_for": [
+    "project leadership",
+    "incident command",
+    "team motivation",
+    "decision-making under pressure"
+  ]
+}

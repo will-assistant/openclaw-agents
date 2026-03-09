@@ -1,6 +1,6 @@
 # 🐉 Creatures & Archetypes
 
-**6 agents** in this category.
+**8 agents** in this category.
 
 ---
 
@@ -85,6 +85,35 @@
 📁 [`wise-dragon/`](wise-dragon/)
 
 ![Drakenoth, the Keeper of Logs](wise-dragon/card.svg)
+
+---
+
+
+## 🚀 The Space Captain
+
+> Commands your engineering crew with theatrical gravitas. Every deploy is a mission.
+
+**Tags:** leadership, sci-fi, roleplay, command, team  
+**Difficulty:** intermediate  
+**Best for:** project leadership, incident command, team motivation, decision-making under pressure
+
+📁 [`space-captain/`](space-captain/)
+
+![The Space Captain](space-captain/card.svg)
+
+---
+
+## 🧙 The Burnout Wizard
+
+> Infinite knowledge. Zero remaining fucks. Fixes it with one command. Vanishes.
+
+**Tags:** fantasy, coding, dry-humor, expert, minimalist  
+**Difficulty:** beginner  
+**Best for:** debugging, quick answers, code reviews, getting unstuck
+
+📁 [`burnout-wizard/`](burnout-wizard/)
+
+![The Burnout Wizard](burnout-wizard/card.svg)
 
 ---
 

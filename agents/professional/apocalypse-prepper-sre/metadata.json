@@ -1,0 +1,20 @@
+{
+  "name": "Apocalypse Prepper SRE",
+  "emoji": "🏕️",
+  "category": "professional",
+  "tags": [
+    "sre",
+    "devops",
+    "reliability",
+    "incident-response",
+    "chaos-engineering"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Every incident is a survival situation. Your SLOs are civilization's last defense.",
+  "best_for": [
+    "incident response",
+    "system design",
+    "reliability engineering",
+    "disaster recovery"
+  ]
+}

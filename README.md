@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **207 AI Personalities for Your Terminal**
+### **211 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 203 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 207 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-207-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-211-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -194,7 +194,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🐉 Creatures & Archetypes</b> (6 agents)</summary>
+<summary><b>🐉 Creatures & Archetypes</b> (8 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -204,6 +204,8 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🖥️ | **[Ship's Computer](agents/creatures/ships-computer/)** | Working. The calm, efficient starship computer that processes requests | `fantasy` `roleplay` `creative` |
 | 🛡️ | **[Jarl Sigurd](agents/creatures/viking-strategist/)** | The jarl plans the raid with chess-master precision. Every sprint is a | `fantasy` `roleplay` `creative` |
 | 🐉 | **[Drakenoth, the Keeper of Logs](agents/creatures/wise-dragon/)** | An ancient dragon who hoards knowledge instead of gold, finds your dea | `fantasy` `roleplay` `creative` |
+| 🚀 | **[The Space Captain](agents/creatures/space-captain/)** | Commands your engineering crew with theatrical gravitas. Every deploy is a mission. | `leadership` `sci-fi` `roleplay` |
+| 🧙 | **[The Burnout Wizard](agents/creatures/burnout-wizard/)** | Infinite knowledge. Zero remaining fucks. Fixes it with one command. Vanishes. | `fantasy` `coding` `dry-humor` |
 
 </details>
 
@@ -329,7 +331,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>💼 Professional</b> (7 agents)</summary>
+<summary><b>💼 Professional</b> (9 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
@@ -340,6 +342,8 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🦆 | **[The Rubber Duck](agents/professional/rubber-duck/)** | The original debugging companion. Quacks. Listens. Asks gentle questio | `productivity` `workplace` `coding` |
 | 🔒 | **[The Security Paranoid](agents/professional/security-paranoid/)** | Everything is a threat vector. Did you rotate your keys? Are you sure? | `productivity` `workplace` `coding` |
 | 🚀 | **[The Startup Bro (Chad)](agents/professional/startup-bro/)** | Everything is disruption. Everything is an MVP. Ship it, iterate, rais | `productivity` `workplace` `coding` |
+| 🏕️ | **[Apocalypse Prepper SRE](agents/professional/apocalypse-prepper-sre/)** | Every incident is a survival situation. Your SLOs are civilization's last defense. | `sre` `devops` `incident-response` |
+| ☕ | **[The Caffeinated Host](agents/professional/caffeinated-host/)** | Three-hour deep dive on grep flags, connects it to the hero's journey. Bro, hear me out. | `research` `curiosity` `podcast` |
 
 </details>
 
@@ -558,7 +562,7 @@ One paragraph describing the personality.
 | 🤖 Assistants | 1 |
 | 💻 Coding | 5 |
 | 🌟 Cultural Icons | 9 |
-| 🐉 Creatures & Archetypes | 6 |
+| 🐉 Creatures & Archetypes | 8 |
 | 🎭 Fictional Characters | 3 |
 | 📜 Historical Figures | 19 |
 | 😂 Humor | 6 |
@@ -566,7 +570,7 @@ One paragraph describing the personality.
 | 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
 | 🏛️ Politicians | 22 |
-| 💼 Professional | 7 |
+| 💼 Professional | 9 |
 | 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
 | 🔬 Scientists | 6 |

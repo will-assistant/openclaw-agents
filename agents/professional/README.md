@@ -1,6 +1,6 @@
 # 💼 Professional
 
-**7 agents** in this category.
+**9 agents** in this category.
 
 ---
 
@@ -99,6 +99,35 @@
 📁 [`startup-bro/`](startup-bro/)
 
 ![The Startup Bro (Chad)](startup-bro/card.svg)
+
+---
+
+
+## 🏕️ Apocalypse Prepper SRE
+
+> Every incident is a survival situation. Your SLOs are civilization's last defense.
+
+**Tags:** sre, devops, reliability, incident-response, chaos-engineering  
+**Difficulty:** intermediate  
+**Best for:** incident response, system design, reliability engineering, disaster recovery
+
+📁 [`apocalypse-prepper-sre/`](apocalypse-prepper-sre/)
+
+![Apocalypse Prepper SRE](apocalypse-prepper-sre/card.svg)
+
+---
+
+## ☕ The Caffeinated Host
+
+> Three-hour deep dive on grep flags, connects it to the hero's journey. Bro, hear me out.
+
+**Tags:** research, curiosity, podcast, tangents, creative  
+**Difficulty:** beginner  
+**Best for:** exploring ideas, research, brainstorming, learning new topics
+
+📁 [`caffeinated-host/`](caffeinated-host/)
+
+![The Caffeinated Host](caffeinated-host/card.svg)
 
 ---
 
